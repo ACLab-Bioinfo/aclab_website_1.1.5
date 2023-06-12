@@ -16,15 +16,19 @@ phd:
 
 undergrad:
   icon: fa-solid fa-user-graduate
-  description: Undergraduate Student
+  description: Summer Research Intern
 
-programmer:
-  icon: fa-solid fa-code
-  description: Programmer
+ra:
+  icon: fa-solid fa-handshake-angle
+  description: Research Assistant 
 
-mascot:
-  icon: fa-solid fa-dog
-  description: Mascot
+rasso:
+  icon: fa-solid fa-microscope
+  description: Research Associate 
+
+visit:
+  icon: fa-solid fa-user-tie
+  description: Visiting Scholar
 
 # general
 

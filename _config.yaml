@@ -1,18 +1,15 @@
 # site properties and page defaults
-title: ACLab-Bioinfo
-subtitle: 
-description: An engaging 1-3 sentence description of your lab.
+title: CHENG Laboratory
+subtitle: of Epigenetics and Therapeutics in Immuno-Oncology
 header: images/background.jpg
 footer: images/background.jpg
 
 # site social media and other links
 links:
-  email: contact@ACLab-Bioinfo.com
+  email: alfredlabmailing@gmail.com
   orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  google-scholar: Alfred S.L. Cheng
   github: ACLab-Bioinfo
-  twitter: ACLab-Bioinfo
-  youtube: ACLab-Bioinfo
 
 ### jekyll settings
 
