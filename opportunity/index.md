@@ -18,7 +18,7 @@ We give careful, individual attention to each applicant. If you’re interested 
 
 ---
 
-For undergraduate students from CUHK, (summer research, FYP ... TBW)
+We also welcome medical students and BSc in Biomedical Sciences who are willing to take part in the Summer Research Internship Programme and Summer Undergraduate Biomedical Research Attachment (SUBRA) organized by the School of Biomedical Sciences(SBS). With this 8-week program, you will engaged in research projects to acquire hands-on research experience and techniques during the summer break. 
 
 
 {% include section.html %}
