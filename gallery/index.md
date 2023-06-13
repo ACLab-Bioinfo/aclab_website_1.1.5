@@ -4,6 +4,9 @@ nav:
   order: 5
 ---
 
+# {% include icon.html icon="fa-solid fa-image-polaroid" %}Gallery
+
+
 {% capture content %}
 
   {% 

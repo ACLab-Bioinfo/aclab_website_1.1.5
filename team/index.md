@@ -20,7 +20,7 @@ Welcome to our lab and get to know our team! Our laboratory members are from dif
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="role: ^(?!phd$)" filters="role: ^(?!undergrad$)" %}
+{% include list.html data="members" component="portrait" filters="role: rasso" filters="role: postdoc" filters="role: ra" %}
 
 ---
 
