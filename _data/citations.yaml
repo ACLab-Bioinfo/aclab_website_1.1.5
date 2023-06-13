@@ -69,8 +69,10 @@
   date: '2019-07-29'
   link: https://doi.org/gj24dm
   orcid: 0000-0003-2345-6951
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: https://lh3.googleusercontent.com/pw/AJFCJaWENHiqE-Hm0mixAYPx63wRs6csille3unsTjzoe__xc8Mqf55hsNkJggVY3rleJCcn2lV8B0xmh4mFqW9oFt54Fi8hDO90i9hxcVS5DEter1GCIisF37OqQOiHT0CMVpgptiOnREqsuYPj65uNHvrz=w1268-h870-s-no
 - id: doi:10.1136/gutjnl-2018-317257
   title: Targeting monocyte-intrinsic enhancer reprogramming improves immunotherapy
     efficacy in hepatocellular carcinoma
@@ -102,8 +104,10 @@
   date: '2019-05-10'
   link: https://doi.org/gk43x8
   orcid: 0000-0003-2345-6951
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: https://gut.bmj.com/content/gutjnl/69/2/365/F8.large.jpg?width=800&height=600&carousel=1
 - id: doi:10.1101/gr.240036.118
   title: New guidelines for DNA methylome studies regarding 5-hydroxymethylcytosine
     for understanding transcriptional regulation
@@ -2592,31 +2596,37 @@
   image: https://gut.bmj.com/content/gutjnl/early/2023/04/04/gutjnl-2022-328364/F8.large.jpg?width=800&height=600&carousel=1
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1016/j.ymthe.2022.09.012
-  title: Fibrotic immune microenvironment remodeling mediates superior anti-tumor
-    efficacy of a nano-PD-L1 trap in hepatocellular carcinoma
+- id: doi:10.1126/scitranslmed.aaz6804
+  title: A selective HDAC8 inhibitor potentiates antitumor immunity and efficacy of
+    immune checkpoint blockade in hepatocellular carcinoma
   authors:
-  - Xiaoyu Liu
+  - Weiqin Yang
+  - Yu Feng
   - Jingying Zhou
-  - Haoran Wu
-  - Shufen Chen
-  - Lingyun Zhang
+  - Otto Ka-Wing Cheung
+  - Jianquan Cao
+  - Jing Wang
   - Wenshu Tang
-  - Liang Duan
-  - Ying Wang
-  - Eleanor McCabe
-  - Mengying Hu
-  - Zhuo Yu
-  - Hanzhuang Liu
-  - Chung Hang Jonathan Choi
-  - Joseph Jao-yiu Sung
-  - Leaf Huang
-  - Rihe Liu
-  - Alfred Sze-lok Cheng
-  publisher: Molecular Therapy
-  date: '2023-01-04'
-  link: https://doi.org/gr2pp7
+  - Yalin Tu
+  - Liangliang Xu
+  - Feng Wu
+  - Zhiwu Tan
+  - Hanyong Sun
+  - Yuan Tian
+  - John Wong
+  - Paul Bo-San Lai
+  - Stephen Lam Chan
+  - Anthony Wing-Hung Chan
+  - Patrick Boon-Ooi Tan
+  - Zhiwei Chen
+  - Joseph Jao-Yiu Sung
+  - Kevin Yuk-Lap Yip
+  - Ka-Fai To
+  - Alfred Sze-Lok Cheng
+  publisher: Science Translational Medicine
+  date: '2021-04-07'
+  link: https://doi.org/gjqjz8
   type: paper
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S1525001622005664-fx1.jpg
+  image: https://www.sbs.cuhk.edu.hk/enewsletter/2021vol11no2/_custom/image-slider/alfred-2.jpg
   plugin: sources.py
   file: sources.yaml
