@@ -1,9 +1,19 @@
 - id: doi:10.1136/gutjnl-2022-328364
   type: paper
   image: https://gut.bmj.com/content/gutjnl/early/2023/04/04/gutjnl-2022-328364/F8.large.jpg?width=800&height=600&carousel=1
-  date: 2023-4-5
+  date: '2023-04-05'
 
-- id: doi:10.1016/j.ymthe.2022.09.012
+- id: doi:10.1126/scitranslmed.aaz6804
   type: paper
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S1525001622005664-fx1.jpg
-  date: 2023-1-4
+  image: https://www.sbs.cuhk.edu.hk/enewsletter/2021vol11no2/_custom/image-slider/alfred-2.jpg
+  date: '2021-04-07'
+
+- id: doi:10.1136/gutjnl-2018-317257
+  type: paper
+  image: https://gut.bmj.com/content/gutjnl/69/2/365/F8.large.jpg?width=800&height=600&carousel=1
+  date: '2019-05-10'
+
+- id: doi:10.1038/s41467-019-11274-x
+  type: paper
+  image: https://lh3.googleusercontent.com/pw/AJFCJaWENHiqE-Hm0mixAYPx63wRs6csille3unsTjzoe__xc8Mqf55hsNkJggVY3rleJCcn2lV8B0xmh4mFqW9oFt54Fi8hDO90i9hxcVS5DEter1GCIisF37OqQOiHT0CMVpgptiOnREqsuYPj65uNHvrz=w1268-h870-s-no
+  date: '2019-07-29'

@@ -11,11 +11,11 @@ nav:
 
 ## Highlighted
 
-{% include citation.html lookup="Targeting PPAR-gamma counteracts tumor adaptation to immune-checkpoint blockade in hepatocellular carcinoma" style="rich" %}
+{% include citation.html lookup="doi:10.1136/gutjnl-2022-328364" style="rich" %}
 
-{% include citation.html lookup="A selective HDAC8 inhibitor potentiates antitumor immunity and efficacy of immune checkpoint blockade in hepatocellular carcinoma" style="rich" %}
+{% include citation.html lookup="doi:10.1126/scitranslmed.aaz6804" style="rich" %}
 
-{% include citation.html lookup="Targeting Monocyte-intrinsic Enhancer Reprogramming Improves Immunotherapy Efficacy in Hepatocellular Carcinoma" style="rich" %}
+{% include citation.html lookup="doi:10.1136/gutjnl-2018-317257" style="rich" %}
 
 {% include citation.html lookup="ER-residential Nogo-B accelerates NAFLD-associated HCC mediated by metabolic reprogramming of oxLDL lipophagy" style="rich" %}
 
@@ -29,7 +29,7 @@ nav:
 
 {% include citation.html lookup="Cell cycle-related kinase mediates viral-host signalling to promote hepatitis B virus-associated hepatocarcinogenesis" style="rich" %}
 
-{% include citation.html lookup="Cell cycle–related kinase is a direct androgen receptor-regulated gene driving ß-catenin/T-cell factor-dependent hepatocarcinogenesis" style="rich" %}
+{% include citation.html lookup="doi:10.1172/JCI45967" style="rich" %}
 
 
 {% include section.html %}
