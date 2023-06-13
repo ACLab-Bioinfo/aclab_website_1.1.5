@@ -1,7 +1,8 @@
 ---
 name: Dr. YANG Weiqin
 image: images/members.img/xiongzhewen.jpg
-role: rasso
+role: ra
+description: Research Associate
 aliases:
   - YANG Weiqin
   - Weiqin Yang

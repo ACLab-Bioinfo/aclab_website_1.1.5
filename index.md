@@ -8,7 +8,7 @@ As ***E***pigenetics and ***T***herapeutics in ***I***mmuno-***O***ncology refer
 
 {%
   include feature.html
-  image="https://lh3.googleusercontent.com/pw/AJFCJaWVFo46YBxDFZckIIRvBPG9OPYZ1Rqpo2rpn0paOYxMh0yuJstfk3gJQESCThq3U15oxr0wvUO6BsEvLDmzW7NEVCdYXnPRt_pcPRLbQMgEsGfhRte0LlWDwa6a1s6-pRxIgWjUaxoa7fhuxMoQ1yc=w1200-h931-s-no"
+  image="images/ETIO.png"
   link="research"
   text=text
 %}
@@ -36,7 +36,7 @@ As ***E***pigenetics and ***T***herapeutics in ***I***mmuno-***O***ncology refer
   image="https://lh3.googleusercontent.com/pw/AJFCJaU_Lv_2s_SF86bjvUahsoALt2FbdRK18-06h0KFH0WwAif716kBmxKPMYb6mJp8AJ5mrOYvt9NJubxKtEnUNJIfGuguOzAz1gwOnKZLRRqrxkU3wM5EOnqUXku73I1yN2EJDYYBdG0NwCducyp7aIE=w2178-h1452-s-no"
   link="members/alfred-cheng.html"
   title="Prof. CHENG Sze Lok Alfred 鄭詩樂教授"
-  flip=false
+  flip=true
   style="bare"
   text=text
 %}
@@ -102,7 +102,7 @@ TBW
   include button.html
   link="team"
   text="Meet our team"
-  icon="fa-solid fa-arrow-right"
+  icon="fa-solid fa-arrow-left"
   flip=true
   style="bare"
 %}
