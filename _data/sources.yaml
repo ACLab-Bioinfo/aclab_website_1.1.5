@@ -3,6 +3,11 @@
   image: https://gut.bmj.com/content/gutjnl/early/2023/04/04/gutjnl-2022-328364/F8.large.jpg?width=800&height=600&carousel=1
   date: '2023-04-05'
 
+- id: doi:10.1038/s41467-019-11274-x
+  type: paper
+  image: https://lh3.googleusercontent.com/pw/AJFCJaWENHiqE-Hm0mixAYPx63wRs6csille3unsTjzoe__xc8Mqf55hsNkJggVY3rleJCcn2lV8B0xmh4mFqW9oFt54Fi8hDO90i9hxcVS5DEter1GCIisF37OqQOiHT0CMVpgptiOnREqsuYPj65uNHvrz=w1268-h870-s-no
+  date: '2019-07-29'
+
 - id: doi:10.1126/scitranslmed.aaz6804
   type: paper
   image: https://www.sbs.cuhk.edu.hk/enewsletter/2021vol11no2/_custom/image-slider/alfred-2.jpg
@@ -13,7 +18,29 @@
   image: https://gut.bmj.com/content/gutjnl/69/2/365/F8.large.jpg?width=800&height=600&carousel=1
   date: '2019-05-10'
 
-- id: doi:10.1038/s41467-019-11274-x
+- id: doi:10.1038/s41467-018-08245-z
   type: paper
-  image: https://lh3.googleusercontent.com/pw/AJFCJaWENHiqE-Hm0mixAYPx63wRs6csille3unsTjzoe__xc8Mqf55hsNkJggVY3rleJCcn2lV8B0xmh4mFqW9oFt54Fi8hDO90i9hxcVS5DEter1GCIisF37OqQOiHT0CMVpgptiOnREqsuYPj65uNHvrz=w1268-h870-s-no
-  date: '2019-07-29'
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-018-08245-z/MediaObjects/41467_2018_8245_Fig1_HTML.png?as=webp
+  date: '2019-01-18'
+
+- id: doi:10.1136/gutjnl-2017-314032
+  type: paper
+  image: https://gut.bmj.com/content/gutjnl/67/5/931/F8.large.jpg?width=800&height=600&carousel=1
+  date: '2017-09-22'
+
+- id: doi:10.1016/j.jhep.2014.11.040
+  type: paper
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0168827814009179-fx1_lrg.jpg
+  date: '2015-05-01'
+
+- id: doi:10.1136/gutjnl-2013-305584
+  type: paper
+  image: https://gut.bmj.com/content/gutjnl/63/11/1793/F8.large.jpg?width=800&height=600&carousel=1
+  date: '2014-01-17'
+
+- id: doi:10.1172/JCI45967
+  type: paper
+  image: https://dm5migu4zj3pb.cloudfront.net/manuscripts/45000/45967/large/JCI45967.f10.jpg
+  date: '2011-08-01'
+
+
