@@ -38,8 +38,10 @@
   date: '2019-01-18'
   link: https://doi.org/gmf2s7
   orcid: 0000-0003-2345-6951
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-018-08245-z/MediaObjects/41467_2018_8245_Fig1_HTML.png?as=webp
 - id: doi:10.1038/s41467-019-11274-x
   title: ER-residential Nogo-B accelerates NAFLD-associated HCC mediated by metabolic
     reprogramming of oxLDL lipophagy
@@ -341,8 +343,10 @@
   date: '2017-09-22'
   link: https://doi.org/gbx247
   orcid: 0000-0003-2345-6951
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: https://gut.bmj.com/content/gutjnl/67/5/931/F8.large.jpg?width=800&height=600&carousel=1
 - id: doi:10.1093/nar/gky589
   title: Loss of tumor suppressor IGFBP4 drives epigenetic reprogramming in hepatic
     carcinogenesis
@@ -1075,8 +1079,10 @@
   date: '2015-05-01'
   link: https://doi.org/f27gkv
   orcid: 0000-0003-2345-6951
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0168827814009179-fx1_lrg.jpg
 - id: doi:10.1002/jcp.24967
   title: "Autophagy Mediates HBx-Induced Nuclear Factor-\u03BAB Activation and Release\
     \ of IL-6, IL-8, and CXCL2 in Hepatocytes"
@@ -1335,8 +1341,10 @@
   date: '2014-01-17'
   link: https://doi.org/f6nctd
   orcid: 0000-0003-2345-6951
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: https://gut.bmj.com/content/gutjnl/63/11/1793/F8.large.jpg?width=800&height=600&carousel=1
 - id: doi:10.1371/journal.pone.0084931
   title: Depletion of Sirtuin 1 (SIRT1) Leads to Epigenetic Modifications of Telomerase
     (TERT) Gene in Hepatocellular Carcinoma Cells
@@ -1862,8 +1870,10 @@
   date: '2011-08-01'
   link: https://doi.org/ff9rxv
   orcid: 0000-0003-2345-6951
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: https://dm5migu4zj3pb.cloudfront.net/manuscripts/45000/45967/large/JCI45967.f10.jpg
 - id: doi:10.1158/0008-5472.CAN-10-3342
   title: "EZH2-Mediated Concordant Repression of Wnt Antagonists Promotes \u03B2-Catenin\u2013\
     Dependent Hepatocarcinogenesis"
