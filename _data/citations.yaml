@@ -534,6 +534,14 @@
   orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
+- id: ':'
+  title: Use of CpG Island Microarray to Interrogate the Cancer Epigenome
+  publisher: Promoter and CpG island Microarrays (Winegarden NA, Takashi M, eds).
+    Pp105-23. DNA Press
+  date: '2019-11-08'
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1002/ijc.30414
   title: EZH2 coupled with HOTAIR to silence MicroRNA-34a by the induction of heterochromatin
     formation in human pancreatic ductal adenocarcinoma
@@ -1577,6 +1585,15 @@
   orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
+- id: eid:2-s2.0-84876744817
+  title: 'Epigenetic deregulation of MicroRNAs: New opportunities to target oncogenic
+    signaling pathways in hepatocellular carcinoma'
+  publisher: Current Pharmaceutical Design
+  date: '2022-05-24'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84876744817&partnerID=MN8TOARS
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.semcancer.2013.08.010
   title: Epigenetic regulation of hepatocellular carcinoma in non-alcoholic fatty
     liver disease
@@ -2313,6 +2330,15 @@
   orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
+- id: eid:2-s2.0-38449112343
+  title: Targeted inhibition of COX-2 expression by RNA interference suppresses tumor
+    growth and potentiates chemosensitivity to cisplatin in human gastric cancer cells
+  publisher: Oncology Reports
+  date: '2022-05-24'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-38449112343&partnerID=MN8TOARS
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1038/sj.leu.2404798
   title: "Transcriptional regulation of parathyroid hormone-related protein promoter\
     \ P2 by NF-\u03BAB in adult T-cell leukemia/lymphoma"
@@ -2401,6 +2427,16 @@
   orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
+- id: eid:2-s2.0-1842852639
+  title: Cyclooxygenase-2 pathway correlates with vascular endothelial growth factor
+    expression and tumor angiogenesis in hepatitis B virus-associated hepatocellular
+    carcinoma.
+  publisher: International journal of oncology
+  date: '2022-05-24'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-1842852639&partnerID=MN8TOARS
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.plefa.2004.04.007
   title: Effect of prostaglandin E2 and prostaglandin I2 on PDGF-induced proliferation
     of LI90, a human hepatic stellate cell line
@@ -2453,6 +2489,15 @@
   publisher: Tissue Engineering
   date: '2003-08-01'
   link: https://doi.org/fjjxrv
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-0344275593
+  title: Specific COX-2 inhibitor, NS-398, suppresses cellular proliferation and induces
+    apoptosis in human hepatocellular carcinoma cells.
+  publisher: International journal of oncology
+  date: '2022-05-24'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-0344275593&partnerID=MN8TOARS
   orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
@@ -2593,5 +2638,123 @@
   link: https://doi.org/gjqjz8
   type: paper
   image: https://www.sbs.cuhk.edu.hk/enewsletter/2021vol11no2/_custom/image-slider/alfred-2.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.ymthe.2022.09.012
+  title: Fibrotic immune microenvironment remodeling mediates superior anti-tumor
+    efficacy of a nano-PD-L1 trap in hepatocellular carcinoma
+  authors:
+  - Xiaoyu Liu
+  - Jingying Zhou
+  - Haoran Wu
+  - Shufen Chen
+  - Lingyun Zhang
+  - Wenshu Tang
+  - Liang Duan
+  - Ying Wang
+  - Eleanor McCabe
+  - Mengying Hu
+  - Zhuo Yu
+  - Hanzhuang Liu
+  - Chung Hang Jonathan Choi
+  - Joseph Jao-yiu Sung
+  - Leaf Huang
+  - Rihe Liu
+  - Alfred Sze-lok Cheng
+  publisher: Molecular Therapy
+  date: '2023-01-01'
+  link: https://doi.org/gr2pp7
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3892/ijo.23.1.113
+  title: Specific COX-2 inhibitor, NS-398, suppresses cellular proliferation and induces
+    apoptosis in human hepatocellular carcinoma cells
+  authors:
+  - Alfred Cheng
+  - Henry Chan
+  - Wai Leung
+  - Nathalie Wong
+  - Philip Johnson
+  - Joseph Sung
+  publisher: International Journal of Oncology
+  date: '2003-07-01'
+  link: https://doi.org/f99srh
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41423-022-00872-3
+  title: Aberrant cholesterol metabolic signaling impairs antitumor immunosurveillance
+    through natural killer T cell dysfunction in obese liver
+  authors:
+  - Wenshu Tang
+  - Jingying Zhou
+  - Weiqin Yang
+  - Yu Feng
+  - Haoran Wu
+  - Myth T. S. Mok
+  - Lingyun Zhang
+  - Zhixian Liang
+  - Xiaoyu Liu
+  - Zhewen Xiong
+  - Xuezhen Zeng
+  - Jing Wang
+  - Jiahuan Lu
+  - Jingqing Li
+  - Hanyong Sun
+  - Xiaoyu Tian
+  - Philip Chun Yeung
+  - Yong Hou
+  - Heung Man Lee
+  - Candice C. H. Lam
+  - Howard H. W. Leung
+  - Anthony W. H. Chan
+  - Ka Fai To
+  - John Wong
+  - Paul B. S. Lai
+  - Kelvin K. C. Ng
+  - Simon K. H. Wong
+  - Vincent W. S. Wong
+  - Alice P. S. Kong
+  - Joseph J. Y. Sung
+  - Alfred S. L. Cheng
+  publisher: Cellular &amp; Molecular Immunology
+  date: '2022-05-20'
+  link: https://doi.org/gr2pp9
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.canlet.2021.10.039
+  title: Sirtuin 7 super-enhancer drives epigenomic reprogramming in hepatocarcinogenesis
+  authors:
+  - Feng Wu
+  - Liangliang Xu
+  - Yalin Tu
+  - Otto KW. Cheung
+  - Lemuel LM. Szeto
+  - Myth TS. Mok
+  - Weiqin Yang
+  - Wei Kang
+  - Qin Cao
+  - Paul BS. Lai
+  - Stephen L. Chan
+  - Patrick Tan
+  - Joseph JY. Sung
+  - Kevin Y. Yip
+  - Alfred SL. Cheng
+  - Ka F. To
+  publisher: Cancer Letters
+  date: '2022-01-01'
+  link: https://doi.org/gr2pqb
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3390/cancers13102418
+  title: Liver Immune Microenvironment and Metastasis from Colorectal Cancer-Pathogenesis
+    and Therapeutic Perspectives
+  authors:
+  - Xuezhen Zeng
+  - Simon E. Ward
+  - Jingying Zhou
+  - Alfred S. L. Cheng
+  publisher: Cancers
+  date: '2021-05-17'
+  link: https://doi.org/gq7jd3
   plugin: sources.py
   file: sources.yaml
