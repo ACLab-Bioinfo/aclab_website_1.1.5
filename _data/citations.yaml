@@ -534,14 +534,6 @@
   orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
-- id: ':'
-  title: Use of CpG Island Microarray to Interrogate the Cancer Epigenome
-  publisher: Promoter and CpG island Microarrays (Winegarden NA, Takashi M, eds).
-    Pp105-23. DNA Press
-  date: '2019-11-08'
-  orcid: 0000-0003-2345-6951
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1002/ijc.30414
   title: EZH2 coupled with HOTAIR to silence MicroRNA-34a by the induction of heterochromatin
     formation in human pancreatic ductal adenocarcinoma
@@ -1585,15 +1577,6 @@
   orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
-- id: eid:2-s2.0-84876744817
-  title: 'Epigenetic deregulation of MicroRNAs: New opportunities to target oncogenic
-    signaling pathways in hepatocellular carcinoma'
-  publisher: Current Pharmaceutical Design
-  date: '2022-05-24'
-  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84876744817&partnerID=MN8TOARS
-  orcid: 0000-0003-2345-6951
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1016/j.semcancer.2013.08.010
   title: Epigenetic regulation of hepatocellular carcinoma in non-alcoholic fatty
     liver disease
@@ -2330,15 +2313,6 @@
   orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
-- id: eid:2-s2.0-38449112343
-  title: Targeted inhibition of COX-2 expression by RNA interference suppresses tumor
-    growth and potentiates chemosensitivity to cisplatin in human gastric cancer cells
-  publisher: Oncology Reports
-  date: '2022-05-24'
-  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-38449112343&partnerID=MN8TOARS
-  orcid: 0000-0003-2345-6951
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1038/sj.leu.2404798
   title: "Transcriptional regulation of parathyroid hormone-related protein promoter\
     \ P2 by NF-\u03BAB in adult T-cell leukemia/lymphoma"
@@ -2427,16 +2401,6 @@
   orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
-- id: eid:2-s2.0-1842852639
-  title: Cyclooxygenase-2 pathway correlates with vascular endothelial growth factor
-    expression and tumor angiogenesis in hepatitis B virus-associated hepatocellular
-    carcinoma.
-  publisher: International journal of oncology
-  date: '2022-05-24'
-  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-1842852639&partnerID=MN8TOARS
-  orcid: 0000-0003-2345-6951
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1016/j.plefa.2004.04.007
   title: Effect of prostaglandin E2 and prostaglandin I2 on PDGF-induced proliferation
     of LI90, a human hepatic stellate cell line
@@ -2489,15 +2453,6 @@
   publisher: Tissue Engineering
   date: '2003-08-01'
   link: https://doi.org/fjjxrv
-  orcid: 0000-0003-2345-6951
-  plugin: orcid.py
-  file: orcid.yaml
-- id: eid:2-s2.0-0344275593
-  title: Specific COX-2 inhibitor, NS-398, suppresses cellular proliferation and induces
-    apoptosis in human hepatocellular carcinoma cells.
-  publisher: International journal of oncology
-  date: '2022-05-24'
-  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-0344275593&partnerID=MN8TOARS
   orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml

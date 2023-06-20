@@ -110,7 +110,7 @@ As ***E***pigenetics and ***T***herapeutics in ***I***mmuno-***O***ncology refer
 
 {%
   include feature.html
-  image="https://lh3.googleusercontent.com/pw/AJFCJaXwP3IbNZBFtHrLpXQ1XAPsHH3yzqaiDUx6sczSo8bDEl_mPXbTko2LWXPFjs1uXRC4w1O1Z_kSaNyqIJvVBIYlX_atZIetCnH1K9_D8DRDobzoX5FYjmQOo8Dwmhb_OGGznyTFdgZs0kjaK7TJmmxL=w2178-h1452-s-no"
+  image="https://lh3.googleusercontent.com/pw/AJFCJaWAhq7VA7w2oqQS0A-6YTm9AZ7lcBGQ2gCLXF58n2c9s7oNUpe52dqQfMoYGxsK9mFEO3MDhOM1U-Okk735YD6EoQ3yxNnU-0phwxpF0CqAeNDqoGtvBi8F4OjHeWGhXZM-SXI4LohVdJtf12XlOnjv=w1418-h945-s-no"
   link="team"
   title="Team"
   text=text

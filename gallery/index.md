@@ -33,6 +33,12 @@ nav:
     caption="Happy Birthday Dear Alfred!"
   %}
 
+  {%
+    include figure.html
+    image="https://lh3.googleusercontent.com/pw/AJFCJaUfAK2sLWL9mIFkGi-kqaDhdinz6OBRVaAmnhb9T4WnMuPfYBKy5QzdboByZg0IqvV-Fvg-GiLEdE_K67ZNl8-kpnNuMHECNxKqKwJajpDOPC7vDbI0bysGMe58LnzTSCX1l0g23cx6B0TcCWWdb2mK=w1699-h1132-s-no"
+    caption="Christmas gift exchanges"
+  %}
+
 {% endcapture %}
 
 {%

@@ -12,13 +12,18 @@ We seek highly-motivated individuals to join our lab! We have multiple positions
 * Research Assistant
 * Visiting Scholar
 
-Research background in (...TBW...) would be an advantage. 
+Applicants should have/be 
+1. preferably has a Master’s degree in Biology, Biochemistry, Immunology, Life Sciences or related fields; 
+2. preferably at least one year of experience in immunology, metabolomics, bioinformatics, molecular biology research, and/or animal experiment; 
+3. an excellent command of spoken and written English and Chinese (Cantonese or Putonghua); 
+4. a team player and willing to work independently; 
+5. able to work overtime and underpressure. 
 
-We give careful, individual attention to each applicant. If you’re interested in joining us, please email **cover letter, CV, and two letters of reference** to Prof. Alfred Cheng (alfredcheng@cuhk.edu.hk)
+We give careful, individual attention to each applicant. If you’re interested in joining us, please email **cover letter, CV, and two letters of reference** to Prof. Cheng.
 
 ---
 
-We also welcome medical students and BSc in Biomedical Sciences who are willing to take part in the Summer Research Internship Programme and Summer Undergraduate Biomedical Research Attachment (SUBRA) organized by the School of Biomedical Sciences(SBS). With this 8-week program, you will engaged in research projects to acquire hands-on research experience and techniques during the summer break. 
+We also welcome medical students and BSc in Biomedical Sciences who are willing to finish final year project or take part in summer research internship prgramme here! With the guidance from Prof. Cheng and lab members, you will engaged in research projects and acquire hands-on research experience and techniques. 
 
 
 {% include section.html %}
