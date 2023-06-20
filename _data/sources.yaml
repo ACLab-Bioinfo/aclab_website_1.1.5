@@ -23,6 +23,11 @@
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-018-08245-z/MediaObjects/41467_2018_8245_Fig1_HTML.png?as=webp
   date: '2019-01-18'
 
+- id: doi:10.1038/s41467-018-07402-8
+  type: paper
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-018-07402-8/MediaObjects/41467_2018_7402_Fig7_HTML.png?as=webp
+  date: '2018-12-06'
+
 - id: doi:10.1136/gutjnl-2017-314032
   type: paper
   image: https://gut.bmj.com/content/gutjnl/67/5/931/F8.large.jpg?width=800&height=600&carousel=1
