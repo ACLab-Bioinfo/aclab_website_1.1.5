@@ -12,7 +12,7 @@ nav:
 
 {% include section.html %}
 
-## Cancer epigenetics
+## **Cancer epigenetics**
 
 {% capture text %}
 DNA and histones are targets of multiple chemical modifications that convey flexibility to the genome. However, these epigenetic events are often hijacked in carcinogenesis. While chronic hepatitis B remains the major etiology of HCC, the growing epidemic of obesity which leads to non-alcoholic fatty liver disease (NAFLD) has emerged as an important risk factor. The rapidly accumulating evidence that epigenetics converts inflammatory and over-nutrient microenvironment into aberrant transcriptional activity thus underscores the fundamental roles of epigenetic regulation in HCC pathogenesis. Through integrated omics, single-cell and high-dimensional flow analysis in preclinical models and clinical specimens, our multi-disciplinary team creates synergistic interactions in the pursuit of cellular and molecular vulnerabilities in NAFLD-associated HCC, with an aim to revert the transcriptional abnormalities in the tumor microenvironment. The long-term goal of our efforts is to develop the next generation of effective and durable epigenetic therapeutics in immuno-oncology for clinical translation.
@@ -20,7 +20,7 @@ DNA and histones are targets of multiple chemical modifications that convey flex
 
 {%
   include feature.html
-  image="https://lh3.googleusercontent.com/pw/AJFCJaWt5MBIdjjggGbqIiv2vmG_S8oiONzQb858EWvjufgNRxLxaHxFKFniNc-ySoQSDZxtZsTjIyvcBPmnN8-we6v2HRjAzrGpJP0NEn3gMxDZRs0oIeGLksmeSV2h08s8eXtCQ0s2tV6eFcOgcGrXbWTk=w1944-h1308-s-no"
+  image="https://lh3.googleusercontent.com/pw/AJFCJaVLZwJqFChY4dvcz449QvjiTA_bxf39BpBWmE6m8qhGx5L4jJcg-aBM6ahOhcQxF9GnNo3KUjvlzS7cS78ORMTlJ0IzbjXAcTYRmZa2iJPDXkD_RNFNPeNJRvvMPsQ96aU4bmHdJO5GJEeQqmd63MLu=w1874-h1252-s-no"
   text=text
 %}
 
@@ -28,7 +28,7 @@ DNA and histones are targets of multiple chemical modifications that convey flex
 
 {% include section.html %}
 
-## Tumor immunology and immunotherapy
+## **Tumor immunology and immunotherapy**
 
 {% capture text %}
 Therapy-induced tumor microenvironment (TME) remodelling poses a major hurdle for cancer cure. As the majority of patients with HCC exhibits primary or acquired resistance to immunotherapies, we aim at unravelling the mechanisms underlying tumor adaptation to immune-checkpoint targeting. By serial orthotopic implantation of HCC cells through anti-PD-(L)1-treated syngeneic, immunocompetent mice, we have established adaptive resistance models that recapitulate the immune landscape of human ‘cold’ HCC and enable identification of actionable targets to improve response. Corroborated with single-cell analysis of HCC tumor biopsies from a pembrolizumab clinical study, we have uncovered adaptive transcriptional and epigenetic programs by which tumor cells acquire immune evasion capacities via a T cell-excluded and immunosuppressive TME, thus providing new strategies for counteracting immunotherapeutic resistance in HCC. 
@@ -37,6 +37,6 @@ Therapy-induced tumor microenvironment (TME) remodelling poses a major hurdle fo
 
 {%
   include feature.html
-  image="https://lh3.googleusercontent.com/pw/AJFCJaWulfnFfXNf48ByTJjlp7FMzRTO985pGIPkPbQjsa1utx_Xf0zr5vKGzwJ8v4NZtwvE9_qezElfUr4I1JoNK80jJJiscTUGV-mTcl3jGtjQEyR7G8mExSrKDBRZgHi9TeZCn49qmRIMUIf6zmAWlMe4=w1958-h1308-s-no"
+  image="https://lh3.googleusercontent.com/pw/AJFCJaWzSamd_xOwajuDkyz4nLqJfmjyBcsRacJWYG4MIxwt4fpaMapVzRc3Kso8LozukSPk0ObLUKHrGf-5CnvVbZ55nbVfwF-bMEyomMR0nI0CISUHWHbKvpYECEEc2w4eCuC-nfj1xpUajltfvyFMYKaD=w1876-h1252-s-no"
   text=text
 %}

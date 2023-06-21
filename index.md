@@ -16,7 +16,7 @@ As ***E***pigenetics and ***T***herapeutics in ***I***mmuno-***O***ncology refer
 {% include section.html %}
 
 
-## Meet our PI
+## **Meet our PI**
 
 {% capture text %}
 
@@ -43,7 +43,7 @@ As ***E***pigenetics and ***T***herapeutics in ***I***mmuno-***O***ncology refer
 
  {% include section.html %}
 
-## Highlights
+## **Highlights**
 
 {% capture text %}
 

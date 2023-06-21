@@ -3,32 +3,20 @@
 # team member roles
 
 pi:
-  icon: fa-solid fa-microscope
   description: Principal Investigator
 
 postdoc:
-  icon: fa-solid fa-glasses
   description: Postdoctoral Researcher
 
 phd:
-  icon: fa-solid fa-graduation-cap
   description: PhD Student
 
 undergrad:
-  icon: fa-solid fa-user-graduate
   description: Summer Research Intern
 
-ra:
-  icon: fa-solid fa-handshake-angle
+staff:
   description: Research Assistant 
 
-rasso:
-  icon: fa-solid fa-microscope
-  description: Research Associate 
-
-visit:
-  icon: fa-solid fa-user-tie
-  description: Visiting Scholar
 
 # general
 
