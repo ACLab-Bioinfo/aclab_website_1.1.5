@@ -2760,3 +2760,49 @@
   link: https://doi.org/gq7jd3
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.3892/ijo.24.4.853
+  title: Cyclooxygenase-2 pathway correlates with vascular endothelial growth factor
+    expression and tumor angiogenesis in hepatitis B virus-associated hepatocellular
+    carcinoma
+  authors:
+  - Alfred Cheng
+  - Henry Chan
+  - Ka To
+  - Wai Leung
+  - Ka Chan
+  - Choong Liew
+  - Joseph Sung
+  publisher: International Journal of Oncology
+  date: '2004-04-01'
+  link: https://doi.org/gsc3sx
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3892/or.18.6.1557
+  title: Targeted inhibition of COX-2 expression by RNA interference suppresses tumor
+    growth and potentiates chemosensitivity to cisplatin in human gastric cancer cells
+  authors:
+  - Michael Chan
+  - Christine Wong
+  - Alfred Cheng
+  - Victor Chan
+  - Ka Chan
+  - Ka To
+  - Francis Chan
+  - Joseph Sung
+  - Wai Leung
+  publisher: Oncology Reports
+  date: '2007-12-01'
+  link: https://doi.org/gsc3sz
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.2174/1381612811319070003
+  title: 'Epigenetic Deregulation of MicroRNAs: New Opportunities to Target Oncogenic
+    Signaling Pathways in Hepatocellular Carcinoma'
+  authors:
+  - Zhuo Yu
+  - Alfred Sze-Lok Cheng
+  publisher: Current Pharmaceutical Design
+  date: '2012-12-01'
+  link: https://doi.org/gsc3s2
+  plugin: sources.py
+  file: sources.yaml
