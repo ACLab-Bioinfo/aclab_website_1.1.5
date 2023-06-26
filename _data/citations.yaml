@@ -37,7 +37,6 @@
   publisher: Nature Communications
   date: '2019-01-18'
   link: https://doi.org/gmf2s7
-  orcid: 0000-0003-2345-6951
   plugin: sources.py
   file: sources.yaml
   type: paper
@@ -70,7 +69,6 @@
   publisher: Nature Communications
   date: '2019-07-29'
   link: https://doi.org/gj24dm
-  orcid: 0000-0003-2345-6951
   plugin: sources.py
   file: sources.yaml
   type: paper
@@ -105,7 +103,6 @@
   publisher: Gut
   date: '2019-05-10'
   link: https://doi.org/gk43x8
-  orcid: 0000-0003-2345-6951
   plugin: sources.py
   file: sources.yaml
   type: paper
@@ -122,7 +119,6 @@
   publisher: Genome Research
   date: '2019-02-19'
   link: https://doi.org/ggqztr
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3390/ijms20071576
@@ -138,7 +134,6 @@
   publisher: International Journal of Molecular Sciences
   date: '2019-03-29'
   link: https://doi.org/gr2rv3
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1111/cas.13920
@@ -169,7 +164,6 @@
   publisher: Cancer Science
   date: '2019-01-25'
   link: https://doi.org/gjrmmx
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/s41388-018-0430-x
@@ -197,7 +191,6 @@
   publisher: Oncogene
   date: '2018-08-06'
   link: https://doi.org/gqfd5g
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/s41467-018-07402-8
@@ -233,7 +226,6 @@
   publisher: Nature Communications
   date: '2018-12-06'
   link: https://doi.org/ggpbjq
-  orcid: 0000-0003-2345-6951
   plugin: sources.py
   file: sources.yaml
   type: paper
@@ -258,7 +250,6 @@
   publisher: EBioMedicine
   date: '2018-09-01'
   link: https://doi.org/gr2rv4
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/s41598-018-22113-2
@@ -282,7 +273,6 @@
   publisher: Scientific Reports
   date: '2018-03-01'
   link: https://doi.org/gn9xmr
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.pharmthera.2018.01.008
@@ -298,7 +288,6 @@
   publisher: Pharmacology &amp; Therapeutics
   date: '2018-06-01'
   link: https://doi.org/gdqs9w
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.canlet.2018.04.004
@@ -314,7 +303,6 @@
   publisher: Cancer Letters
   date: '2018-07-01'
   link: https://doi.org/gdnhgg
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1136/gutjnl-2017-314032
@@ -344,7 +332,6 @@
   publisher: Gut
   date: '2017-09-22'
   link: https://doi.org/gbx247
-  orcid: 0000-0003-2345-6951
   plugin: sources.py
   file: sources.yaml
   type: paper
@@ -376,7 +363,6 @@
   publisher: Nucleic Acids Research
   date: '2018-07-10'
   link: https://doi.org/gfqzdv
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/s41419-017-0134-0
@@ -406,7 +392,6 @@
   publisher: Cell Death &amp; Disease
   date: '2018-01-24'
   link: https://doi.org/ghkrvd
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/annonc/mdy397
@@ -437,7 +422,6 @@
   publisher: Annals of Oncology
   date: '2018-11-01'
   link: https://doi.org/gr2rv5
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/mc.22831
@@ -457,7 +441,6 @@
   publisher: Molecular Carcinogenesis
   date: '2018-05-02'
   link: https://doi.org/gd2h7r
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/s41388-017-0029-7
@@ -485,7 +468,6 @@
   publisher: Oncogene
   date: '2017-12-13'
   link: https://doi.org/gc59bd
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.21037/jtd.2018.10.16
@@ -500,7 +482,6 @@
   publisher: Journal of Thoracic Disease
   date: '2018-11-01'
   link: https://doi.org/gr2rv6
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1111/jcmm.13354
@@ -517,7 +498,6 @@
   publisher: Journal of Cellular and Molecular Medicine
   date: '2017-10-09'
   link: https://doi.org/gb2pt6
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1186/s12967-018-1466-y
@@ -533,15 +513,9 @@
   publisher: Journal of Translational Medicine
   date: '2018-04-12'
   link: https://doi.org/gdhg4r
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: ':'
-  title: Use of CpG Island Microarray to Interrogate the Cancer Epigenome
-  publisher: Promoter and CpG island Microarrays (Winegarden NA, Takashi M, eds).
-    Pp105-23. DNA Press
-  date: '2019-11-08'
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/ijc.30414
@@ -558,7 +532,6 @@
   publisher: International Journal of Cancer
   date: '2016-09-19'
   link: https://doi.org/gr2rv7
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1186/s12943-017-0647-2
@@ -580,7 +553,6 @@
   publisher: Molecular Cancer
   date: '2017-04-11'
   link: https://doi.org/f94nbj
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1136/gutjnl-2015-309800
@@ -629,7 +601,6 @@
   publisher: Gut
   date: '2015-09-25'
   link: https://doi.org/f9mrn6
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/molbev/msw295
@@ -649,7 +620,6 @@
   publisher: Molecular Biology and Evolution
   date: '2017-01-12'
   link: https://doi.org/f9ts6p
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/ng.3950
@@ -671,7 +641,6 @@
   publisher: Nature Genetics
   date: '2017-09-04'
   link: https://doi.org/gb2r5p
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1186/s12864-017-4071-1
@@ -691,7 +660,6 @@
   publisher: BMC Genomics
   date: '2017-09-22'
   link: https://doi.org/gr2rv8
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/onc.2017.257
@@ -714,7 +682,6 @@
   publisher: Oncogene
   date: '2017-07-31'
   link: https://doi.org/gbp4pg
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/path.4976
@@ -743,7 +710,6 @@
   publisher: The Journal of Pathology
   date: '2017-10-27'
   link: https://doi.org/gmhrbw
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/onc.2017.38
@@ -761,7 +727,6 @@
   publisher: Oncogene
   date: '2017-03-20'
   link: https://doi.org/f9vmzs
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3390/ijms18020450
@@ -778,7 +743,6 @@
   publisher: International Journal of Molecular Sciences
   date: '2017-02-20'
   link: https://doi.org/f9xg6h
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/path.4832
@@ -792,7 +756,6 @@
   publisher: The Journal of Pathology
   date: '2016-11-29'
   link: https://doi.org/gmjrgw
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.18632/oncotarget.8209
@@ -811,7 +774,6 @@
   publisher: Oncotarget
   date: '2016-03-19'
   link: https://doi.org/gr2rv9
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.21037/atm.2016.03.01
@@ -824,7 +786,6 @@
   publisher: Annals of Translational Medicine
   date: '2016-03-01'
   link: https://doi.org/gr2rwb
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.21037/tcr.2016.12.34
@@ -837,7 +798,6 @@
   publisher: Translational Cancer Research
   date: '2016-12-01'
   link: https://doi.org/gr2rwc
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/path.4731
@@ -852,7 +812,6 @@
   publisher: The Journal of Pathology
   date: '2016-05-20'
   link: https://doi.org/gr2rwd
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/ecco-jcc/jjw020
@@ -879,7 +838,6 @@
   publisher: Journal of Crohn's and Colitis
   date: '2016-01-22'
   link: https://doi.org/gr2rwf
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3748/wjg.v22.i3.1279
@@ -889,7 +847,6 @@
   publisher: World Journal of Gastroenterology
   date: '2016-01-01'
   link: https://doi.org/f77qfz
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3390/cancers8080076
@@ -903,7 +860,6 @@
   publisher: Cancers
   date: '2016-08-20'
   link: https://doi.org/ghxx3s
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/onc.2015.276
@@ -928,7 +884,6 @@
   publisher: Oncogene
   date: '2015-07-27'
   link: https://doi.org/f8nkt5
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/srep31690
@@ -956,7 +911,6 @@
   publisher: Scientific Reports
   date: '2016-08-16'
   link: https://doi.org/f9ksbt
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3389/fgene.2016.00168
@@ -967,7 +921,6 @@
   publisher: Frontiers in Genetics
   date: '2016-09-20'
   link: https://doi.org/gr2rwg
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1186/s12943-016-0566-7
@@ -983,7 +936,6 @@
   publisher: Molecular Cancer
   date: '2016-12-01'
   link: https://doi.org/gr2rwh
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3390/ijms17010138
@@ -998,7 +950,6 @@
   publisher: International Journal of Molecular Sciences
   date: '2016-01-21'
   link: https://doi.org/f8prdk
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/path.4688
@@ -1035,7 +986,6 @@
   publisher: The Journal of Pathology
   date: '2016-03-17'
   link: https://doi.org/gr2rwj
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1186/s12943-016-0493-7
@@ -1057,7 +1007,6 @@
   publisher: Molecular Cancer
   date: '2016-01-22'
   link: https://doi.org/gr2rwk
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.jhep.2014.11.040
@@ -1080,7 +1029,6 @@
   publisher: Journal of Hepatology
   date: '2015-05-01'
   link: https://doi.org/f27gkv
-  orcid: 0000-0003-2345-6951
   plugin: sources.py
   file: sources.yaml
   type: paper
@@ -1108,7 +1056,6 @@
   publisher: Journal of Cellular Physiology
   date: '2015-06-23'
   link: https://doi.org/gqxhf9
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/path.4512
@@ -1119,7 +1066,6 @@
   publisher: The Journal of Pathology
   date: '2015-03-03'
   link: https://doi.org/gr2rwm
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1158/0008-5472.CAN-14-1301
@@ -1152,7 +1098,6 @@
   publisher: Cancer Research
   date: '2015-02-15'
   link: https://doi.org/f62sk8
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pone.0131750
@@ -1178,7 +1123,6 @@
   publisher: PLOS ONE
   date: '2015-06-25'
   link: https://doi.org/gr2rwn
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1158/0008-5472.CAN-14-3786
@@ -1205,7 +1149,6 @@
   publisher: Cancer Research
   date: '2015-11-15'
   link: https://doi.org/f72j8v
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.canlet.2014.10.016
@@ -1235,7 +1178,6 @@
   publisher: Cancer Letters
   date: '2015-01-01'
   link: https://doi.org/f8k9t6
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.13188/2377-9292.1000010
@@ -1244,7 +1186,6 @@
   publisher: Journal of Cancer Sciences
   date: '2015-01-01'
   link: https://doi.org/gr2rwp
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1186/s12943-015-0323-3
@@ -1267,7 +1208,6 @@
   publisher: Molecular Cancer
   date: '2015-02-22'
   link: https://doi.org/f63v8t
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1186/s12885-015-1984-4
@@ -1282,7 +1222,6 @@
   publisher: BMC Cancer
   date: '2015-12-01'
   link: https://doi.org/f73cb6
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/path.4554
@@ -1304,7 +1243,6 @@
   publisher: The Journal of Pathology
   date: '2015-05-28'
   link: https://doi.org/gr2rwq
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3978/j.issn.2304-3881.2014.02.07
@@ -1317,7 +1255,6 @@
   publisher: Hepatobiliary Surgery and Nutrition
   date: '2014-04-01'
   link: https://doi.org/gr2rws
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1136/gutjnl-2013-305584
@@ -1342,7 +1279,6 @@
   publisher: Gut
   date: '2014-01-17'
   link: https://doi.org/f6nctd
-  orcid: 0000-0003-2345-6951
   plugin: sources.py
   file: sources.yaml
   type: paper
@@ -1358,7 +1294,6 @@
   publisher: PLoS ONE
   date: '2014-01-08'
   link: https://doi.org/f5r8t7
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.18632/oncoscience.62
@@ -1379,7 +1314,6 @@
   publisher: Oncoscience
   date: '2014-07-03'
   link: https://doi.org/gr2rwt
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1186/s12967-014-0281-3
@@ -1398,7 +1332,6 @@
   publisher: Journal of Translational Medicine
   date: '2014-10-05'
   link: https://doi.org/f6qk3b
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3892/or.2014.3094
@@ -1414,7 +1347,6 @@
   publisher: Oncology Reports
   date: '2014-03-19'
   link: https://doi.org/f533zv
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3892/or.2014.3148
@@ -1435,7 +1367,6 @@
   publisher: Oncology Reports
   date: '2014-04-23'
   link: https://doi.org/f545mm
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.2174/0929867321666140205135351
@@ -1455,7 +1386,6 @@
   publisher: Current Medicinal Chemistry
   date: '2014-05-11'
   link: https://doi.org/gr2rww
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.biocel.2014.09.027
@@ -1468,7 +1398,6 @@
   publisher: The International Journal of Biochemistry &amp; Cell Biology
   date: '2014-12-01'
   link: https://doi.org/f6wjh7
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1186/1479-5876-12-80
@@ -1490,7 +1419,6 @@
   publisher: Journal of Translational Medicine
   date: '2014-03-28'
   link: https://doi.org/f545dq
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.4161/auto.25573
@@ -1508,7 +1436,6 @@
   publisher: Autophagy
   date: '2013-10-25'
   link: https://doi.org/grzcnn
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1111/jgh.12090
@@ -1520,7 +1447,6 @@
   publisher: Journal of Gastroenterology and Hepatology
   date: '2013-02-26'
   link: https://doi.org/gr2rwx
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/cncr.27865
@@ -1538,7 +1464,6 @@
   publisher: Cancer
   date: '2012-12-04'
   link: https://doi.org/f4p54g
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/gt.2012.92
@@ -1565,7 +1490,6 @@
   publisher: Gene Therapy
   date: '2012-12-20'
   link: https://doi.org/f49rfj
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.critrevonc.2012.11.009
@@ -1584,16 +1508,9 @@
   publisher: Critical Reviews in Oncology/Hematology
   date: '2013-06-01'
   link: https://doi.org/ghkrkw
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: eid:2-s2.0-84876744817
-  title: 'Epigenetic deregulation of MicroRNAs: New opportunities to target oncogenic
-    signaling pathways in hepatocellular carcinoma'
-  publisher: Current Pharmaceutical Design
-  date: '2022-05-24'
-  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84876744817&partnerID=MN8TOARS
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.semcancer.2013.08.010
@@ -1607,7 +1524,6 @@
   publisher: Seminars in Cancer Biology
   date: '2013-12-01'
   link: https://doi.org/f5mnth
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pone.0063641
@@ -1633,7 +1549,6 @@
   publisher: PLoS ONE
   date: '2013-05-20'
   link: https://doi.org/f4xg72
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.febslet.2013.01.018
@@ -1651,7 +1566,6 @@
   publisher: FEBS Letters
   date: '2013-01-21'
   link: https://doi.org/f4pj9s
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1053/j.gastro.2012.10.002
@@ -1677,7 +1591,6 @@
   publisher: Gastroenterology
   date: '2013-01-01'
   link: https://doi.org/f2jxwh
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/cncr.26189
@@ -1697,7 +1610,6 @@
   publisher: Cancer
   date: '2011-06-29'
   link: https://doi.org/dfkgkc
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/onc.2011.511
@@ -1721,7 +1633,6 @@
   publisher: Oncogene
   date: '2011-11-21'
   link: https://doi.org/b68tmb
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1158/0008-5472.CAN-12-2359
@@ -1750,7 +1661,6 @@
   publisher: Cancer Research
   date: '2012-12-15'
   link: https://doi.org/gr2rwz
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pone.0037572
@@ -1769,7 +1679,6 @@
   publisher: PLoS ONE
   date: '2012-05-29'
   link: https://doi.org/gr2rw2
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1007/s00401-011-0934-8
@@ -1793,7 +1702,6 @@
   publisher: Acta Neuropathologica
   date: '2012-01-17'
   link: https://doi.org/fx3m97
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pone.0033919
@@ -1813,7 +1721,6 @@
   publisher: PLoS ONE
   date: '2012-03-28'
   link: https://doi.org/gr2rw4
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.2174/978160805072711201010021
@@ -1822,7 +1729,6 @@
   publisher: Molecular Aspects of Hepatocellular Carcinoma
   date: '2012-03-11'
   link: https://doi.org/gr2rw5
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pone.0022888
@@ -1848,7 +1754,6 @@
   publisher: PLoS ONE
   date: '2011-08-04'
   link: https://doi.org/fhfzgs
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1172/JCI45967
@@ -1871,7 +1776,6 @@
   publisher: Journal of Clinical Investigation
   date: '2011-08-01'
   link: https://doi.org/ff9rxv
-  orcid: 0000-0003-2345-6951
   plugin: sources.py
   file: sources.yaml
   type: paper
@@ -1900,7 +1804,6 @@
   publisher: Cancer Research
   date: '2011-05-31'
   link: https://doi.org/d93752
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1111/j.1440-1746.2010.06447.x
@@ -1912,7 +1815,6 @@
   publisher: Journal of Gastroenterology and Hepatology
   date: '2010-12-22'
   link: https://doi.org/b8xn65
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1158/0008-5472.CAN-10-3573
@@ -1939,7 +1841,6 @@
   publisher: Cancer Research
   date: '2011-03-01'
   link: https://doi.org/cngqhr
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/carcin/bgq240
@@ -1958,7 +1859,6 @@
   publisher: Carcinogenesis
   date: '2010-11-15'
   link: https://doi.org/dr2q3t
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/hep.23550
@@ -1982,7 +1882,6 @@
   publisher: Hepatology
   date: '2010-01-28'
   link: https://doi.org/c43868
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/ajg.2009.560
@@ -2004,7 +1903,6 @@
   publisher: American Journal of Gastroenterology
   date: '2010-01-01'
   link: https://doi.org/fc9f76
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/gt.2010.41
@@ -2021,7 +1919,6 @@
   publisher: Gene Therapy
   date: '2010-04-08'
   link: https://doi.org/cjkfrt
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pone.0012479
@@ -2041,7 +1938,6 @@
   publisher: PLoS ONE
   date: '2010-08-30'
   link: https://doi.org/bkq2gw
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/onc.2009.332
@@ -2061,7 +1957,6 @@
   publisher: Oncogene
   date: '2009-11-02'
   link: https://doi.org/c3tk3g
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1186/1752-0509-3-73
@@ -2087,7 +1982,6 @@
   publisher: BMC Systems Biology
   date: '2009-07-17'
   link: https://doi.org/c7jgxx
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/ijc.24281
@@ -2107,7 +2001,6 @@
   publisher: International Journal of Cancer
   date: '2009-06-15'
   link: https://doi.org/djr4ff
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1158/0008-5472.CAN-08-4914
@@ -2126,7 +2019,6 @@
   publisher: Cancer Research
   date: '2009-07-15'
   link: https://doi.org/d5p343
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1593/neo.08540
@@ -2148,7 +2040,6 @@
   publisher: Neoplasia
   date: '2008-09-01'
   link: https://doi.org/gjr7kk
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.bbrc.2008.06.098
@@ -2162,7 +2053,6 @@
   publisher: Biochemical and Biophysical Research Communications
   date: '2008-09-01'
   link: https://doi.org/d73c5k
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.bbrc.2008.05.069
@@ -2181,7 +2071,6 @@
   publisher: Biochemical and Biophysical Research Communications
   date: '2008-08-01'
   link: https://doi.org/dgzdmt
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/carcin/bgn115
@@ -2198,7 +2087,6 @@
   publisher: Carcinogenesis
   date: '2008-05-21'
   link: https://doi.org/dnk5z7
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1158/0008-5472.CAN-07-5547
@@ -2221,7 +2109,6 @@
   publisher: Cancer Research
   date: '2008-03-13'
   link: https://doi.org/bntmmf
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/ng.159
@@ -2245,7 +2132,6 @@
   publisher: Nature Genetics
   date: '2008-05-18'
   link: https://doi.org/dj3qd9
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.ccr.2008.10.006
@@ -2267,7 +2153,6 @@
   publisher: Cancer Cell
   date: '2008-11-01'
   link: https://doi.org/dccx8c
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/carcin/bgn156
@@ -2291,7 +2176,6 @@
   publisher: Carcinogenesis
   date: '2008-07-07'
   link: https://doi.org/cmvzcn
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1136/gut.2006.097923
@@ -2312,7 +2196,6 @@
   publisher: Gut
   date: '2007-07-01'
   link: https://doi.org/djnnt5
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.canlet.2007.01.004
@@ -2329,16 +2212,9 @@
   publisher: Cancer Letters
   date: '2007-08-01'
   link: https://doi.org/bdm4hp
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: eid:2-s2.0-38449112343
-  title: Targeted inhibition of COX-2 expression by RNA interference suppresses tumor
-    growth and potentiates chemosensitivity to cisplatin in human gastric cancer cells
-  publisher: Oncology Reports
-  date: '2022-05-24'
-  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-38449112343&partnerID=MN8TOARS
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/sj.leu.2404798
@@ -2359,7 +2235,6 @@
   publisher: Leukemia
   date: '2007-06-07'
   link: https://doi.org/c93gbd
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/bioinformatics/btl329
@@ -2382,7 +2257,6 @@
   publisher: Bioinformatics
   date: '2006-06-29'
   link: https://doi.org/dqbnjs
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.molcel.2005.12.016
@@ -2404,7 +2278,6 @@
   publisher: Molecular Cell
   date: '2006-02-01'
   link: https://doi.org/dszcbp
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1158/0008-5472.CAN-06-1666
@@ -2426,17 +2299,9 @@
   publisher: Cancer Research
   date: '2006-12-15'
   link: https://doi.org/fcvqjh
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: eid:2-s2.0-1842852639
-  title: Cyclooxygenase-2 pathway correlates with vascular endothelial growth factor
-    expression and tumor angiogenesis in hepatitis B virus-associated hepatocellular
-    carcinoma.
-  publisher: International journal of oncology
-  date: '2022-05-24'
-  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-1842852639&partnerID=MN8TOARS
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.plefa.2004.04.007
@@ -2455,7 +2320,6 @@
   publisher: Prostaglandins, Leukotrienes and Essential Fatty Acids (PLEFA)
   date: '2004-11-01'
   link: https://doi.org/bx422p
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/modpathol.3800196
@@ -2473,7 +2337,6 @@
   publisher: Modern Pathology
   date: '2004-10-01'
   link: https://doi.org/b577rz
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1089/107632703768247395
@@ -2491,16 +2354,9 @@
   publisher: Tissue Engineering
   date: '2003-08-01'
   link: https://doi.org/fjjxrv
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: eid:2-s2.0-0344275593
-  title: Specific COX-2 inhibitor, NS-398, suppresses cellular proliferation and induces
-    apoptosis in human hepatocellular carcinoma cells.
-  publisher: International journal of oncology
-  date: '2022-05-24'
-  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-0344275593&partnerID=MN8TOARS
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1046/j.1365-2036.2002.01163.x
@@ -2517,7 +2373,6 @@
   publisher: Alimentary Pharmacology &amp; Therapeutics
   date: '2002-01-18'
   link: https://doi.org/bqr6n6
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1046/j.1365-2036.2001.00918.x
@@ -2534,7 +2389,6 @@
   publisher: Alimentary Pharmacology &amp; Therapeutics
   date: '2001-02-05'
   link: https://doi.org/fn4pvs
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1046/j.1365-2036.2001.00889.x
@@ -2549,7 +2403,6 @@
   publisher: Alimentary Pharmacology &amp; Therapeutics
   date: '2001-01-17'
   link: https://doi.org/cthh6r
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/S0002-9440(10)64586-5
@@ -2566,7 +2419,6 @@
   publisher: The American Journal of Pathology
   date: '2000-09-01'
   link: https://doi.org/cwd45r
-  orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1136/gutjnl-2022-328364
