@@ -8,7 +8,13 @@ nav:
 
 
 {% capture content %}
-
+  
+  {% 
+    include figure.html 
+    image="https://lh3.googleusercontent.com/pw/AJFCJaWJCfo6CpEDBBjNcWeHPtK9Orj5wU5qaNjT10DGPtM_zktV8S4RA67uaQtPeHrhzAxOQKyraV-PSCfev4j1rzPhGH3VoceQr6rOuqTE8kx4Nw079375vjYRjb0_664VRMHwtAewYehycyO7BS_RuZZt=w1744-h1308-s-no"
+    caption="Barbecue party in Shenzhen, Thanks Dr. Xiong"
+  %}
+  
   {% 
     include figure.html 
     image="https://lh3.googleusercontent.com/pw/AJFCJaW6TSIU48Pi8fFPx6EVNIpb6C43IHdvIXK1qPN1NGWZzwL0QgajPfg5zDV0O7XlpS6fNchgjGnOvoFOXCxY9UgC8ZzmZI_D5_RjFctbCUQpcNyKtT5kuAYqLEdyDcAsRGE4uYSSq9HVE2OqaAI75QPE=w2178-h1452-s-no"
@@ -18,7 +24,7 @@ nav:
   {%
     include figure.html
     image="https://lh3.googleusercontent.com/pw/AJFCJaW7F89SAyeUHQJ82mPQsydEuXqz6UmN3mlSDS3Hygwdxn2bqQydCJd-707nveqMXdP0botMABiHeCp1VTof3iau_iLKzvi3EpdmjYKMMnLVVkOWZpyJNZ71x_tCSRvvlqKw4SbJRk_Na2Vafrh1eYHT=w1705-h1137-s-no"
-    caption="Congrads Dr.Xiong for publication!"
+    caption="Lets congrads Dr.Xiong for publication!"
   %}
 
   {%
@@ -36,7 +42,7 @@ nav:
   {%
     include figure.html
     image="https://lh3.googleusercontent.com/pw/AJFCJaUfAK2sLWL9mIFkGi-kqaDhdinz6OBRVaAmnhb9T4WnMuPfYBKy5QzdboByZg0IqvV-Fvg-GiLEdE_K67ZNl8-kpnNuMHECNxKqKwJajpDOPC7vDbI0bysGMe58LnzTSCX1l0g23cx6B0TcCWWdb2mK=w1699-h1132-s-no"
-    caption="Christmas gift exchanges"
+    caption="2022 Christmas gift exchanges"
   %}
 
 {% endcapture %}
