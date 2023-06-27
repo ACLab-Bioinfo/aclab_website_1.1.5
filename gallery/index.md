@@ -11,13 +11,13 @@ nav:
   
   {% 
     include figure.html 
-    image="https://lh3.googleusercontent.com/pw/AJFCJaWJCfo6CpEDBBjNcWeHPtK9Orj5wU5qaNjT10DGPtM_zktV8S4RA67uaQtPeHrhzAxOQKyraV-PSCfev4j1rzPhGH3VoceQr6rOuqTE8kx4Nw079375vjYRjb0_664VRMHwtAewYehycyO7BS_RuZZt=w1744-h1308-s-no"
+    image="https://lh3.googleusercontent.com/pw/AJFCJaXutu2XX3fmJ7nyCajA8vqnIttYRFcgJLWBSlh8HQZxURJjuyc3xXHLUHCMq0bhMgp6XPxAnzrQdWAg_xkmssKdT-njwbOOYZpQfdPcUE_8amGnI-K3KnEvi-TxnOOEcsmbet5JuAhRgbZx32ZdrYXT=w2134-h1422-s-no"
     caption="Barbecue party in Shenzhen, Thanks Dr. Xiong"
   %}
   
   {% 
     include figure.html 
-    image="https://lh3.googleusercontent.com/pw/AJFCJaW6TSIU48Pi8fFPx6EVNIpb6C43IHdvIXK1qPN1NGWZzwL0QgajPfg5zDV0O7XlpS6fNchgjGnOvoFOXCxY9UgC8ZzmZI_D5_RjFctbCUQpcNyKtT5kuAYqLEdyDcAsRGE4uYSSq9HVE2OqaAI75QPE=w2178-h1452-s-no"
+image="https://lh3.googleusercontent.com/pw/AJFCJaW6TSIU48Pi8fFPx6EVNIpb6C43IHdvIXK1qPN1NGWZzwL0QgajPfg5zDV0O7XlpS6fNchgjGnOvoFOXCxY9UgC8ZzmZI_D5_RjFctbCUQpcNyKtT5kuAYqLEdyDcAsRGE4uYSSq9HVE2OqaAI75QPE=w2178-h1452-s-no"
     caption="Set sail for adventure with our friends"
   %}
 
