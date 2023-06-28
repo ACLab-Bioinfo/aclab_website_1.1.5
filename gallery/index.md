@@ -35,7 +35,7 @@ image="https://lh3.googleusercontent.com/pw/AJFCJaW6TSIU48Pi8fFPx6EVNIpb6C43IHdv
 
   {%
     include figure.html
-    image="https://lh3.googleusercontent.com/pw/AJFCJaV1aOhmZ4k0hfTv6UZCV_PLRh6kettzov-tAB7Jid8xtXaOkBPlmNY3EI46NJibtxvFE_UFkYkA8IXbXe0f7ZFUKbqigqmF_56CoqsbMrgbNnk0h68r8kMFwZpyw-lqKQ0PQm0fS85mv37FXqchxIyU=w1685-h990-s-no?authuser=0"
+    image="https://lh3.googleusercontent.com/pw/AJFCJaUAX1E0Sf_LDDs2wzHlApN1G7WIIh-60-VOfOjgLznjVS9CkQgQoIBjKO28aPHn4QEMwi-KR73hYNlCzReEQGTMyAxweywCO4SOHXCTsliChwISP8fm-26Mpf3CmUy0TK-9djvX_pDf_yuuvd0VR9m1=w1692-h1127-s-no"
     caption="Happy Birthday Dear Alfred!"
   %}
 
