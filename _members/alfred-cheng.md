@@ -16,31 +16,48 @@ links:
 # Biography
 Prof. CHENG Sze Lok Alfred is a Professor in the School of Biomedical Sciences and Assistant Dean (Research) of the Faculty of Medicine at The Chinese University of Hong Kong (CUHK). He completed his Ph.D. under the supervision of Prof. Joseph Sung in the Department of Medicine and Therapeutics at CUHK in 2002 and went on his postdoctoral training in Ohio State University until 2007. Prof. Cheng has published in international journals including Molecular Cell, Nature Genetics, Journal of Clinical Investigation, Cancer Research, Gastroenterology, Gut, Journal of Hepatology, Nature Communications and Nucleic Acids Research. He has received >20 academic honors and awards, including recognitions from the American Association of Cancer Research (AACR) and United European Gastroenterology (UEG). He was a recipient of the Most Promising Young Investigator Award by Hong Kong Government (2014) and CUHK (2015). He has been recently awarded the Asa Briggs Visiting Fellowship in 2017 by the University of Sussex and the Visiting Professorship in 2018 by the Southwestern Medical University. Until 2019, he has presided as Principal Investigator (PI)/co-PI in ~30 local and national competitive grants with a sum of over 90 million HK dollars. His current research focuses on the epigenetic mechanisms in tumors and their microenvironment, aiming at the enhancement of cancer immunotherapy.
 
+## CUHK Employment
+* Assistant Dean (Research), Faculty of Medicine  
+* Professor, School of Biomedical Sciences  
+* Chief, Cancer Biology and Experimental Therapeutics Theme, School of Biomedical Sciences  
+ 
+---
+
 ## HONORS AND AWARDS
-* The 10th HMRF Anniversary Award, Food and Health Bureau, Hong Kong Government, 2021
-* Young Researcher Award 2019, CUHK, 2020
-* Experts Panel for Ministry of Science and Technology of China, People Republic of China, 2018 
-* Visiting Professorship, Southwest Medical University, 2018
-* Asa Briggs Visiting Fellowship, University of Sussex, 2017
-* <details><summary> More</summary>
-    <ul>
-      <li>Best Presentation Award, SBS Research Day, 2016</li>
-      <li>Young Researcher Award 2014, CUHK, 2015</li>
-      <li>Most Promising Young Researcher Award, Food and Health Bureau, Hong Kong Government, 2014</li>
-      <li>Oral Free Paper Prize, United European Gastroenterology Week (UEGW), 2013</li>
-      <li>Travel Grant Award for Basic Scientists, UEGW, 2013</li>
-      <li>Oral Free Paper Prize, United European Gastroenterology Week (UEGW), 2012</li>
-      <li>Travel Grant Award for Basic Scientists, UEGW, 2012</li>
-      <li>Travel Grant Award for Basic Scientists, UEGW, 2011</li>
-      <li>High-impact Scholarship 2011-12, CUHK, 2012</li>
-      <li>Research Excellence Award 2011-12, CUHK, 2012</li>
-      <li>AACR-Eli Lilly Scholar-in-Training Award, American Association for Cancer Research (AACR), 2006</li>
-      <li>AACR-AFLAC Scholar-in-Training Award, AACR, 2004</li>
-      <li>AACR-ITO EN, LTD. Scholar-in-Training Award, AACR, 2004</li>
-      <li>Sir Edward Youde Memorial Scholarship, The Sir Edward Youde Memorial Fund, 2001</li>
-      <li>Arthur Yau Award, Hong Kong Orthopaedic Association, 1997</li>
-    </ul>
-  </details>
+* 10th Health and Medical Research Fund Anniversary Award in Breakthrough Research, Food and Health Bureau, The Government of Hong Kong SAR, 2021  
+* CUHK Young Researcher Award, The Chinese University of Hong Kong, 2015, 2020  
+* Visiting Professorship, Southwest Medical University, 2018  
+* Asa Briggs Visiting Fellowship, University of Sussex, 2017   
+* Most Promising Young Investigator Award, Food and Health Bureau, The Government of Hong Kong SAR, 2014  
+* High-impact Scholarship, The Chinese University of Hong Kong, 2012  
+* Research Excellence Award, The Chinese University of Hong Kong, 2012  
+* AACR-Eli Lilly Scholar-in-Training Award, American Association for Cancer Research, 2006  
+* AACR-AFLAC Scholar-in-Training Award, American Association for Cancer Research, 2004  
+* AACR-ITO EN, LTD. Scholar-in-Training Award, American Association for Cancer Research, 2004  
+* Sir Edward Youde Memorial Scholarship, 2001  
+* Arthur Yau Award, 17th Annual Meeting of the Hong Kong Orthopaedic Association, 1997  
+
+---
+
+## Professional Service
+* Experts Panel for Ministry of Science and Technology of China, People's Republic of China
+* Founding Chairman and Council Member, Japan-Taiwan-Hong Kong Working Group on Cancer Epigenomics
+* Founding Member: South China Liver Tumor (START) Working Group
+* Executive Committee Member, Hong Kong Cancer Institute
+* Panel Member, Hong Kong Research Grants Council Joint Research Scheme
+* Panel Member, Hong Kong Research Grants Council Hong Kong PhD Fellowship Scheme
+* Panel Member, Hong Kong Research Grants Council Postdoctoral Fellowship Scheme
+* Panel Member, Health and Medical Research Fund, Hong Kong
+* Council Member, Hong Kong Society for Immunology
+* Member, The Hong Kong Epigenomics Project (EpiHK)
+* Member, Society of Hong Kong Scholars
+* Member, American Association for Cancer Research
+* Associate Editor, Cancers
+* Associate Editor, Frontiers in Genetics
+* Editorial Board Member, Cellular & Molecular Immunology
+* Guest Editor, Journal of Leukocyte Biology
+
+---
 
 ## RESEARCH SUPPORT
 Supported by 35 competitive research grants in PC/PI/co-PI capacity (including 1TBRS/ 4CRF/ 1RIF/ 5GRF/ 6RFCID/ HMRF/ 1NSFC/ 3AstraZeneca Program/ Terry Fox Foundation/ Li Ka Shing Foundation): ~HK$112,000,000.

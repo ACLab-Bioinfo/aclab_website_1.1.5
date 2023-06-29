@@ -73,11 +73,6 @@ Welcome to our lab and get to know our team! Our laboratory members are from dif
 <td markdown="span">Research Fellow, Chongqing Cancer Hospital, Chongqing University</td>
 </tr>
 <tr>
-<td markdown="span">FENG Yu</td>
-<td markdown="span">Ph.D student</td>
-<td markdown="span">Scientist (Junior), BGI-Shenzhen</td>
-</tr>
-<tr>
 <td markdown="span">XIONG Zhewen</td>
 <td markdown="span">Ph.D student</td>
 <td markdown="span">Post-doctoral Fellow, School of Biomedical Sciences, CUHK</td>

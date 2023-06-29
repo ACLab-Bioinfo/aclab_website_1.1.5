@@ -9,7 +9,7 @@ nav:
 
 {% include section.html %}
 
-## Highlighted
+## Highlights
 
 {% include citation.html lookup="doi:10.1136/gutjnl-2022-328364" style="rich" %}
 
