@@ -18,11 +18,11 @@ Welcome to our lab and get to know our team! Our laboratory members are from dif
 
 {% include list.html data="members" component="portrait" filters="role: res" %}
 
-## Postdoctoral Researcher
+## Postdoctoral researcher
 
 {% include list.html data="members" component="portrait" filters="role: postdoc" %}
 
-## Research assistance
+## Research assistant
 
 {% include list.html data="members" component="portrait" filters="role: staff" %}
 
@@ -202,7 +202,7 @@ Welcome to our lab and get to know our team! Our laboratory members are from dif
 <td markdown="span">2023</td>
 <td markdown="span">TIAN Yuan</td>
 <td markdown="span">Ph.D student</td>
-<td markdown="span">Research Assistant Professor, Shenzhen University</td>
+<td markdown="span">Assistant professor, Shenzhen University</td>
 </tr>
 <tr>
 <td markdown="span">2023</td>

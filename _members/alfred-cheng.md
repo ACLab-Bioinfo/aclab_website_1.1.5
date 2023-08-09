@@ -20,10 +20,9 @@ Prof. CHENG Sze Lok Alfred is a Professor in the School of Biomedical Sciences a
 * Assistant Dean (Research), Faculty of Medicine  
 * Professor, School of Biomedical Sciences  
 * Chief, Cancer Biology and Experimental Therapeutics Theme, School of Biomedical Sciences  
- 
----
 
-## HONORS AND AWARDS
+
+## Honors and Awards
 * 10th Health and Medical Research Fund Anniversary Award in Breakthrough Research, Food and Health Bureau, The Government of Hong Kong SAR, 2021  
 * CUHK Young Researcher Award, The Chinese University of Hong Kong, 2015, 2020  
 * Visiting Professorship, Southwest Medical University, 2018  
@@ -37,7 +36,6 @@ Prof. CHENG Sze Lok Alfred is a Professor in the School of Biomedical Sciences a
 * Sir Edward Youde Memorial Scholarship, 2001  
 * Arthur Yau Award, 17th Annual Meeting of the Hong Kong Orthopaedic Association, 1997  
 
----
 
 ## Professional Service
 * Experts Panel for Ministry of Science and Technology of China, People's Republic of China
@@ -57,13 +55,13 @@ Prof. CHENG Sze Lok Alfred is a Professor in the School of Biomedical Sciences a
 * Editorial Board Member, Cellular & Molecular Immunology
 * Guest Editor, Journal of Leukocyte Biology
 
----
 
-## RESEARCH SUPPORT
-Supported by 35 competitive research grants in PC/PI/co-PI capacity (including 1TBRS/ 4CRF/ 1RIF/ 5GRF/ 6RFCID/ HMRF/ 1NSFC/ 3AstraZeneca Program/ Terry Fox Foundation/ Li Ka Shing Foundation): ~HK$112,000,000.
+## Research Support
+Supported by 36 competitive research grants in PC/PI/co-PI capacity (including 1TBRS/ 4CRF/ 1RIF/ 6GRF/ 6RFCID/ HMRF/ 1NSFC/ 3AstraZeneca Program/ Terry Fox Foundation/ Li Ka Shing Foundation): ~HK$113,500,000.
 
 *Selected grant record in cancer immunology and cancer epigenetics:*
 
+* PI, Research Grants Council, General Research Fund, The role of macrophage lipid transfer in driving immunotherapy resistance of hepatocellular carcinoma cells (HK$ 1,500,000), 2024 – 2026.
 * PI, Li Ka Shing (Canada) Foundation, A pilot study of personalized cancer treatment for cancers in the digestive system (HK$7,011,109) 2023 – 2025.  
 * PI, Research Grants Council, General Research Fund, Targeting epigenetic vulnerability in immunosuppressive myeloid cells to overcome immunotherapy resistance in hepatocellular carcinoma (HK$1,170,652) 2022 – 2023.
 * Co-PI, RGC, Research Impact Fund 2020/21, Development and applications of a driver-dependent tumor organoid biobank for translational liver cancer research (HK$4,100,000), 2021 – 2025.

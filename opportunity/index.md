@@ -16,8 +16,7 @@ Applicants should have/be
 1. preferably has a Master’s degree in Biology, Biochemistry, Immunology, Life Sciences or related fields; 
 2. preferably at least one year of experience in immunology, metabolomics, bioinformatics, molecular biology research, and/or animal experiment; 
 3. an excellent command of spoken and written English and Chinese (Cantonese or Putonghua); 
-4. a team player and willing to work independently; 
-5. able to work overtime and underpressure. 
+4. a team player and willing to work independently.
 
 We give careful, individual attention to each applicant. If you’re interested in joining us, please email **cover letter, CV, and two letters of reference** to Prof. Cheng.
 
