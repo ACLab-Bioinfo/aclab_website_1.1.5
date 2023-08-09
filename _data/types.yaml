@@ -17,6 +17,8 @@ undergrad:
 staff:
   description: Research Assistant 
 
+resstaff:
+  description: Research Associate
 
 # general
 

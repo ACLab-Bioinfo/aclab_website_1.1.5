@@ -6,7 +6,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Welcome to our lab and get to know our team! Our laboratory members are from different background, and all are passionate about our work and committed to advancing scientific knowledge in their respective fields. 
+Welcome to our lab and get to know our team! Our laboratory members are from different background, and all are passionate about our work and committed to advancing scientific knowledge in our fields. 
 
 {% include section.html %}
 
@@ -14,17 +14,23 @@ Welcome to our lab and get to know our team! Our laboratory members are from dif
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="role: staff" %}
+## Research staff
 
----
+{% include list.html data="members" component="portrait" filters="role: resstaff" %}
+
+## Postdoctoral Researcher
 
 {% include list.html data="members" component="portrait" filters="role: postdoc" %}
 
----
+## Research assistance
+
+{% include list.html data="members" component="portrait" filters="role: staff" %}
+
+## PhD student
 
 {% include list.html data="members" component="portrait" filters="role: phd" %}
 
----
+## Student research interns
 
 {% include list.html data="members" component="portrait" filters="role: undergrad" %}
 
@@ -50,7 +56,7 @@ Welcome to our lab and get to know our team! Our laboratory members are from dif
 <tr>
 <td markdown="span">ZHONG Chengpeng</td>
 <td markdown="span">Visting Scholar</td>
-<td markdown="span">Attending Doctor, Department of Liver Surgery, Ren Ji Hospital, School of Medicine, Shanghai Jiao Tong University</td>
+<td markdown="span">Resident Surgeon, Department of Liver Surgery, Ren Ji Hospital, School of Medicine, Shanghai Jiao Tong University</td>
 </tr>
 <tr>
 <td markdown="span">TU Yalin</td>
