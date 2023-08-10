@@ -58,22 +58,16 @@ Welcome to our lab and get to know our team! Our laboratory members are from dif
 </thead>
 <tbody>
 <tr>
-<td markdown="span">2023</td>
-<td markdown="span">LAW Wing Yan</td>
-<td markdown="span">Ph.D student</td>
-<td markdown="span">Field Application Specialist, Bio-Rad Laboratories</td>
+<td markdown="span">2021</td>
+<td markdown="span">ZHOU Jingying</td>
+<td markdown="span">Reasearch Assistant Professor</td>
+<td markdown="span">Assistant Professor, School of Biomedical Sciences, CUHK</td>
 </tr>
 <tr>
-<td markdown="span">2023</td>
-<td markdown="span">FENG Yu</td>
-<td markdown="span">Ph.D student</td>
-<td markdown="span">Scientist (Junior), BGI-Shenzhen</td>
-</tr>
-<tr>
-<td markdown="span">2023</td>
-<td markdown="span">LIU Xiaoyu</td>
-<td markdown="span">Ph.D student</td>
-<td markdown="span">Research Fellow, Chongqing Cancer Hospital, Chongqing University</td>
+<td markdown="span">2019</td>
+<td markdown="span">Myth Tsz-Shun Mok</td>
+<td markdown="span">Research Associate</td>
+<td markdown="span"> </td>
 </tr>
 </tbody>
 </table>
