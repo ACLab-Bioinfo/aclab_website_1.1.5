@@ -51,7 +51,7 @@ header a {
 }
 
 .title > *:last-child {
-  opacity: 0.65;
+  opacity: 0.75;
   font-size: var(--medium);
   color: var(--white);
   font-weight: var(--regular);
@@ -135,7 +135,7 @@ header[data-big] .logo {
   height: 80px;
 }
 header[data-big] .title {
-  flex-direction: row;
+  flex-direction: column;
   align-items: center;
   text-align: center;
 }
@@ -143,7 +143,7 @@ header[data-big] .title > *:first-child {
   font-size: var(--xxl);
 }
 header[data-big] .title > *:last-child {
-  font-size: var(--large);
+  font-size: var(--xl);
 }
 
 /*# sourceMappingURL=header.css.map */
