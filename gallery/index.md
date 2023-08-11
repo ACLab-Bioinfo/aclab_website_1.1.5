@@ -6,7 +6,6 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-image-polaroid" %}Gallery
 
-
 {% capture content %}
   
   {% 
