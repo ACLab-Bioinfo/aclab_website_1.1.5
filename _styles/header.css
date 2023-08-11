@@ -141,6 +141,7 @@ header[data-big] .title {
 }
 header[data-big] .title > *:first-child {
   font-size: var(--xxl);
+  text-align: left;
 }
 header[data-big] .title > *:last-child {
   font-size: var(--xl);
