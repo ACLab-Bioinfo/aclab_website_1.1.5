@@ -21,7 +21,6 @@ Prof. CHENG Sze Lok Alfred is a Professor in the School of Biomedical Sciences a
 * Professor, School of Biomedical Sciences  
 * Chief, Cancer Biology and Experimental Therapeutics Theme, School of Biomedical Sciences  
 
-
 ## Honors and Awards
 * 10th Health and Medical Research Fund Anniversary Award in Breakthrough Research, Food and Health Bureau, The Government of Hong Kong SAR, 2021  
 * CUHK Young Researcher Award, The Chinese University of Hong Kong, 2015, 2020  

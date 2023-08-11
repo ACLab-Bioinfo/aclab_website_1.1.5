@@ -1,6 +1,7 @@
 ---
 ---
 
+## **About CHENG Lab**
 
 {% capture text %}
 As <big>*E*</big>pigenetics and <big>*T*</big>herapeutics in <big>*I*</big>mmuno-<big>*O*</big>ncology refer, Cheng laboratory aims at identifying the cause (*etio* in Greek) and solution of cancer therapeutic resistance. On the one hand, we apply the cutting-edge single-cell multi-omics and AI innovation to understand tumor adaptation to immune-checkpoint blockade (ICB) and uncover the epigenetic and transcriptional programs underlying immunotherapeutic resistance. On the other hand, we develop effective and durable combination immunotherapies for clinical translation. A prime example is a novel class I HDAC-targeted epigenetic immunotherapy, which has secured governmental and industrial support to commence a Phase-II clinical trial for hepatocellular carcinoma patients resisting to ICB therapy(NCT05873244). Through collaborations with leading experts in the field, our research is expected to have major impact in both basic research and treatment for this fatal cancer.  

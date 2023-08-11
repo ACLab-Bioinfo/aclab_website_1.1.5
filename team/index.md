@@ -139,12 +139,6 @@ Welcome to our lab and get to know our team! Our laboratory members are from dif
 </thead>
 <tbody>
 <tr>
-<td markdown="span">2023</td>
-<td markdown="span">ZHONG Chengpeng</td>
-<td markdown="span">Visting Scholar</td>
-<td markdown="span">Resident Surgeon, Department of Liver Surgery, Ren Ji Hospital, School of Medicine, Shanghai Jiao Tong University</td>
-</tr>
-<tr>
 <td markdown="span">2022</td>
 <td markdown="span">TU Yalin</td>
 <td markdown="span">Ph.D student</td>
@@ -157,95 +151,96 @@ Welcome to our lab and get to know our team! Our laboratory members are from dif
 <td markdown="span">Post-doctoral Fellow, School of Biomedical Sciences, CUHK</td>
 </tr>
 <tr>
-<td markdown="span">2023</td>
-<td markdown="span">LAW Wing Yan</td>
+<td markdown="span">2022</td>
+<td markdown="span">LIU Xiaoyu</td>
+<td markdown="span">Ph.D student and Post-doctoral Fellow</td>
+<td markdown="span">Research Fellow, Chongqing Cancer Hospital, Chongqing University</td>
+</tr>
+<tr>
+<td markdown="span">2022</td>
+<td markdown="span">TANG Wenshu</td>
+<td markdown="span">Ph.D student and Post-doctoral Fellow</td>
+<td markdown="span">Research Scientist, Hong Kong Genome Institute</td>
+</tr>
+<tr>
+<td markdown="span">2021</td>
+<td markdown="span">LAW Wing Yan, Rhoda</td>
 <td markdown="span">Ph.D student</td>
 <td markdown="span">Field Application Specialist, Bio-Rad Laboratories</td>
 </tr>
 <tr>
-<td markdown="span">2023</td>
+<td markdown="span">2020</td>
 <td markdown="span">FENG Yu</td>
 <td markdown="span">Ph.D student</td>
 <td markdown="span">Scientist (Junior), BGI-Shenzhen</td>
 </tr>
 <tr>
-<td markdown="span">2023</td>
-<td markdown="span">LIU Xiaoyu</td>
-<td markdown="span">Ph.D student</td>
-<td markdown="span">Research Fellow, Chongqing Cancer Hospital, Chongqing University</td>
-</tr>
-<tr>
-<td markdown="span">2023</td>
+<td markdown="span">2020</td>
 <td markdown="span">XIONG Zhewen</td>
 <td markdown="span">Ph.D student</td>
 <td markdown="span">Post-doctoral Fellow, School of Biomedical Sciences, CUHK</td>
 </tr>
 <tr>
-<td markdown="span">2023</td>
+<td markdown="span">2019</td>
 <td markdown="span">XU Liangliang</td>
 <td markdown="span">Ph.D student</td>
-<td markdown="span">Senior Research Associate Peking University-Shenzhen Hospital (PKU-SZH)</td>
+<td markdown="span">Senior Research Associate, Peking University-Shenzhen Hospital (PKU-SZH)</td>
 </tr>
 <tr>
-<td markdown="span">2023</td>
+<td markdown="span">2019</td>
 <td markdown="span">WU Qiong</td>
 <td markdown="span">Ph.D student</td>
-<td markdown="span">N/A</td>
+<td markdown="span">To be update</td>
 </tr>
 <tr>
-<td markdown="span">2023</td>
-<td markdown="span">TANG Wenshu</td>
-<td markdown="span">Ph.D student</td>
-<td markdown="span">Research Scientist, Hong Kong Genome Institute</td>
-</tr>
-<tr>
-<td markdown="span">2023</td>
+<td markdown="span">2019</td>
 <td markdown="span">ZENG Xuezhen</td>
 <td markdown="span">Ph.D student</td>
 <td markdown="span">Assistant Researcher, Department of liver surgery, Department of pharmacy, The First Affiliated Hospital of Sun Yat-sen University</td>
 </tr>
 <tr>
-<td markdown="span">2023</td>
+<td markdown="span">2019</td>
 <td markdown="span">CHEUNG Ka Wing, Otto</td>
 <td markdown="span">Ph.D student</td>
 <td markdown="span">Analyst, Deloitte Consulting LLP</td>
 </tr>
 <tr>
-<td markdown="span">2023</td>
+<td markdown="span">2017</td>
 <td markdown="span">LIU Man</td>
 <td markdown="span">Ph.D student</td>
 <td markdown="span">Assistant Rearch Fellow & Resident Doctor, Department of Gastroenterology, The First Affiliated Hospital of Sun Yat-Sen University</td>
 </tr>
 <tr>
-<td markdown="span">2023</td>
+<td markdown="span">2017</td>
 <td markdown="span">WU Feng</td>
 <td markdown="span">Ph.D student</td>
 <td markdown="span">Scientific Officer, Department of Health</td>
 </tr>
 <tr>
-<td markdown="span">2023</td>
+<td markdown="span">2017</td>
 <td markdown="span">XIONG Lei</td>
 <td markdown="span">Ph.D student</td>
 <td markdown="span"> Investment Manager, Grand Health Investment Department, Yuexiu Financial Holdings Industrial Fund</td>
 </tr>
 <tr>
-<td markdown="span">2023</td>
+<td markdown="span">2016</td>
 <td markdown="span">SUN Hanyong</td>
 <td markdown="span">Ph.D student</td>
 <td markdown="span">Attending Doctor, Department of Liver Surgery, Ren Ji Hospital, School of Medicine, Shanghai Jiao Tong University</td>
 </tr>
 <tr>
-<td markdown="span">2023</td>
+<td markdown="span">2015</td>
 <td markdown="span">YANG Weiqin</td>
 <td markdown="span">Ph.D student</td>
 <td markdown="span">Research Associate, School of Biomedical Sciences, CUHK</td>
 </tr>
 <tr>
-<td markdown="span">2023</td>
+<td markdown="span">2015</td>
 <td markdown="span">TIAN Yuan</td>
 <td markdown="span">Ph.D student</td>
 <td markdown="span">Assistant professor, Shenzhen University</td>
 </tr>
+
 <tr>
 <td markdown="span">2023</td>
 <td markdown="span">FENG Hai</td>
