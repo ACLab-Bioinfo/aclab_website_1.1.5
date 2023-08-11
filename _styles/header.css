@@ -4,7 +4,7 @@ header {
   align-items: center;
   flex-wrap: wrap;
   gap: 20px;
-  padding: 20px;
+  padding: 30px;
   box-shadow: var(--shadow);
   position: sticky !important;
   top: 0;
@@ -90,7 +90,7 @@ nav {
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
-  gap: 10px;
+  gap: 20px;
   font-family: var(--heading);
   text-transform: uppercase;
 }
@@ -132,12 +132,12 @@ header[data-big] .home {
   flex-grow: 0;
 }
 header[data-big] .logo {
-  height: 80px;
+  height: 85px;
 }
 header[data-big] .title {
   flex-direction: column;
   align-items: center;
-  text-align: center;
+  text-align: start;
 }
 header[data-big] .title > *:first-child {
   font-size: var(--xxl);
