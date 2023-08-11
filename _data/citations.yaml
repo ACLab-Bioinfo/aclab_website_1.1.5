@@ -2494,6 +2494,77 @@
   image: https://www.sbs.cuhk.edu.hk/enewsletter/2021vol11no2/_custom/image-slider/alfred-2.jpg
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1038/s41423-020-00534-2
+  title: Cell cycle-related kinase reprograms the liver immune microenvironment to
+    promote cancer metastasis
+  authors:
+  - Xuezhen Zeng
+  - Jingying Zhou
+  - Zhewen Xiong
+  - Hanyong Sun
+  - Weiqin Yang
+  - Myth T. S. Mok
+  - Jing Wang
+  - Jingqing Li
+  - Man Liu
+  - Wenshu Tang
+  - Yu Feng
+  - Hector Kwong-Sang Wang
+  - Shun-Wa Tsang
+  - King-Lau Chow
+  - Philip Chun Yeung
+  - John Wong
+  - Paul Bo-San Lai
+  - Anthony Wing-Hung Chan
+  - Ka Fai To
+  - Stephen Lam Chan
+  - Qiang Xia
+  - Jing Xue
+  - Xiao Chen
+  - Jun Yu
+  - Sui Peng
+  - Joseph Jao-Yiu Sung
+  - Ming Kuang
+  - Alfred Sze-Lok Cheng
+  publisher: Cellular &amp; Molecular Immunology
+  date: '2020-09-02'
+  link: https://doi.org/gr2pqc
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1021/acs.jmedchem.2c01132
+  title: Development of Alkylated Hydrazides as Highly Potent and Selective Class
+    I Histone Deacetylase Inhibitors with T cell Modulatory Properties
+  authors:
+  - Ping Sun
+  - Jing Wang
+  - Khadija S. Khan
+  - Weiqin Yang
+  - Billy Wai-Lung Ng
+  - Nikita Ilment
+  - Matthes Zessin
+  - "Emre F. B\xFClb\xFCl"
+  - Dina Robaa
+  - Frank Erdmann
+  - Matthias Schmidt
+  - Christophe Romier
+  - Mike Schutkowski
+  - Alfred Sze-Lok Cheng
+  - Wolfgang Sippl
+  publisher: Journal of Medicinal Chemistry
+  date: '2022-11-30'
+  link: https://doi.org/gr2pp8
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1136/gutjnl-2022-328861
+  title: "Meltdown of the cold tumour microenvironment: a new \u2018translational\u2019\
+    \ approach to augment immunotherapy efficacy"
+  authors:
+  - Alfred Sze-Lok Cheng
+  publisher: Gut
+  date: '2022-12-13'
+  link: https://doi.org/gskrz9
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.ymthe.2022.09.012
   title: Fibrotic immune microenvironment remodeling mediates superior anti-tumor
     efficacy of a nano-PD-L1 trap in hepatocellular carcinoma
@@ -2518,21 +2589,6 @@
   publisher: Molecular Therapy
   date: '2023-01-01'
   link: https://doi.org/gr2pp7
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.3892/ijo.23.1.113
-  title: Specific COX-2 inhibitor, NS-398, suppresses cellular proliferation and induces
-    apoptosis in human hepatocellular carcinoma cells
-  authors:
-  - Alfred Cheng
-  - Henry Chan
-  - Wai Leung
-  - Nathalie Wong
-  - Philip Johnson
-  - Joseph Sung
-  publisher: International Journal of Oncology
-  date: '2003-07-01'
-  link: https://doi.org/f99srh
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41423-022-00872-3
@@ -2627,6 +2683,21 @@
   publisher: International Journal of Oncology
   date: '2004-04-01'
   link: https://doi.org/gsc3sx
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3892/ijo.23.1.113
+  title: Specific COX-2 inhibitor, NS-398, suppresses cellular proliferation and induces
+    apoptosis in human hepatocellular carcinoma cells
+  authors:
+  - Alfred Cheng
+  - Henry Chan
+  - Wai Leung
+  - Nathalie Wong
+  - Philip Johnson
+  - Joseph Sung
+  publisher: International Journal of Oncology
+  date: '2003-07-01'
+  link: https://doi.org/f99srh
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.3892/or.18.6.1557
