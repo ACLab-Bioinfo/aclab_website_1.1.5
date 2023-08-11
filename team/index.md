@@ -58,16 +58,64 @@ Welcome to our lab and get to know our team! Our laboratory members are from dif
 </thead>
 <tbody>
 <tr>
+<td markdown="span">2023</td>
+<td markdown="span">Cheng Yuk Lam Gareth</td>
+<td markdown="span">Junior Research Assistant</td>
+<td markdown="span">To be update</td>
+</tr>
+<tr>
+<td markdown="span">2022</td>
+<td markdown="span">Li Ka Man Carmen</td>
+<td markdown="span">Junior Research Assistant</td>
+<td markdown="span">To be update</td>
+</tr>
+<tr>
+<td markdown="span">2022</td>
+<td markdown="span">YUNG Wai Yi Amanda</td>
+<td markdown="span">Research Assistant</td>
+<td markdown="span">To be update</td>
+</tr>
+<tr>
+<td markdown="span">2021</td>
+<td markdown="span">DING Lipeng</td>
+<td markdown="span">Junior Research Assistant</td>
+<td markdown="span">Research Assistant, School of Biomedical Sciences, CUHK</td>
+</tr>
+<tr>
+<td markdown="span">2021</td>
+<td markdown="span">LI Jingqing</td>
+<td markdown="span">Junior Research Assistant</td>
+<td markdown="span">Lab Manager of ZHOU Lab, School of Biomedical Sciences, CUHK</td>
+</tr>
+<tr>
 <td markdown="span">2021</td>
 <td markdown="span">ZHOU Jingying</td>
 <td markdown="span">Reasearch Assistant Professor</td>
 <td markdown="span">Assistant Professor, School of Biomedical Sciences, CUHK</td>
 </tr>
 <tr>
+<td markdown="span">2020</td>
+<td markdown="span">Joel Chin-Ling Lau</td>
+<td markdown="span">Junior Research Assistant</td>
+<td markdown="span"> To be update </td>
+</tr>
+<tr>
 <td markdown="span">2019</td>
 <td markdown="span">Myth Tsz-Shun Mok</td>
 <td markdown="span">Research Associate</td>
-<td markdown="span"> </td>
+<td markdown="span">Clinical Genetic Service, Department of Health, Hong Kong</td>
+</tr>
+<tr>
+<td markdown="span">2017</td>
+<td markdown="span">Szeto Lemuel Lut Ming</td>
+<td markdown="span">Junior Research Assistant</td>
+<td markdown="span"> To be update </td>
+</tr>
+<tr>
+<td markdown="span">2014</td>
+<td markdown="span">Esther Yi-bin Jiang</td>
+<td markdown="span">Research Associate</td>
+<td markdown="span"> To be update </td>
 </tr>
 </tbody>
 </table>
