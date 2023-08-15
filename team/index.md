@@ -229,6 +229,12 @@ Welcome to our lab and get to know our team! Our laboratory members are from dif
 <td markdown="span">Attending Doctor, Department of Liver Surgery, Ren Ji Hospital, School of Medicine, Shanghai Jiao Tong University</td>
 </tr>
 <tr>
+<td markdown="span">2016</td>
+<td markdown="span">LI Yingying</td>
+<td markdown="span">M.phil student</td>
+<td markdown="span">Technical Officer, Centre for PanorOmics Sciences, University of Hong Kong</td>
+</tr>
+<tr>
 <td markdown="span">2015</td>
 <td markdown="span">YANG Weiqin</td>
 <td markdown="span">Ph.D student</td>
@@ -240,9 +246,8 @@ Welcome to our lab and get to know our team! Our laboratory members are from dif
 <td markdown="span">Ph.D student</td>
 <td markdown="span">Assistant professor, Shenzhen University</td>
 </tr>
-
 <tr>
-<td markdown="span">2023</td>
+<td markdown="span">2011</td>
 <td markdown="span">FENG Hai</td>
 <td markdown="span">Ph.D student</td>
 <td markdown="span">Associate Professor, Shuguang Hospital, Shanghai University of Traditional Chinese Medicine</td>
@@ -252,12 +257,6 @@ Welcome to our lab and get to know our team! Our laboratory members are from dif
 <td markdown="span">ZHU Ranxu</td>
 <td markdown="span">Ph.D student</td>
 <td markdown="span">Attending Doctor, University of Hong Kong – Shenzhen Hospital </td>
-</tr>
-<tr>
-<td markdown="span">2023</td>
-<td markdown="span">LI Yingying</td>
-<td markdown="span">M.phil student</td>
-<td markdown="span">Technical Officer, Centre for PanorOmics Sciences, University of Hong Kong</td>
 </tr>
 <tr>
 <td markdown="span">2023</td>

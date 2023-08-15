@@ -52,7 +52,7 @@ As <big>*E*</big>pigenetics and <big>*T*</big>herapeutics in <big>*I*</big>mmuno
   include button.html
   link="research"
   icon="fa-solid fa-arrow-left"
-  text="See our research"
+  text="Come to know our research interests"
   flip=true
   style="bare"
 %}
@@ -61,7 +61,7 @@ As <big>*E*</big>pigenetics and <big>*T*</big>herapeutics in <big>*I*</big>mmuno
 
 {%
   include feature.html
-  image="https://lh3.googleusercontent.com/pw/AJFCJaUB5mvAiXgnr7RDJdMu_7diWCy6lk2sT5ZYBex5pEiIQE9g7ib_Z3TSEhUE0ee3Qn3Kd6P5qEjBl_q9dNKTb_9e6EZL3d0Ks7cJOafonVWs2rj0NUkQ-UcVeFAPXkjIEDQs1vXXlIwENIX4EsauWML9=w1586-h1058-s-no"
+  image="images/singlecell_worldmap.svg"
   link="research"
   title="Research"
   text=text
