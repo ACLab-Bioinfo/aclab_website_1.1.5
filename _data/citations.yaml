@@ -73,6 +73,10 @@
   file: sources.yaml
   type: paper
   image: https://lh3.googleusercontent.com/pw/AJFCJaWENHiqE-Hm0mixAYPx63wRs6csille3unsTjzoe__xc8Mqf55hsNkJggVY3rleJCcn2lV8B0xmh4mFqW9oFt54Fi8hDO90i9hxcVS5DEter1GCIisF37OqQOiHT0CMVpgptiOnREqsuYPj65uNHvrz=w1268-h870-s-no
+  description: "Press release:[CUHK Uncovers a New Strategy to Turn \u201CCold\u201D\
+    \ Liver Tumour \u201CHot\u201D Leading to an Effective and Durable Combined Immunotherapy](https://www.cpr.cuhk.edu.hk/en/press/cuhk-uncovers-a-new-strategy-to-turn-cold-liver-tumour-hot-leading-to-an-effective-and-durable-combined-immunotherapy/),\
+    \ [\u4E2D\u5927\u7814\u7A76\u767C\u73FE\u6291\u5236\u6392\u65A5\u514D\u75AB\u7D30\
+    \u80DE\u57FA\u56E0 \u53EF\u589E\u5F37\u764C\u75C7\u7642\u6CD5\u529F\u6548](https://www.stheadline.com/article/2112725/%E4%B8%AD%E5%A4%A7%E7%A0%94%E7%A9%B6%E7%99%BC%E7%8F%BE%E6%8A%91%E5%88%B6%E6%8E%92%E6%96%A5%E5%85%8D%E7%96%AB%E7%B4%B0%E8%83%9E%E5%9F%BA%E5%9B%A0-%E5%8F%AF%E5%A2%9E%E5%BC%B7%E7%99%8C%E7%97%87%E7%99%82%E6%B3%95%E5%8A%9F%E6%95%88)"
 - id: doi:10.1136/gutjnl-2018-317257
   title: Targeting monocyte-intrinsic enhancer reprogramming improves immunotherapy
     efficacy in hepatocellular carcinoma
@@ -191,8 +195,8 @@
   publisher: Oncogene
   date: '2018-08-06'
   link: https://doi.org/gqfd5g
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1038/s41467-018-07402-8
   title: An inflammatory-CCRK circuitry drives mTORC1-dependent metabolic and immunosuppressive
     reprogramming in obesity-associated hepatocellular carcinoma
@@ -2458,6 +2462,11 @@
   link: https://doi.org/gr9zwz
   type: paper
   image: https://gut.bmj.com/content/gutjnl/early/2023/04/04/gutjnl-2022-328364/F8.large.jpg?width=800&height=600&carousel=1
+  description: "Press release:[CU Medicine uncovers the keys for liver cancer adaptation\
+    \ to immunotherapy Pioneering new combination therapy in a Phase II clinical trial](https://www.cpr.cuhk.edu.hk/en/press/cu-medicine-uncovers-the-keys-for-liver-cancer-adaptation-to-immunotherapy-pioneering-new-combination-therapy-in-a-phase-ii-clinical-trial/),\
+    \ [\u4E2D\u5927\u7834\u89E3\u809D\u764C\u514D\u75AB\u8010\u85E5\u6A5F\u5236 \u914D\
+    \u5408\u65B0\u514D\u75AB\u7642\u6CD5\u80FD\u6709\u6548\u6D88\u9664\u764C\u7D30\
+    \u80DE](https://news.tvb.com/tc/local/64b00ae7c2ea9a2f9f9821e8/%E6%B8%AF%E6%BE%B3-%E4%B8%AD%E5%A4%A7%E7%A0%B4%E8%A7%A3%E8%82%9D%E7%99%8C%E5%85%8D%E7%96%AB%E8%80%90%E8%97%A5%E6%A9%9F%E5%88%B6%E9%85%8D%E5%90%88%E6%96%B0%E5%85%8D%E7%96%AB%E7%99%82%E6%B3%95%E8%83%BD%E6%9C%89%E6%95%88%E6%B6%88%E9%99%A4%E7%99%8C%E7%B4%B0%E8%83%9E)"
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1126/scitranslmed.aaz6804
@@ -2727,5 +2736,119 @@
   publisher: Current Pharmaceutical Design
   date: '2012-12-01'
   link: https://doi.org/gsc3s2
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41388-020-01579-3
+  title: NOTCH3, a crucial target of miR-491-5p/miR-875-5p, promotes gastric carcinogenesis
+    by upregulating PHLDB2 expression and activating Akt pathway
+  authors:
+  - Wei Kang
+  - Jinglin Zhang
+  - Tingting Huang
+  - Yuhang Zhou
+  - Chi Chun Wong
+  - Ronald C. K. Chan
+  - Yujuan Dong
+  - Feng Wu
+  - Bin Zhang
+  - William K. K. Wu
+  - Michael W. Y. Chan
+  - Alfred S. L. Cheng
+  - Jun Yu
+  - Nathalie Wong
+  - Kwok Wai Lo
+  - Ka Fai To
+  publisher: Oncogene
+  date: '2021-01-15'
+  link: https://doi.org/gm5fpp
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1093/bib/bbab040
+  title: Multi-omic analysis suggests tumor suppressor genes evolved specific promoter
+    features to optimize cancer resistance
+  authors:
+  - Dan Huang
+  - Xiansong Wang
+  - Yingzhi Liu
+  - Ziheng Huang
+  - Xiaoxu Hu
+  - Wei Hu
+  - Qing Li
+  - Hung Chan
+  - Yidan Zou
+  - Idy H T Ho
+  - Yan Wang
+  - Alfred S L Cheng
+  - Wei Kang
+  - Ka F To
+  - Maggie H T Wang
+  - Sunny H Wong
+  - Jun Yu
+  - Tony Gin
+  - Qingpeng Zhang
+  - Zheng Li
+  - Jianxiong Shen
+  - Lin Zhang
+  - Matthew T V Chan
+  - Xiaodong Liu
+  - William K K Wu
+  publisher: Briefings in Bioinformatics
+  date: '2021-03-30'
+  link: https://doi.org/gsmjhm
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/s12943-021-01451-2
+  title: STK3 promotes gastric carcinogenesis by activating Ras-MAPK mediated cell
+    cycle progression and serves as an independent prognostic biomarker
+  authors:
+  - Bonan Chen
+  - Wai Nok Chan
+  - Chun Wai Mui
+  - Xiaoli Liu
+  - Jinglin Zhang
+  - Yifei Wang
+  - Alvin H. K. Cheung
+  - Aden K. Y. Chan
+  - Ronald C. K. Chan
+  - Kam Tong Leung
+  - Yujuan Dong
+  - Yi Pan
+  - Huixing Ke
+  - Li Liang
+  - Zhaocai Zhou
+  - Chi Chun Wong
+  - William K. K. Wu
+  - Alfred S. L. Cheng
+  - Jun Yu
+  - Kwok Wai Lo
+  - Ka Fai To
+  - Wei Kang
+  publisher: Molecular Cancer
+  date: '2021-11-12'
+  link: https://doi.org/gsmjhn
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s13402-020-00546-0
+  title: Bufalin inhibits hepatitis B virus-associated hepatocellular carcinoma development
+    through androgen receptor dephosphorylation and cell cycle-related kinase degradation
+  authors:
+  - Zhuo Yu
+  - Hai Feng
+  - Yunhui Zhuo
+  - Man Li
+  - Xiaojun Zhu
+  - Lingying Huang
+  - Xin Zhang
+  - Zhenhua Zhou
+  - Chao Zheng
+  - Yun Jiang
+  - Fan Le
+  - Dae-Yeul Yu
+  - Alfred Szelok Cheng
+  - Xuehua Sun
+  - Yueqiu Gao
+  publisher: Cellular Oncology
+  date: '2020-07-04'
+  link: https://doi.org/gn9xk8
   plugin: sources.py
   file: sources.yaml
