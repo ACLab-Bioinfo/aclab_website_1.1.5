@@ -61,7 +61,7 @@ Welcome to our lab and get to know our team! Our laboratory members are from dif
 <td markdown="span">2023</td>
 <td markdown="span">Cheng Yuk Lam Gareth</td>
 <td markdown="span">Junior Research Assistant</td>
-<td markdown="span">To be update</td>
+<td markdown="span">Environmental protection inspector</td>
 </tr>
 <tr>
 <td markdown="span">2022</td>
@@ -73,13 +73,13 @@ Welcome to our lab and get to know our team! Our laboratory members are from dif
 <td markdown="span">2022</td>
 <td markdown="span">YUNG Wai Yi Amanda</td>
 <td markdown="span">Research Assistant</td>
-<td markdown="span">To be update</td>
+<td markdown="span">Assistant Facility Manager, Drug Safety Testing Center, Institute of Translational Research, Hong Kong Science and Technology Park</td>
 </tr>
 <tr>
 <td markdown="span">2021</td>
 <td markdown="span">DING Lipeng</td>
 <td markdown="span">Junior Research Assistant</td>
-<td markdown="span">Research Assistant, School of Biomedical Sciences, CUHK</td>
+<td markdown="span">PhD candidate, School of Biomedical Sciences, CUHK</td>
 </tr>
 <tr>
 <td markdown="span">2021</td>
@@ -97,7 +97,7 @@ Welcome to our lab and get to know our team! Our laboratory members are from dif
 <td markdown="span">2020</td>
 <td markdown="span">Joel Chin-Ling Lau</td>
 <td markdown="span">Junior Research Assistant</td>
-<td markdown="span"> To be update </td>
+<td markdown="span">Programmer, KanHan Technologies</td>
 </tr>
 <tr>
 <td markdown="span">2019</td>
@@ -109,13 +109,13 @@ Welcome to our lab and get to know our team! Our laboratory members are from dif
 <td markdown="span">2017</td>
 <td markdown="span">Szeto Lemuel Lut Ming</td>
 <td markdown="span">Junior Research Assistant</td>
-<td markdown="span"> To be update </td>
+<td markdown="span">PhD candidate, University of Oxford</td>
 </tr>
 <tr>
 <td markdown="span">2014</td>
 <td markdown="span">Esther Yi-bin Jiang</td>
 <td markdown="span">Research Associate</td>
-<td markdown="span"> To be update </td>
+<td markdown="span">Teacher</td>
 </tr>
 </tbody>
 </table>
@@ -190,7 +190,7 @@ Welcome to our lab and get to know our team! Our laboratory members are from dif
 <td markdown="span">2019</td>
 <td markdown="span">WU Qiong</td>
 <td markdown="span">Ph.D student</td>
-<td markdown="span">To be update</td>
+<td markdown="span">Scientific Officer, Hong Kong Genome Institute</td>
 </tr>
 <tr>
 <td markdown="span">2019</td>
@@ -247,25 +247,25 @@ Welcome to our lab and get to know our team! Our laboratory members are from dif
 <td markdown="span">Assistant professor, Shenzhen University</td>
 </tr>
 <tr>
+<td markdown="span">2012</td>
+<td markdown="span">TSANG Pui-Fong, Daisy</td>
+<td markdown="span">M.phil student</td>
+<td markdown="span">Technician, Hospital Authority</td>
+</tr>
+<tr>
 <td markdown="span">2011</td>
 <td markdown="span">FENG Hai</td>
 <td markdown="span">Ph.D student</td>
 <td markdown="span">Associate Professor, Shuguang Hospital, Shanghai University of Traditional Chinese Medicine</td>
 </tr>
 <tr>
-<td markdown="span">2023</td>
+<td markdown="span">2010</td>
 <td markdown="span">ZHU Ranxu</td>
 <td markdown="span">Ph.D student</td>
 <td markdown="span">Attending Doctor, University of Hong Kong – Shenzhen Hospital </td>
 </tr>
 <tr>
-<td markdown="span">2023</td>
-<td markdown="span">TSANG Pui-Fong, Daisy</td>
-<td markdown="span">M.phil student</td>
-<td markdown="span">Florist, Hing Fat Flower Wholesales Limited</td>
-</tr>
-<tr>
-<td markdown="span">2023</td>
+<td markdown="span">2009</td>
 <td markdown="span">YIP Wing-Kit</td>
 <td markdown="span">M.phil student</td>
 <td markdown="span">Research Assistant, School of Public Health, CUHK</td>

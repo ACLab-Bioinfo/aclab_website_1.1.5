@@ -34,7 +34,7 @@ As <big>*E*</big>pigenetics and <big>*T*</big>herapeutics in <big>*I*</big>mmuno
 
 {%
   include feature.html
-  image="https://lh3.googleusercontent.com/pw/AJFCJaU_Lv_2s_SF86bjvUahsoALt2FbdRK18-06h0KFH0WwAif716kBmxKPMYb6mJp8AJ5mrOYvt9NJubxKtEnUNJIfGuguOzAz1gwOnKZLRRqrxkU3wM5EOnqUXku73I1yN2EJDYYBdG0NwCducyp7aIE=w2178-h1452-s-no"
+  image="https://lh3.googleusercontent.com/pw/AIL4fc9TInYcSdYtukc0bRg_XbRxP3xASixc5FuMIBIxJfHvfX-9i1dOCBp-NQc4iC6qXyUSG-GyDN37FxMxGtxjkvOSr0tmpZGnMMlSkNlqMWF2oANCsvgEPoEjhR_P-xqhJvDWx-qEreUrVAvQRCa6ZUOu=w2100-h1412-s-no"
   link="members/alfred-cheng.html"
   title="Prof. CHENG Sze Lok Alfred 鄭詩樂教授"
   flip=true

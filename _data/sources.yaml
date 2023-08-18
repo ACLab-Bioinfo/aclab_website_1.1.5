@@ -2,11 +2,13 @@
   type: paper
   image: https://gut.bmj.com/content/gutjnl/early/2023/04/04/gutjnl-2022-328364/F8.large.jpg?width=800&height=600&carousel=1
   date: '2023-04-05'
+  description: Press release:[CU Medicine uncovers the keys for liver cancer adaptation to immunotherapy Pioneering new combination therapy in a Phase II clinical trial](https://www.cpr.cuhk.edu.hk/en/press/cu-medicine-uncovers-the-keys-for-liver-cancer-adaptation-to-immunotherapy-pioneering-new-combination-therapy-in-a-phase-ii-clinical-trial/), [中大破解肝癌免疫耐藥機制 配合新免疫療法能有效消除癌細胞](https://news.tvb.com/tc/local/64b00ae7c2ea9a2f9f9821e8/%E6%B8%AF%E6%BE%B3-%E4%B8%AD%E5%A4%A7%E7%A0%B4%E8%A7%A3%E8%82%9D%E7%99%8C%E5%85%8D%E7%96%AB%E8%80%90%E8%97%A5%E6%A9%9F%E5%88%B6%E9%85%8D%E5%90%88%E6%96%B0%E5%85%8D%E7%96%AB%E7%99%82%E6%B3%95%E8%83%BD%E6%9C%89%E6%95%88%E6%B6%88%E9%99%A4%E7%99%8C%E7%B4%B0%E8%83%9E)
 
 - id: doi:10.1038/s41467-019-11274-x
   type: paper
   image: https://lh3.googleusercontent.com/pw/AJFCJaWENHiqE-Hm0mixAYPx63wRs6csille3unsTjzoe__xc8Mqf55hsNkJggVY3rleJCcn2lV8B0xmh4mFqW9oFt54Fi8hDO90i9hxcVS5DEter1GCIisF37OqQOiHT0CMVpgptiOnREqsuYPj65uNHvrz=w1268-h870-s-no
   date: '2019-07-29'
+  description: Press release:[CUHK Uncovers a New Strategy to Turn “Cold” Liver Tumour “Hot” Leading to an Effective and Durable Combined Immunotherapy](https://www.cpr.cuhk.edu.hk/en/press/cuhk-uncovers-a-new-strategy-to-turn-cold-liver-tumour-hot-leading-to-an-effective-and-durable-combined-immunotherapy/), [中大研究發現抑制排斥免疫細胞基因 可增強癌症療法功效](https://www.stheadline.com/article/2112725/%E4%B8%AD%E5%A4%A7%E7%A0%94%E7%A9%B6%E7%99%BC%E7%8F%BE%E6%8A%91%E5%88%B6%E6%8E%92%E6%96%A5%E5%85%8D%E7%96%AB%E7%B4%B0%E8%83%9E%E5%9F%BA%E5%9B%A0-%E5%8F%AF%E5%A2%9E%E5%BC%B7%E7%99%8C%E7%97%87%E7%99%82%E6%B3%95%E5%8A%9F%E6%95%88)
 
 - id: doi:10.1126/scitranslmed.aaz6804
   type: paper
@@ -72,6 +74,12 @@
 
 - id: doi:10.2174/1381612811319070003
 
+- id: doi:10.1038/s41388-018-0430-x
 
+- id: doi:10.1038/s41388-020-01579-3
 
+- id: doi:10.1093/bib/bbab040
 
+- id: doi:10.1186/s12943-021-01451-2
+
+- id: doi:10.1007/s13402-020-00546-0
