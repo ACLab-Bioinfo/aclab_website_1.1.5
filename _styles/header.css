@@ -47,14 +47,14 @@ header a {
 
 .title > *:first-child {
   font-size: var(--large);
-  font-weight: var(--regular);
+  font-weight: var(--bold);
 }
 
 .title > *:last-child {
   opacity: 0.75;
   font-size: var(--medium);
   color: var(--white);
-  font-weight: var(--regular);
+  font-weight: var(--semi-bold);
 }
 
 .nav-toggle {
@@ -125,6 +125,7 @@ header[data-big] {
   align-items: center;
   flex-direction: column;
   padding: 100px 20px;
+  height: 100vh;
   top: unset;
 }
 header[data-big] .home {
@@ -132,7 +133,7 @@ header[data-big] .home {
   flex-grow: 0;
 }
 header[data-big] .logo {
-  height: 85px;
+  height: 100px;
 }
 header[data-big] .title {
   flex-direction: column;
@@ -145,6 +146,7 @@ header[data-big] .title > *:first-child {
 }
 header[data-big] .title > *:last-child {
   font-size: var(--xl);
+  text-align: left;
 }
 
 /*# sourceMappingURL=header.css.map */
