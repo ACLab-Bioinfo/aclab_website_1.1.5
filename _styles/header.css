@@ -75,7 +75,7 @@ header a {
   left: 50%;
   top: 50%;
   color: var(--text);
-  font-size: 12px;
+  font-size: 14px;
   font-family: "Font Awesome 6 Free";
   font-weight: 900;
   transform: translate(-50%, -50%);
@@ -92,6 +92,7 @@ nav {
   flex-wrap: wrap;
   gap: 20px;
   font-family: var(--heading);
+  text-transform: uppercase;
 }
 
 nav > a {
