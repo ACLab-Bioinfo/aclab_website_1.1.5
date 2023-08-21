@@ -7,7 +7,7 @@ tags:
 
 中文大學醫學院破解肝癌的免疫耐藥機制，再配合新的免疫療法，能有效消除癌細胞。
 
-![](//https://wowza-rr-vod-12.edgeware.tvb.com/newsbks/_definst_/mp4:news/inews1/20230713/entries_64b00ae7c2ea9a2f9f9821e8_4f4ffd64630bea2cb1d0142f8fe49693dba58075_cht_proenv_1280_720_1452000.mp4/playlist.m3u8?sig=c107d7c9e5dcdb1857b70c09942e6560&ext_start_limit=1692595193&int_start_limit=1692595193&ts=1692595193&c=multicdn)
+![](//https://hk4-edge32-1.edgeware.tvb.com/session/bf043b7c-3f19-11ee-a657-005056928c23/tyqhab/newsbks/_definst_/mp4:news/inews1/20230713/entries_64b00ae7c2ea9a2f9f9821e8_4f4ffd64630bea2cb1d0142f8fe49693dba58075_cht_proenv_1280_720_1452000.mp4/playlist.m3u8?token=73fda79ef9bf67316f1cecc68096a5cf_1692595193_1692595193)
 
 肝癌是本港三大致命癌症之一。中大研究團隊指出，最常用的免疫治療「免疫檢查點抑制劑」，只對大約兩成患者有作用，而部分人更可能出現耐藥性。
 
