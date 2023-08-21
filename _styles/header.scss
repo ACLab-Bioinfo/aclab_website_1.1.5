@@ -1,7 +1,7 @@
 ---
 ---
 
-$logo-big: 85px;
+$logo-big: 100px;
 $logo: 40px;
 $big-padding: 100px;
 $collapse: 700px;
@@ -60,7 +60,7 @@ header a {
 // main title
 .title > *:first-child {
   font-size: var(--large);
-  font-weight: var(--regular);
+  font-weight: var(--bold);
 }
 
 // subtitle
@@ -68,7 +68,7 @@ header a {
   opacity: 0.75;
   font-size: var(--medium);
   color: var(--white);
-  font-weight: var(--regular);
+  font-weight: var(--semi-bold);
 }
 
 .nav-toggle {
@@ -142,6 +142,7 @@ header[data-big] {
   align-items: center;
   flex-direction: column;
   padding: $big-padding 20px;
+  height: 100vh;
 
   @if $sticky {
     top: unset;
@@ -169,5 +170,6 @@ header[data-big] {
 
   .title > *:last-child {
     font-size: var(--xl);
+    text-align: left;
   }
 }
