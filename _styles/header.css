@@ -140,12 +140,12 @@ header[data-big] .title {
   align-items: center;
 }
 header[data-big] .title > *:first-child {
-  font-size: 2.2rem;
+  font-size: 2.4rem;
   font-weight: var(--regular);
   text-align: start;
 }
 header[data-big] .title > *:last-child {
-  font-size: 2rem;
+  font-size: 2.2rem;
   font-weight: var(--regular);
   text-align: start;
 }
