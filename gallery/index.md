@@ -44,6 +44,12 @@ image="https://lh3.googleusercontent.com/pw/AJFCJaW6TSIU48Pi8fFPx6EVNIpb6C43IHdv
     caption="2022 Christmas gift exchanges"
   %}
 
+  {%
+    include figure.html
+    image="https://lh3.googleusercontent.com/pw/AIL4fc_AZ3qWFfR09mqaSu9k5Kuh04cU7SmsFUjmjHnjipZFLYHCPFcAg98uGzH6DiaUksoawFWHFP9hT4K8VSjKj8f1cS02J4bDMprrn3Ct7omQBImoJiJ1gWXXm1bzkrzVjbZpoP-ninADE03H0tp9zWt1=w2174-h1448-s-no"
+    caption="2021 Hiking in Tianpingshan"
+  %}
+
 {% endcapture %}
 
 {%
