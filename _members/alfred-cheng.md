@@ -11,6 +11,8 @@ links:
   google-scholar: Alfred S.L. Cheng
   orcid: 0000-0003-2345-6951
   email: alfredcheng@cuhk.edu.hk
+redirect_from:
+  - Alfred Sze Lok Cheng, PhD
 ---
 
 # Biography

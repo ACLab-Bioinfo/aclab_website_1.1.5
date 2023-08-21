@@ -1,7 +1,7 @@
 ---
 title: Gallery
 nav:
-  order: 5
+  order: 6
 ---
 
 # {% include icon.html icon="fa-solid fa-image-polaroid" %}Gallery
