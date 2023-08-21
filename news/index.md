@@ -1,7 +1,7 @@
 ---
 title: News
 nav:
-  order: 4
+  order: 3
 ---
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}News
