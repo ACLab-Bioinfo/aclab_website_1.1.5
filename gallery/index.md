@@ -11,7 +11,7 @@ nav:
   {% 
     include figure.html 
     image="https://lh3.googleusercontent.com/pw/AJFCJaXutu2XX3fmJ7nyCajA8vqnIttYRFcgJLWBSlh8HQZxURJjuyc3xXHLUHCMq0bhMgp6XPxAnzrQdWAg_xkmssKdT-njwbOOYZpQfdPcUE_8amGnI-K3KnEvi-TxnOOEcsmbet5JuAhRgbZx32ZdrYXT=w2134-h1422-s-no"
-    caption="2023-Barbecue party in Shenzhen, Thanks Dr. Xiong"
+    caption="2023-Barbecue party in Shenzhen"
   %}
   
   {% 
@@ -71,8 +71,45 @@ nav:
   {%
     include figure.html
     image="https://lh3.googleusercontent.com/pw/AIL4fc_hMHzdxD_WgD3DZLhQsPQYuaeyArTZYD0USnx5PYHnqAYdCB9SdSwWO7EgdBXH5P0YjV-4xJ35WsECKBjqNA05bBYqnHANuTOtSvUaTMZU-4OTZjuxq4wtaKx9hr5cleckl21C-ZQOSQd9_rQ6Jilp=w2172-h1448-s-no"
-    caption="2020-Shing Mun Reservoir"
+    caption="2020-Hiking in Shing Mun Reservoir"
   %}
+
+  {%
+    include figure.html
+    image="https://lh3.googleusercontent.com/pw/AIL4fc9WDYGPXlBlaZqStTpuYNkmSvi-3YWPPPqL1eWCTBhI-3tcoJEjAYmgYEleDpAaMh0O9XR03gtVeny7c5iLsWhE2aRreXFCHMi78YRsFUPLR6FFq7z1A4_BE62vx-s-9fvTZ52OaiHZxv6ZVs6bZ00z=w2202-h1468-s-no"
+    caption="2018-Exchange student farewell"
+  %}
+
+  {%
+    include figure.html
+    image="https://lh3.googleusercontent.com/pw/AIL4fc9Dc3lPACpdx3kjzUFVQVtwMso7kj24JzBoi9R5Cy21vwtiHXE-QN3cd5kGno_NgqYg3wVYCqFRIIXkx7nh3XEUbk-cWR0ykTD5lMmxWtL0uy8N40zKEQ0ZoQyFqplvzbYXxhH2Ohlbuy7nc2gfzjVZ=w1169-h779-s-no"
+    caption="2017-Birthday celebration"
+  %}
+
+  {%
+    include figure.html
+    image="https://lh3.googleusercontent.com/pw/AIL4fc8LPBV_lDVVpjRInD--Zxx0js2YOlYN9JJFJeXrAW41vlGeDq-N3Own-S28fltgzd547qnwf9noainD8D4jyTLt_QfUA_R4My-TzvDbtS9GR4coL7ZTb5yVG8DBZYpnm8hFxZunbg8m2oSbLu_D4bJ1=w2202-h1468-s-no"
+    caption="2016-BBQ party"
+  %}
+
+  {%
+    include figure.html
+    image="https://lh3.googleusercontent.com/pw/AIL4fc_h-dNqi6RVuFExvu_gXBYw3OSRNJ5mal-yc_HFbknUtmqWJHl2K0GcaNMyFPniZJhAh-FmoP8aUMKHgKA7okX2wbSjSEAY-b1tIjXp9qsAGApwMrWoPXTWIvLcMgLb_QLZu3xG31XaxLvh1u-xEDI6=w1516-h1011-s-no"
+    caption="2015-Lab lunch at New Asia College"
+  %}
+
+  {%
+    include figure.html
+    image="https://lh3.googleusercontent.com/pw/AIL4fc8MvJYA3SuE71aumlwL7WC8sEJrw9Xl16n8DEXgQkUh3cj1Y_Zw5tNn9VuX5N8T3pUhOE8kRcTuB9PukkW6WK4VqwEvew8YMVB7LSxA8U0jkGwu-VN6SdwV6Om1Om4KurbFj-l0r5fVQftq5adLSbTQ=w2116-h1412-s-no"
+    caption="2014-Afternoon tea at 龐萬倫"
+  %}
+
+  {%
+    include figure.html
+    image="https://lh3.googleusercontent.com/pw/AIL4fc9jMEHtvQYLSjQtJzxFcM814dq18SYdfQmsMbiBfzojGUu3eLiFiRrcicZ66iAkd-hF0XC0CPsTl3NrgInXc4jBE6gxktumNx99Yp7tmbXWVwaTNpaS2Er3Zv-oqnAfSVqSQT_Eq_8yoLiN6jShk-IZ=w2118-h1412-s-no"
+    caption="2013-Very first group photo of Cheng Lab"
+  %}
+   
 
 {% endcapture %}
 
