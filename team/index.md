@@ -18,7 +18,7 @@ Welcome to our lab and get to know our team! Our laboratory members are from dif
 
 {% include list.html data="members" component="portrait" filters="role: res" %}
 
-## Postdoctoral researcher
+## Postdoctoral Fellow
 
 {% include list.html data="members" component="portrait" filters="role: postdoc" %}
 
@@ -116,6 +116,12 @@ Welcome to our lab and get to know our team! Our laboratory members are from dif
 <td markdown="span">Esther Yi-bin Jiang</td>
 <td markdown="span">Research Associate</td>
 <td markdown="span">Teacher</td>
+</tr>
+<tr>
+<td markdown="span">2014</td>
+<td markdown="span">May Sui-Mui LI</td>
+<td markdown="span">Research Assistant</td>
+<td markdown="span">Hospital Authority</td>
 </tr>
 </tbody>
 </table>
@@ -245,6 +251,12 @@ Welcome to our lab and get to know our team! Our laboratory members are from dif
 <td markdown="span">TIAN Yuan</td>
 <td markdown="span">Ph.D student</td>
 <td markdown="span">Assistant professor, Shenzhen University</td>
+</tr>
+<tr>
+<td markdown="span">2014</td>
+<td markdown="span">Alfa Bai</td>
+<td markdown="span">Post-doctoral Fellow</td>
+<td markdown="span">CUHK Medical Centre, Principal Medical Technologist</td>
 </tr>
 <tr>
 <td markdown="span">2012</td>

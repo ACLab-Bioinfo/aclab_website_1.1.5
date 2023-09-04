@@ -10,8 +10,14 @@ nav:
   
   {% 
     include figure.html 
+    image="https://lh3.googleusercontent.com/pw/AIL4fc9_-P3zythvdTjQNqlIUiO2xp7F1A8NS0BAjtlkRZFyjwGarQ7-8mMiVAcYzkklecKJUzIgyVq-859uucvKEiBr-qRRqxsroPsn5gdaqdeWiLPJGr-YXM6Dx7t5D9knXkOSnIOmQoF3X2tlyG80AFvI=w2168-h1446-s-no"
+    caption="2023-Happy graduation and farewell Shufen!"
+  %}
+
+  {% 
+    include figure.html 
     image="https://lh3.googleusercontent.com/pw/AJFCJaXutu2XX3fmJ7nyCajA8vqnIttYRFcgJLWBSlh8HQZxURJjuyc3xXHLUHCMq0bhMgp6XPxAnzrQdWAg_xkmssKdT-njwbOOYZpQfdPcUE_8amGnI-K3KnEvi-TxnOOEcsmbet5JuAhRgbZx32ZdrYXT=w2134-h1422-s-no"
-    caption="2023-Barbecue party in Shenzhen"
+    caption="2023-Barbecue gathering in Shenzhen"
   %}
   
   {% 
