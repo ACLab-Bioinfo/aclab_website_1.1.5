@@ -220,7 +220,7 @@ Welcome to our lab and get to know our team! Our laboratory members are from dif
 <td markdown="span">2017</td>
 <td markdown="span">WU Feng</td>
 <td markdown="span">Ph.D student</td>
-<td markdown="span">Scientific Officer, Department of Health</td>
+<td markdown="span">Scientific Officer, Department of Health, Hong Kong</td>
 </tr>
 <tr>
 <td markdown="span">2017</td>

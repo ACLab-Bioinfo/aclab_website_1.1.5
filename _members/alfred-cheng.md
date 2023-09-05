@@ -6,6 +6,10 @@ aliases:
   - CHENG Sze Lok Alfred
   - Alfred Cheng
   - Alfred Sze-Lok Cheng
+  - Alfred S. L. Cheng
+  - Alfred SL Cheng
+  - Alfred S Cheng
+  - Alfred S. Cheng
 links:
   home-page: https://www2.sbs.cuhk.edu.hk/en-gb/people/academic-staff/prof-cheng-sze-lok-alfred
   google-scholar: Alfred S.L. Cheng
