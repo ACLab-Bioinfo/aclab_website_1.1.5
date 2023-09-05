@@ -256,7 +256,7 @@ Welcome to our lab and get to know our team! Our laboratory members are from dif
 <td markdown="span">2014</td>
 <td markdown="span">Alfa Bai</td>
 <td markdown="span">Post-doctoral Fellow</td>
-<td markdown="span">CUHK Medical Centre, Principal Medical Technologist</td>
+<td markdown="span">Principal Medical Technologist, CUHK Medical Centre</td>
 </tr>
 <tr>
 <td markdown="span">2012</td>
