@@ -121,7 +121,7 @@ Welcome to our lab and get to know our team! Our laboratory members are from dif
 <td markdown="span">2014</td>
 <td markdown="span">May Sui-Mui LI</td>
 <td markdown="span">Research Assistant</td>
-<td markdown="span">Hospital Authority</td>
+<td markdown="span">Medical Technologist (Molecular Pathology), Queen Elizabeth Hospital</td>
 </tr>
 </tbody>
 </table>
@@ -238,7 +238,7 @@ Welcome to our lab and get to know our team! Our laboratory members are from dif
 <td markdown="span">2016</td>
 <td markdown="span">LI Yingying</td>
 <td markdown="span">M.phil student</td>
-<td markdown="span">Technical Officer, Centre for PanorOmics Sciences, University of Hong Kong</td>
+<td markdown="span">Assistant Manager of Biomedical Technology Support Centre, Hong Kong Science and Technology Park</td>
 </tr>
 <tr>
 <td markdown="span">2015</td>
@@ -281,6 +281,40 @@ Welcome to our lab and get to know our team! Our laboratory members are from dif
 <td markdown="span">YIP Wing-Kit</td>
 <td markdown="span">M.phil student</td>
 <td markdown="span">Research Assistant, School of Public Health, CUHK</td>
+</tr>
+</tbody>
+</table>
+
+### Visiting scholar
+
+<table style="width:100%">
+<colgroup>
+<col width="10%" />
+<col width="25%" />
+<col width="65%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Year of leave</th>
+<th>Name</th>
+<th>Current Position</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td markdown="span">2023</td>
+<td markdown="span">ZHONG Chenpeng</td>
+<td markdown="span">Resident doctor, Department of Liver Surgery, Ren Ji Hospital affiliated to Shanghai Jiao Tong University</td>
+</tr>
+<tr>
+<td markdown="span">2020</td>
+<td markdown="span">DUAN Liang</td>
+<td markdown="span">Associate Chief Physician/Associate Professor, The Second Affiliated Hospital of Chongqing Medical University</td>
+</tr>
+<tr>
+<td markdown="span">2013</td>
+<td markdown="span">YU Zhuo</td>
+<td markdown="span">Deputy director/Associate chief physician/Associate professor, Department of Hepatology, Shuguang Hospital affiliated to Shanghai University of Traditional Chinese Medicine</td>
 </tr>
 </tbody>
 </table>
