@@ -52,7 +52,7 @@ def main(entry):
         # create source
         source = {"id": f"{id_type}:{id_value}"}
 
-        """
+        
         # if not a doi, Manubot likely can't cite, so keep citation details
         if id_type != "doi":
             # get summaries
@@ -103,7 +103,7 @@ def main(entry):
 
         # copy fields from entry to source
         source.update(entry)
-        """
+        
         
         # add source to list
         sources.append(source)
