@@ -45,5 +45,14 @@
     max-width: 400px;
   }
 }
+@media only screen and (max-width: 400px) {
+  .feature {
+    flex-direction: column !important;
+  }
+  .feature-image {
+    width: unset;
+    max-width: 266.6666666667px;
+  }
+}
 
 /*# sourceMappingURL=feature.css.map */
