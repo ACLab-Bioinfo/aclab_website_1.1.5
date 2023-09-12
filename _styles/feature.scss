@@ -12,14 +12,14 @@ $wrap: 800px;
 }
 
 .feature-image {
-  flex-shrink: 0;
-  width: 40%;
+  flex-shrink: 1;
+  max-width: 40%;
   aspect-ratio: 3 / 2;
   border-radius: var(--rounded);
   overflow: hidden;
   box-shadow: var(--shadow);
   height: auto;
-  object-fit: cover;
+  object-fit: contain;
 }
 
 .feature-image img {
