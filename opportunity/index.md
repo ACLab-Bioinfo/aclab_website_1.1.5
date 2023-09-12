@@ -31,7 +31,7 @@ We also welcome medical students and BSc in Biomedical Sciences who are willing 
 [Hong Kong PhD Fellowship Scheme (HKPFS)](https://www.gs.cuhk.edu.hk/admissions/scholarships-fees/hkpfs)  
 [Cancer Biology and Experimental Therapeutics thematic research program](https://www2.sbs.cuhk.edu.hk/en-gb/research/thematic-research-programs/cancer-biology-and-experimental-therapeutics)  
 [School of Biomedical Sciences, The Chinese University of Hong Kong](https://www2.sbs.cuhk.edu.hk/en-gb/)  
-[Faculty of Medicine, The Chinese University of Hong Kong](https://www.med.cuhk.edu.hk)
+[Faculty of Medicine, The Chinese University of Hong Kong](https://www.med.cuhk.edu.hk)  
 [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/chinese/index.html)  
 
 {% include section.html %}

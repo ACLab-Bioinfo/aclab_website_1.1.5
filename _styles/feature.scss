@@ -18,6 +18,7 @@ $wrap: 800px;
   border-radius: var(--rounded);
   overflow: hidden;
   box-shadow: var(--shadow);
+  object-fit: cover;
 }
 
 .feature-image img {

@@ -39,93 +39,6 @@ Welcome to our lab and get to know our team! Our laboratory members are from dif
 
 ## Former Lab Members 
 
-### Research Staffs
-
-<table style="width:100%">
-<colgroup>
-<col width="10%" />
-<col width="25%" />
-<col width="20%" />
-<col width="45%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Year of leave</th>
-<th>Name</th>
-<th>Lab Position</th>
-<th>Current Position</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td markdown="span">2023</td>
-<td markdown="span">Cheng Yuk Lam Gareth</td>
-<td markdown="span">Junior Research Assistant</td>
-<td markdown="span">Environmental protection inspector</td>
-</tr>
-<tr>
-<td markdown="span">2022</td>
-<td markdown="span">Li Ka Man Carmen</td>
-<td markdown="span">Junior Research Assistant</td>
-<td markdown="span">To be update</td>
-</tr>
-<tr>
-<td markdown="span">2022</td>
-<td markdown="span">YUNG Wai Yi Amanda</td>
-<td markdown="span">Research Assistant</td>
-<td markdown="span">Assistant Facility Manager, Drug Safety Testing Center, Institute of Translational Research, Hong Kong Science and Technology Park</td>
-</tr>
-<tr>
-<td markdown="span">2021</td>
-<td markdown="span">DING Lipeng</td>
-<td markdown="span">Junior Research Assistant</td>
-<td markdown="span">PhD candidate, School of Biomedical Sciences, CUHK</td>
-</tr>
-<tr>
-<td markdown="span">2021</td>
-<td markdown="span">LI Jingqing</td>
-<td markdown="span">Junior Research Assistant</td>
-<td markdown="span">Lab Manager of ZHOU Lab, School of Biomedical Sciences, CUHK</td>
-</tr>
-<tr>
-<td markdown="span">2021</td>
-<td markdown="span">ZHOU Jingying</td>
-<td markdown="span">Reasearch Assistant Professor</td>
-<td markdown="span">Assistant Professor, School of Biomedical Sciences, CUHK</td>
-</tr>
-<tr>
-<td markdown="span">2020</td>
-<td markdown="span">Joel Chin-Ling Lau</td>
-<td markdown="span">Junior Research Assistant</td>
-<td markdown="span">Programmer, KanHan Technologies</td>
-</tr>
-<tr>
-<td markdown="span">2019</td>
-<td markdown="span">Myth Tsz-Shun Mok</td>
-<td markdown="span">Research Associate</td>
-<td markdown="span">Clinical Genetic Service, Department of Health, Hong Kong</td>
-</tr>
-<tr>
-<td markdown="span">2017</td>
-<td markdown="span">Szeto Lemuel Lut Ming</td>
-<td markdown="span">Junior Research Assistant</td>
-<td markdown="span">PhD candidate, University of Oxford</td>
-</tr>
-<tr>
-<td markdown="span">2014</td>
-<td markdown="span">Esther Yi-bin Jiang</td>
-<td markdown="span">Research Associate</td>
-<td markdown="span">Teacher</td>
-</tr>
-<tr>
-<td markdown="span">2014</td>
-<td markdown="span">May Sui-Mui LI</td>
-<td markdown="span">Research Assistant</td>
-<td markdown="span">Medical Technologist (Molecular Pathology), Queen Elizabeth Hospital</td>
-</tr>
-</tbody>
-</table>
-
 ### Students
 
 <table style="width:100%">
@@ -170,7 +83,7 @@ Welcome to our lab and get to know our team! Our laboratory members are from dif
 </tr>
 <tr>
 <td markdown="span">2021</td>
-<td markdown="span">LAW Wing Yan, Rhoda</td>
+<td markdown="span">LAW Wing Yan Rhoda</td>
 <td markdown="span">Ph.D student</td>
 <td markdown="span">Field Application Specialist, Bio-Rad Laboratories</td>
 </tr>
@@ -206,7 +119,7 @@ Welcome to our lab and get to know our team! Our laboratory members are from dif
 </tr>
 <tr>
 <td markdown="span">2019</td>
-<td markdown="span">CHEUNG Ka Wing, Otto</td>
+<td markdown="span">CHEUNG Ka Wing Otto</td>
 <td markdown="span">Ph.D student</td>
 <td markdown="span">Analyst, Deloitte Consulting LLP</td>
 </tr>
@@ -254,13 +167,13 @@ Welcome to our lab and get to know our team! Our laboratory members are from dif
 </tr>
 <tr>
 <td markdown="span">2014</td>
-<td markdown="span">Alfa Bai</td>
+<td markdown="span">BAI Alfa</td>
 <td markdown="span">Post-doctoral Fellow</td>
 <td markdown="span">Principal Medical Technologist, CUHK Medical Centre</td>
 </tr>
 <tr>
 <td markdown="span">2012</td>
-<td markdown="span">TSANG Pui-Fong, Daisy</td>
+<td markdown="span">TSANG Pui-Fong Daisy</td>
 <td markdown="span">M.phil student</td>
 <td markdown="span">Technician, Hospital Authority</td>
 </tr>
@@ -281,6 +194,93 @@ Welcome to our lab and get to know our team! Our laboratory members are from dif
 <td markdown="span">YIP Wing-Kit</td>
 <td markdown="span">M.phil student</td>
 <td markdown="span">Research Assistant, School of Public Health, CUHK</td>
+</tr>
+</tbody>
+</table>
+
+### Research Staff
+
+<table style="width:100%">
+<colgroup>
+<col width="10%" />
+<col width="25%" />
+<col width="20%" />
+<col width="45%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Year of leave</th>
+<th>Name</th>
+<th>Lab Position</th>
+<th>Current Position</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td markdown="span">2023</td>
+<td markdown="span">CHENG Yuk Lam Gareth</td>
+<td markdown="span">Junior Research Assistant</td>
+<td markdown="span">Environmental protection inspector</td>
+</tr>
+<tr>
+<td markdown="span">2022</td>
+<td markdown="span">LI Ka Man Carmen</td>
+<td markdown="span">Junior Research Assistant</td>
+<td markdown="span">Research Assistant, Department of Anatomical and Cellular Pathology, CUHK</td>
+</tr>
+<tr>
+<td markdown="span">2022</td>
+<td markdown="span">YUNG Wai Yi Amanda</td>
+<td markdown="span">Research Assistant</td>
+<td markdown="span">Assistant Facility Manager, Drug Safety Testing Center, Institute of Translational Research, Hong Kong Science and Technology Park</td>
+</tr>
+<tr>
+<td markdown="span">2021</td>
+<td markdown="span">DING Lipeng</td>
+<td markdown="span">Junior Research Assistant</td>
+<td markdown="span">PhD candidate, School of Biomedical Sciences, CUHK</td>
+</tr>
+<tr>
+<td markdown="span">2021</td>
+<td markdown="span">LI Jingqing</td>
+<td markdown="span">Junior Research Assistant</td>
+<td markdown="span">Lab Manager of ZHOU Lab, School of Biomedical Sciences, CUHK</td>
+</tr>
+<tr>
+<td markdown="span">2021</td>
+<td markdown="span">ZHOU Jingying</td>
+<td markdown="span">Reasearch Assistant Professor</td>
+<td markdown="span">Assistant Professor, School of Biomedical Sciences, CUHK</td>
+</tr>
+<tr>
+<td markdown="span">2020</td>
+<td markdown="span">LAU Chin-Ling Joel</td>
+<td markdown="span">Junior Research Assistant</td>
+<td markdown="span">Programmer, KanHan Technologies</td>
+</tr>
+<tr>
+<td markdown="span">2019</td>
+<td markdown="span">MOK Tsz-Shun Myth</td>
+<td markdown="span">Research Associate</td>
+<td markdown="span">Clinical Genetic Service, Department of Health, Hong Kong</td>
+</tr>
+<tr>
+<td markdown="span">2017</td>
+<td markdown="span">SZETO Lut Ming Lemuel</td>
+<td markdown="span">Junior Research Assistant</td>
+<td markdown="span">PhD candidate, University of Oxford</td>
+</tr>
+<tr>
+<td markdown="span">2014</td>
+<td markdown="span">JIANG Yi-bin Esther</td>
+<td markdown="span">Research Associate</td>
+<td markdown="span">Teacher</td>
+</tr>
+<tr>
+<td markdown="span">2014</td>
+<td markdown="span">LI Sui-Mui May</td>
+<td markdown="span">Research Assistant</td>
+<td markdown="span">Medical Technologist (Molecular Pathology), Queen Elizabeth Hospital</td>
 </tr>
 </tbody>
 </table>
