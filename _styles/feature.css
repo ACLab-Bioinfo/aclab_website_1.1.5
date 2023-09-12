@@ -8,13 +8,13 @@
 
 .feature-image {
   flex-shrink: 0;
+  width: 40%;
   aspect-ratio: 3/2;
   border-radius: var(--rounded);
   overflow: hidden;
   box-shadow: var(--shadow);
   object-fit: cover;
   height: auto;
-  max-width: 100%;
 }
 
 .feature-image img {
