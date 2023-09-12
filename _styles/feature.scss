@@ -41,7 +41,7 @@ $wrap: 800px;
   flex-direction: row-reverse;
 }
 
-@media (max-width: $wrap) {
+@media only screen and (max-width: $wrap) {
   .feature {
     flex-direction: column !important;
   }
