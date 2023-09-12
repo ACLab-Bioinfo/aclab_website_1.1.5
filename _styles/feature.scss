@@ -14,7 +14,6 @@ $wrap: 800px;
 .feature-image {
   flex-shrink: 0;
   width: 40%;
-  aspect-ratio: 3 / 2;
   border-radius: var(--rounded);
   overflow: hidden;
   box-shadow: var(--shadow);
@@ -34,21 +33,20 @@ $wrap: 800px;
   font-size: var(--large);
   text-align: center;
   font-family: var(--heading);
-  font-weight: var(--bold);
+  font-weight: var(--semi-bold);
 }
 
 .feature[data-flip] {
   flex-direction: row-reverse;
 }
 
-@media only screen and (max-width: $wrap) {
+@media (max-width: $wrap) {
   .feature {
     flex-direction: column !important;
   }
 
   .feature-image {
     width: unset;
-    max-width: 30%;
-    height: auto;
+    max-width: calc($wrap / 2);
   }
 }
