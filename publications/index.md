@@ -2,11 +2,21 @@
 title: Publications
 nav:
   order: 2
+
+carousels:
+  - images: 
+    - image: images/photo.jpg
+    - image: images/photo.jpg
+    - image: images/photo.jpg
+    - image: images/photo.jpg
 ---
+
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Publications
 
 {% include section.html %}
+
+{% include carousel.html height="30" width="35" unit="%" duration="7" number="1" %}
 
 ## Highlights
 
