@@ -4,11 +4,13 @@ nav:
   order: 2
 
 carousels:
-  - images: 
-    - image: images/photo.jpg
-    - image: images/photo.jpg
-    - image: images/photo.jpg
-    - image: images/photo.jpg
+- images: 
+  - image: images/photo.jpg
+    url: https://www.google.com/
+  - image: images/photo.jpg
+    url: https://www.bing.com
+  - image: images/photo.jpg
+    url: https://youtube.com/
 ---
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Publications
