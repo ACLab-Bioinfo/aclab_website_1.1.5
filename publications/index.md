@@ -6,22 +6,17 @@ nav:
 carousels:
 - images: 
   - image: images/publication/2023Gut.png
-    url: https://gut.bmj.com/content/72/9/1758
   - image: images/publication/2021STM.png
-    url: https://www.science.org/doi/10.1126/scitranslmed.aaz6804
   - image: images/publication/2019Gut.png
-    url: https://gut.bmj.com/content/69/2/365
   - image: images/publication/2017Gut.png
-    url: https://gut.bmj.com/content/67/5/931
   - image: images/publication/2015JH.png
-    url: https://www.sciencedirect.com/science/article/pii/S0168827814009179?via%253Dihub
 ---
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Publications
 
 {% include section.html %}
 
-{% include carousel.html height="30" width="35" unit="%" duration="7" number="1" %}
+{% include carousel.html height="35" unit="%" duration="7" number="1" %}
 
 {% include section.html %}
 
