@@ -11,7 +11,7 @@ nav:
   {% 
     include figure.html 
     image="https://lh3.googleusercontent.com/pw/AIL4fc9_-P3zythvdTjQNqlIUiO2xp7F1A8NS0BAjtlkRZFyjwGarQ7-8mMiVAcYzkklecKJUzIgyVq-859uucvKEiBr-qRRqxsroPsn5gdaqdeWiLPJGr-YXM6Dx7t5D9knXkOSnIOmQoF3X2tlyG80AFvI=w2168-h1446-s-no"
-    caption="2023-Happy graduation and farewell Shufen!"
+    caption="2023-Happy graduation Zhixian and Shufen!"
   %}
 
   {% 
