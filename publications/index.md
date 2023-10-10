@@ -5,18 +5,18 @@ nav:
 
 carousels:
 - images: 
-  - image: "https://user-images.githubusercontent.com/81615397/273845637-028e3caa-9cbd-4165-b642-f1a96184f462.png"
+  - image: https://user-images.githubusercontent.com/81615397/273845637-028e3caa-9cbd-4165-b642-f1a96184f462.png
   - image: https://user-images.githubusercontent.com/81615397/273845622-25295426-d58b-4d82-b9d7-a911bd1972c0.png
-  - image: "images/publication/2019Gut.png"
-  - image: /images/publication/2017Gut.png
-  - image: images/publication/2015JH.png
+  - image: https://user-images.githubusercontent.com/81615397/273845603-03f5bbff-c1b3-4282-bafa-fc1ef4ce9543.png
+  - image: https://user-images.githubusercontent.com/81615397/273845576-b9cfd126-327e-47df-a3e8-3c3e3c6f82ce.png
+  - image: https://user-images.githubusercontent.com/81615397/273845467-a4ac9693-f547-4986-8879-d74d12fd2286.png
 ---
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Publications
 
 {% include section.html %}
 
-{% include carousel.html height="35" unit="%" duration="7" number="1" %}
+{% include carousel.html height="50" unit="%" duration="7" number="1" %}
 
 {% include section.html %}
 
