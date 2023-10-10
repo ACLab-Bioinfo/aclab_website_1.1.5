@@ -5,10 +5,10 @@ nav:
 
 carousels:
 - images: 
-  - image: images/publication/2023Gut.png
-  - image: images/publication/2021STM.png
-  - image: images/publication/2019Gut.png
-  - image: images/publication/2017Gut.png
+  - image: "https://user-images.githubusercontent.com/81615397/273845637-028e3caa-9cbd-4165-b642-f1a96184f462.png"
+  - image: https://user-images.githubusercontent.com/81615397/273845622-25295426-d58b-4d82-b9d7-a911bd1972c0.png
+  - image: "images/publication/2019Gut.png"
+  - image: /images/publication/2017Gut.png
   - image: images/publication/2015JH.png
 ---
 
