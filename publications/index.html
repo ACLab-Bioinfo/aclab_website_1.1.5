@@ -490,13 +490,23 @@
         
           <input class="carousel__activator" type="radio" name="carousel0" id="0g">
         
+          <input class="carousel__activator" type="radio" name="carousel0" id="0h">
+        
+          <input class="carousel__activator" type="radio" name="carousel0" id="0i">
+        
+          <input class="carousel__activator" type="radio" name="carousel0" id="0j">
+        
+          <input class="carousel__activator" type="radio" name="carousel0" id="0k">
+        
+          <input class="carousel__activator" type="radio" name="carousel0" id="0l">
+        
         
           
           
           
           
           <div class="carousel__controls">
-              <label class="carousel__control carousel__control--backward" for="0g"></label>
+              <label class="carousel__control carousel__control--backward" for="0l"></label>
               <label class="carousel__control carousel__control--forward" for="0b"></label>
           </div>
         
@@ -551,19 +561,79 @@
           
           <div class="carousel__controls">
               <label class="carousel__control carousel__control--backward" for="0f"></label>
+              <label class="carousel__control carousel__control--forward" for="0h"></label>
+          </div>
+        
+          
+          
+          
+          
+          <div class="carousel__controls">
+              <label class="carousel__control carousel__control--backward" for="0g"></label>
+              <label class="carousel__control carousel__control--forward" for="0i"></label>
+          </div>
+        
+          
+          
+          
+          
+          <div class="carousel__controls">
+              <label class="carousel__control carousel__control--backward" for="0h"></label>
+              <label class="carousel__control carousel__control--forward" for="0j"></label>
+          </div>
+        
+          
+          
+          
+          
+          <div class="carousel__controls">
+              <label class="carousel__control carousel__control--backward" for="0i"></label>
+              <label class="carousel__control carousel__control--forward" for="0k"></label>
+          </div>
+        
+          
+          
+          
+          
+          <div class="carousel__controls">
+              <label class="carousel__control carousel__control--backward" for="0j"></label>
+              <label class="carousel__control carousel__control--forward" for="0l"></label>
+          </div>
+        
+          
+          
+          
+          
+          <div class="carousel__controls">
+              <label class="carousel__control carousel__control--backward" for="0k"></label>
               <label class="carousel__control carousel__control--forward" for="0a"></label>
           </div>
         
         <div class="carousel__track">
           <ul>
             
-            <li class="carousel__slide" style="background-image: url('https://user-images.githubusercontent.com/81615397/273845637-028e3caa-9cbd-4165-b642-f1a96184f462.png');">
+            <li class="carousel__slide" style="background-image: url('https://user-images.githubusercontent.com/81615397/274193749-7a91708f-7504-476b-a005-1247bd673e74.png');">
             
             </li>
-<li class="carousel__slide" style="background-image: url('https://user-images.githubusercontent.com/81615397/273845622-25295426-d58b-4d82-b9d7-a911bd1972c0.png');">
+<li class="carousel__slide" style="background-image: url('https://user-images.githubusercontent.com/81615397/274208755-36afb6e3-6768-4f7f-851d-7a4376244a06.png');">
             
             </li>
-<li class="carousel__slide" style="background-image: url('https://user-images.githubusercontent.com/81615397/273845603-03f5bbff-c1b3-4282-bafa-fc1ef4ce9543.png');">
+<li class="carousel__slide" style="background-image: url('https://user-images.githubusercontent.com/81615397/274200043-d0684976-1093-45b3-b483-856200f7290f.png');">
+            
+            </li>
+<li class="carousel__slide" style="background-image: url('https://user-images.githubusercontent.com/81615397/274223963-b8ba1c30-fe76-4b91-9feb-529d29374185.png');">
+            
+            </li>
+<li class="carousel__slide" style="background-image: url('https://user-images.githubusercontent.com/81615397/274223963-b8ba1c30-fe76-4b91-9feb-529d29374185.png');">
+            
+            </li>
+<li class="carousel__slide" style="background-image: url('https://user-images.githubusercontent.com/81615397/274223809-f89b08f2-ea16-4ac4-ae4e-2fac7dedf556.png');">
+            
+            </li>
+<li class="carousel__slide" style="background-image: url('https://user-images.githubusercontent.com/81615397/274193741-577327af-dd8d-4f95-a443-8c623ede1979.png');">
+            
+            </li>
+<li class="carousel__slide" style="background-image: url('https://user-images.githubusercontent.com/81615397/274193679-054afaa2-15ce-4613-9120-5f53045197cc.png');">
             
             </li>
 <li class="carousel__slide" style="background-image: url('https://user-images.githubusercontent.com/81615397/273845576-b9cfd126-327e-47df-a3e8-3c3e3c6f82ce.png');">
@@ -596,12 +666,22 @@
             
               <label class="carousel__indicator" for="0g"></label>
             
+              <label class="carousel__indicator" for="0h"></label>
+            
+              <label class="carousel__indicator" for="0i"></label>
+            
+              <label class="carousel__indicator" for="0j"></label>
+            
+              <label class="carousel__indicator" for="0k"></label>
+            
+              <label class="carousel__indicator" for="0l"></label>
+            
         </div>
     </div>
 </div>
 
 <style>
-.carousel__holder {width: 100%; position: relative; padding-bottom: 55%; margin: 1rem 0 1rem;}
+.carousel__holder {width: 100%; position: relative; padding-bottom: 58%; margin: 1rem 0 1rem;}
 .carousel {
   height: 100%;
   width: 100%;
@@ -776,6 +856,121 @@
   opacity: 1;
 }
 
+.carousel__activator:nth-of-type(8):checked ~ .carousel__track {
+  -webkit-transform: translateX(-700%);
+          transform: translateX(-700%);
+}
+.carousel__activator:nth-of-type(8):checked ~ .carousel__slide:nth-of-type(8) {
+  transition: opacity 0.5s, -webkit-transform 0.5s;
+  transition: opacity 0.5s, transform 0.5s;
+  transition: opacity 0.5s, transform 0.5s, -webkit-transform 0.5s;
+  top: 0;
+  left: 0;
+  right: 0;
+  opacity: 1;
+  -webkit-transform: scale(1);
+          transform: scale(1);
+}
+.carousel__activator:nth-of-type(8):checked ~ .carousel__controls:nth-of-type(8) {
+  display: block;
+  opacity: 1;
+}
+.carousel__activator:nth-of-type(8):checked ~ .carousel__indicators .carousel__indicator:nth-of-type(8) {
+  opacity: 1;
+}
+
+.carousel__activator:nth-of-type(9):checked ~ .carousel__track {
+  -webkit-transform: translateX(-800%);
+          transform: translateX(-800%);
+}
+.carousel__activator:nth-of-type(9):checked ~ .carousel__slide:nth-of-type(9) {
+  transition: opacity 0.5s, -webkit-transform 0.5s;
+  transition: opacity 0.5s, transform 0.5s;
+  transition: opacity 0.5s, transform 0.5s, -webkit-transform 0.5s;
+  top: 0;
+  left: 0;
+  right: 0;
+  opacity: 1;
+  -webkit-transform: scale(1);
+          transform: scale(1);
+}
+.carousel__activator:nth-of-type(9):checked ~ .carousel__controls:nth-of-type(9) {
+  display: block;
+  opacity: 1;
+}
+.carousel__activator:nth-of-type(9):checked ~ .carousel__indicators .carousel__indicator:nth-of-type(9) {
+  opacity: 1;
+}
+
+.carousel__activator:nth-of-type(10):checked ~ .carousel__track {
+  -webkit-transform: translateX(-900%);
+          transform: translateX(-900%);
+}
+.carousel__activator:nth-of-type(10):checked ~ .carousel__slide:nth-of-type(10) {
+  transition: opacity 0.5s, -webkit-transform 0.5s;
+  transition: opacity 0.5s, transform 0.5s;
+  transition: opacity 0.5s, transform 0.5s, -webkit-transform 0.5s;
+  top: 0;
+  left: 0;
+  right: 0;
+  opacity: 1;
+  -webkit-transform: scale(1);
+          transform: scale(1);
+}
+.carousel__activator:nth-of-type(10):checked ~ .carousel__controls:nth-of-type(10) {
+  display: block;
+  opacity: 1;
+}
+.carousel__activator:nth-of-type(10):checked ~ .carousel__indicators .carousel__indicator:nth-of-type(10) {
+  opacity: 1;
+}
+
+.carousel__activator:nth-of-type(11):checked ~ .carousel__track {
+  -webkit-transform: translateX(-1000%);
+          transform: translateX(-1000%);
+}
+.carousel__activator:nth-of-type(11):checked ~ .carousel__slide:nth-of-type(11) {
+  transition: opacity 0.5s, -webkit-transform 0.5s;
+  transition: opacity 0.5s, transform 0.5s;
+  transition: opacity 0.5s, transform 0.5s, -webkit-transform 0.5s;
+  top: 0;
+  left: 0;
+  right: 0;
+  opacity: 1;
+  -webkit-transform: scale(1);
+          transform: scale(1);
+}
+.carousel__activator:nth-of-type(11):checked ~ .carousel__controls:nth-of-type(11) {
+  display: block;
+  opacity: 1;
+}
+.carousel__activator:nth-of-type(11):checked ~ .carousel__indicators .carousel__indicator:nth-of-type(11) {
+  opacity: 1;
+}
+
+.carousel__activator:nth-of-type(12):checked ~ .carousel__track {
+  -webkit-transform: translateX(-1100%);
+          transform: translateX(-1100%);
+}
+.carousel__activator:nth-of-type(12):checked ~ .carousel__slide:nth-of-type(12) {
+  transition: opacity 0.5s, -webkit-transform 0.5s;
+  transition: opacity 0.5s, transform 0.5s;
+  transition: opacity 0.5s, transform 0.5s, -webkit-transform 0.5s;
+  top: 0;
+  left: 0;
+  right: 0;
+  opacity: 1;
+  -webkit-transform: scale(1);
+          transform: scale(1);
+}
+.carousel__activator:nth-of-type(12):checked ~ .carousel__controls:nth-of-type(12) {
+  display: block;
+  opacity: 1;
+}
+.carousel__activator:nth-of-type(12):checked ~ .carousel__indicators .carousel__indicator:nth-of-type(12) {
+  opacity: 1;
+}
+
 
 .carousel__control {
   height: 30px;
@@ -880,6 +1075,31 @@
           transform: translateX(600%);
 }
 
+.carousel__track .carousel__slide:nth-of-type(8) {
+  -webkit-transform: translateX(700%);
+          transform: translateX(700%);
+}
+
+.carousel__track .carousel__slide:nth-of-type(9) {
+  -webkit-transform: translateX(800%);
+          transform: translateX(800%);
+}
+
+.carousel__track .carousel__slide:nth-of-type(10) {
+  -webkit-transform: translateX(900%);
+          transform: translateX(900%);
+}
+
+.carousel__track .carousel__slide:nth-of-type(11) {
+  -webkit-transform: translateX(1000%);
+          transform: translateX(1000%);
+}
+
+.carousel__track .carousel__slide:nth-of-type(12) {
+  -webkit-transform: translateX(1100%);
+          transform: translateX(1100%);
+}
+
 
 .carousel--scale .carousel__slide {
   -webkit-transform: scale(0);
@@ -938,6 +1158,36 @@
 
 .carousel__slide:nth-of-type(7),
 .carousel--thumb .carousel__indicators .carousel__indicator:nth-of-type(7) {
+  background-size: cover;
+  background-position: center;
+}
+
+.carousel__slide:nth-of-type(8),
+.carousel--thumb .carousel__indicators .carousel__indicator:nth-of-type(8) {
+  background-size: cover;
+  background-position: center;
+}
+
+.carousel__slide:nth-of-type(9),
+.carousel--thumb .carousel__indicators .carousel__indicator:nth-of-type(9) {
+  background-size: cover;
+  background-position: center;
+}
+
+.carousel__slide:nth-of-type(10),
+.carousel--thumb .carousel__indicators .carousel__indicator:nth-of-type(10) {
+  background-size: cover;
+  background-position: center;
+}
+
+.carousel__slide:nth-of-type(11),
+.carousel--thumb .carousel__indicators .carousel__indicator:nth-of-type(11) {
+  background-size: cover;
+  background-position: center;
+}
+
+.carousel__slide:nth-of-type(12),
+.carousel--thumb .carousel__indicators .carousel__indicator:nth-of-type(12) {
   background-size: cover;
   background-position: center;
 }
@@ -1041,6 +1291,80 @@
 
 <div class="citation">
   
+    <a href="https://doi.org/gr2pp7" class="citation-image" aria-label="Fibrotic immune microenvironment remodeling mediates superior anti-tumor efficacy of a nano-PD-L1 trap in hepatocellular carcinoma">
+      <img src="" alt="Fibrotic immune microenvironment remodeling mediates superior anti-tumor efficacy of a nano-PD-L1 trap in hepatocellular carcinoma" loading="lazy" onerror="this.src = '/aclab_website_1.1.5/images/fallback.svg'; this.onerror = null;">
+    </a>
+  
+
+  <div class="citation-text">
+    
+    
+
+    <a href="https://doi.org/gr2pp7" class="citation-title">
+      Fibrotic immune microenvironment remodeling mediates superior anti-tumor efficacy of a nano-PD-L1 trap in hepatocellular carcinoma
+    </a>
+
+    <div class="citation-authors" data-tooltip="Xiaoyu Liu, Jingying Zhou, Haoran Wu, Shufen Chen, Lingyun Zhang, Wenshu Tang, Liang Duan, Ying Wang, Eleanor McCabe, Mengying Hu, Zhuo Yu, Hanzhuang Liu, Chung Hang Jonathan Choi, Joseph Jao-yiu Sung, Leaf Huang, Rihe Liu, Alfred Sze-lok Cheng " tabindex="0">
+      Xiaoyu Liu, Jingying Zhou, Haoran Wu, Shufen Chen, Lingyun Zhang, ..., Chung Hang Jonathan Choi, Joseph Jao-yiu Sung, Leaf Huang, Rihe Liu, Alfred Sze-lok Cheng
+    </div>
+
+    <div class="citation-details">
+      Molecular Therapy
+        ·  
+      01 Jan 2023
+        ·  
+      doi:10.1016/j.ymthe.2022.09.012
+    </div>
+
+    
+      
+
+      
+
+      
+    
+  </div>
+</div>
+
+<div class="citation">
+  
+    <a href="https://doi.org/gr2pp9" class="citation-image" aria-label="Aberrant cholesterol metabolic signaling impairs antitumor immunosurveillance through natural killer T cell dysfunction in obese liver">
+      <img src="" alt="Aberrant cholesterol metabolic signaling impairs antitumor immunosurveillance through natural killer T cell dysfunction in obese liver" loading="lazy" onerror="this.src = '/aclab_website_1.1.5/images/fallback.svg'; this.onerror = null;">
+    </a>
+  
+
+  <div class="citation-text">
+    
+    
+
+    <a href="https://doi.org/gr2pp9" class="citation-title">
+      Aberrant cholesterol metabolic signaling impairs antitumor immunosurveillance through natural killer T cell dysfunction in obese liver
+    </a>
+
+    <div class="citation-authors" data-tooltip="Wenshu Tang, Jingying Zhou, Weiqin Yang, Yu Feng, Haoran Wu, Myth T. S. Mok, Lingyun Zhang, Zhixian Liang, Xiaoyu Liu, Zhewen Xiong, Xuezhen Zeng, Jing Wang, Jiahuan Lu, Jingqing Li, Hanyong Sun, Xiaoyu Tian, Philip Chun Yeung, Yong Hou, Heung Man Lee, Candice C. H. Lam, Howard H. W. Leung, Anthony W. H. Chan, Ka Fai To, John Wong, Paul B. S. Lai, Kelvin K. C. Ng, Simon K. H. Wong, Vincent W. S. Wong, Alice P. S. Kong, Joseph J. Y. Sung, Alfred S. L. Cheng " tabindex="0">
+      Wenshu Tang, Jingying Zhou, Weiqin Yang, Yu Feng, Haoran Wu, ..., Simon K. H. Wong, Vincent W. S. Wong, Alice P. S. Kong, Joseph J. Y. Sung, Alfred S. L. Cheng
+    </div>
+
+    <div class="citation-details">
+      Cellular &amp; Molecular Immunology
+        ·  
+      20 May 2022
+        ·  
+      doi:10.1038/s41423-022-00872-3
+    </div>
+
+    
+      
+
+      
+
+      
+    
+  </div>
+</div>
+
+<div class="citation">
+  
     <a href="https://doi.org/gjqjz8" class="citation-image" aria-label="A selective HDAC8 inhibitor potentiates antitumor immunity and efficacy of immune checkpoint blockade in hepatocellular carcinoma">
       <img src="https://www.sbs.cuhk.edu.hk/enewsletter/2021vol11no2/_custom/image-slider/alfred-2.jpg" alt="A selective HDAC8 inhibitor potentiates antitumor immunity and efficacy of immune checkpoint blockade in hepatocellular carcinoma" loading="lazy" onerror="this.src = '/aclab_website_1.1.5/images/fallback.svg'; this.onerror = null;">
     </a>
@@ -1072,6 +1396,80 @@
           Press release:<a href="https://www.cpr.cuhk.edu.hk/en/press/cuhk-uncovers-a-new-strategy-to-turn-cold-liver-tumour-hot-leading-to-an-effective-and-durable-combined-immunotherapy/">CUHK Uncovers a New Strategy to Turn “Cold” Liver Tumour “Hot” Leading to an Effective and Durable Combined Immunotherapy</a>, <a href="https://www.stheadline.com/article/2112725/%E4%B8%AD%E5%A4%A7%E7%A0%94%E7%A9%B6%E7%99%BC%E7%8F%BE%E6%8A%91%E5%88%B6%E6%8E%92%E6%96%A5%E5%85%8D%E7%96%AB%E7%B4%B0%E8%83%9E%E5%9F%BA%E5%9B%A0-%E5%8F%AF%E5%A2%9E%E5%BC%B7%E7%99%8C%E7%97%87%E7%99%82%E6%B3%95%E5%8A%9F%E6%95%88">中大研究發現抑制排斥免疫細胞基因 可增強癌症療法功效</a>
 
         </div>
+      
+
+      
+
+      
+    
+  </div>
+</div>
+
+<div class="citation">
+  
+    <a href="https://doi.org/gr2pqc" class="citation-image" aria-label="Cell cycle-related kinase reprograms the liver immune microenvironment to promote cancer metastasis">
+      <img src="" alt="Cell cycle-related kinase reprograms the liver immune microenvironment to promote cancer metastasis" loading="lazy" onerror="this.src = '/aclab_website_1.1.5/images/fallback.svg'; this.onerror = null;">
+    </a>
+  
+
+  <div class="citation-text">
+    
+    
+
+    <a href="https://doi.org/gr2pqc" class="citation-title">
+      Cell cycle-related kinase reprograms the liver immune microenvironment to promote cancer metastasis
+    </a>
+
+    <div class="citation-authors" data-tooltip="Xuezhen Zeng, Jingying Zhou, Zhewen Xiong, Hanyong Sun, Weiqin Yang, Myth T. S. Mok, Jing Wang, Jingqing Li, Man Liu, Wenshu Tang, Yu Feng, Hector Kwong-Sang Wang, Shun-Wa Tsang, King-Lau Chow, Philip Chun Yeung, John Wong, Paul Bo-San Lai, Anthony Wing-Hung Chan, Ka Fai To, Stephen Lam Chan, Qiang Xia, Jing Xue, Xiao Chen, Jun Yu, Sui Peng, Joseph Jao-Yiu Sung, Ming Kuang, Alfred Sze-Lok Cheng " tabindex="0">
+      Xuezhen Zeng, Jingying Zhou, Zhewen Xiong, Hanyong Sun, Weiqin Yang, ..., Jun Yu, Sui Peng, Joseph Jao-Yiu Sung, Ming Kuang, Alfred Sze-Lok Cheng
+    </div>
+
+    <div class="citation-details">
+      Cellular &amp; Molecular Immunology
+        ·  
+      02 Sep 2020
+        ·  
+      doi:10.1038/s41423-020-00534-2
+    </div>
+
+    
+      
+
+      
+
+      
+    
+  </div>
+</div>
+
+<div class="citation">
+  
+    <a href="https://doi.org/gr2pp9" class="citation-image" aria-label="Aberrant cholesterol metabolic signaling impairs antitumor immunosurveillance through natural killer T cell dysfunction in obese liver">
+      <img src="" alt="Aberrant cholesterol metabolic signaling impairs antitumor immunosurveillance through natural killer T cell dysfunction in obese liver" loading="lazy" onerror="this.src = '/aclab_website_1.1.5/images/fallback.svg'; this.onerror = null;">
+    </a>
+  
+
+  <div class="citation-text">
+    
+    
+
+    <a href="https://doi.org/gr2pp9" class="citation-title">
+      Aberrant cholesterol metabolic signaling impairs antitumor immunosurveillance through natural killer T cell dysfunction in obese liver
+    </a>
+
+    <div class="citation-authors" data-tooltip="Wenshu Tang, Jingying Zhou, Weiqin Yang, Yu Feng, Haoran Wu, Myth T. S. Mok, Lingyun Zhang, Zhixian Liang, Xiaoyu Liu, Zhewen Xiong, Xuezhen Zeng, Jing Wang, Jiahuan Lu, Jingqing Li, Hanyong Sun, Xiaoyu Tian, Philip Chun Yeung, Yong Hou, Heung Man Lee, Candice C. H. Lam, Howard H. W. Leung, Anthony W. H. Chan, Ka Fai To, John Wong, Paul B. S. Lai, Kelvin K. C. Ng, Simon K. H. Wong, Vincent W. S. Wong, Alice P. S. Kong, Joseph J. Y. Sung, Alfred S. L. Cheng " tabindex="0">
+      Wenshu Tang, Jingying Zhou, Weiqin Yang, Yu Feng, Haoran Wu, ..., Simon K. H. Wong, Vincent W. S. Wong, Alice P. S. Kong, Joseph J. Y. Sung, Alfred S. L. Cheng
+    </div>
+
+    <div class="citation-details">
+      Cellular &amp; Molecular Immunology
+        ·  
+      20 May 2022
+        ·  
+      doi:10.1038/s41423-022-00872-3
+    </div>
+
+    
       
 
       
@@ -1254,117 +1652,6 @@
       22 Sep 2017
         ·  
       doi:10.1136/gutjnl-2017-314032
-    </div>
-
-    
-      
-
-      
-
-      
-    
-  </div>
-</div>
-
-<div class="citation">
-  
-    <a href="https://doi.org/f27gkv" class="citation-image" aria-label="A CCRK-EZH2 epigenetic circuitry drives hepatocarcinogenesis and associates with tumor recurrence and poor survival of patients">
-      <img src="https://ars.els-cdn.com/content/image/1-s2.0-S0168827814009179-fx1_lrg.jpg" alt="A CCRK-EZH2 epigenetic circuitry drives hepatocarcinogenesis and associates with tumor recurrence and poor survival of patients" loading="lazy" onerror="this.src = '/aclab_website_1.1.5/images/fallback.svg'; this.onerror = null;">
-    </a>
-  
-
-  <div class="citation-text">
-    
-    <i class="icon fa-solid fa-scroll"></i>
-
-    <a href="https://doi.org/f27gkv" class="citation-title">
-      A CCRK-EZH2 epigenetic circuitry drives hepatocarcinogenesis and associates with tumor recurrence and poor survival of patients
-    </a>
-
-    <div class="citation-authors" data-tooltip="Hai Feng, Zhuo Yu, Yuan Tian, Ying-Ying Lee, May S. Li, Minnie Y.Y. Go, Yue-Sun Cheung, Paul B.S. Lai, Andrew M.L. Chan, Ka-Fai To, Henry L.Y. Chan, Joseph J.Y. Sung, Alfred S.L. Cheng " tabindex="0">
-      Hai Feng, Zhuo Yu, Yuan Tian, Ying-Ying Lee, May S. Li, ..., Andrew M.L. Chan, Ka-Fai To, Henry L.Y. Chan, Joseph J.Y. Sung, Alfred S.L. Cheng
-    </div>
-
-    <div class="citation-details">
-      Journal of Hepatology
-        ·  
-      01 May 2015
-        ·  
-      doi:10.1016/j.jhep.2014.11.040
-    </div>
-
-    
-      
-
-      
-
-      
-    
-  </div>
-</div>
-
-<div class="citation">
-  
-    <a href="https://doi.org/f6nctd" class="citation-image" aria-label="Cell cycle-related kinase mediates viral-host signalling to promote hepatitis B virus-associated hepatocarcinogenesis">
-      <img src="https://gut.bmj.com/content/gutjnl/63/11/1793/F8.large.jpg?width=800&height=600&carousel=1" alt="Cell cycle-related kinase mediates viral-host signalling to promote hepatitis B virus-associated hepatocarcinogenesis" loading="lazy" onerror="this.src = '/aclab_website_1.1.5/images/fallback.svg'; this.onerror = null;">
-    </a>
-  
-
-  <div class="citation-text">
-    
-    <i class="icon fa-solid fa-scroll"></i>
-
-    <a href="https://doi.org/f6nctd" class="citation-title">
-      Cell cycle-related kinase mediates viral-host signalling to promote hepatitis B virus-associated hepatocarcinogenesis
-    </a>
-
-    <div class="citation-authors" data-tooltip="Zhuo Yu, Yue-Qiu Gao, Hai Feng, Ying-Ying Lee, May S Li, Yuan Tian, Minnie Y Y Go, Dae-Yeul Yu, Yue-Sun Cheung, Paul B S Lai, Jun Yu, Vincent W S Wong, Joseph J Y Sung, Henry L Y Chan, Alfred S L Cheng " tabindex="0">
-      Zhuo Yu, Yue-Qiu Gao, Hai Feng, Ying-Ying Lee, May S Li, ..., Jun Yu, Vincent W S Wong, Joseph J Y Sung, Henry L Y Chan, Alfred S L Cheng
-    </div>
-
-    <div class="citation-details">
-      Gut
-        ·  
-      17 Jan 2014
-        ·  
-      doi:10.1136/gutjnl-2013-305584
-    </div>
-
-    
-      
-
-      
-
-      
-    
-  </div>
-</div>
-
-<div class="citation">
-  
-    <a href="https://doi.org/ff9rxv" class="citation-image" aria-label="Cell cycle–related kinase is a direct androgen receptor–regulated gene that drives β-catenin/T cell factor–dependent hepatocarcinogenesis">
-      <img src="https://dm5migu4zj3pb.cloudfront.net/manuscripts/45000/45967/large/JCI45967.f10.jpg" alt="Cell cycle–related kinase is a direct androgen receptor–regulated gene that drives β-catenin/T cell factor–dependent hepatocarcinogenesis" loading="lazy" onerror="this.src = '/aclab_website_1.1.5/images/fallback.svg'; this.onerror = null;">
-    </a>
-  
-
-  <div class="citation-text">
-    
-    <i class="icon fa-solid fa-scroll"></i>
-
-    <a href="https://doi.org/ff9rxv" class="citation-title">
-      Cell cycle–related kinase is a direct androgen receptor–regulated gene that drives β-catenin/T cell factor–dependent hepatocarcinogenesis
-    </a>
-
-    <div class="citation-authors" data-tooltip="Hai Feng, Alfred S.L. Cheng, Daisy P. Tsang, May S. Li, Minnie Y. Go, Yue S. Cheung, Gui-jun Zhao, Samuel S. Ng, Marie C. Lin, Jun Yu, Paul B. Lai, Ka F. To, Joseph J.Y. Sung " tabindex="0">
-      Hai Feng, Alfred S.L. Cheng, Daisy P. Tsang, May S. Li, Minnie Y. Go, ..., Marie C. Lin, Jun Yu, Paul B. Lai, Ka F. To, Joseph J.Y. Sung
-    </div>
-
-    <div class="citation-details">
-      Journal of Clinical Investigation
-        ·  
-      01 Aug 2011
-        ·  
-      doi:10.1172/JCI45967
     </div>
 
     
