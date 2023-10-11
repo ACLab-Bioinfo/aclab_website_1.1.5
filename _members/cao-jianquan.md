@@ -1,6 +1,6 @@
 ---
 name: CAO Jianquan
-image: https://lh3.googleusercontent.com/pw/AIL4fc8zChYW1Ehfd1kr4lIOr6bLTfYhVY9WCXSE38l14uvcBK0AZaWNSGLyoXuEi9kLQkwlT-PfnzVDFcc4jNokjaydz9Zum8Zm8Hm9mJXamIifq_t1Pr5jARzALD3X80p71qvR4TYZbLz5fWOeje4cgW0Z=w90-h120-s-no
+image: https://user-images.githubusercontent.com/81615397/274185169-f9711eac-9bc5-4ea6-a683-e063e5c2df04.jpg
 role: phd
 description: PhD Student
 aliases:

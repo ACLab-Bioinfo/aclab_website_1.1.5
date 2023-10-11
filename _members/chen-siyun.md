@@ -1,6 +1,6 @@
 ---
 name: CHEN Siyun
-image: https://lh3.googleusercontent.com/pw/AJFCJaXTry438Bxw4yzSix91ICzugh_syoASMny4fxHM4D4QuW2UkTZe65CKsbsKvWNgoDKRIH9LMoKqZVZWihgPR8D3k3FA5nkEexpciXKxrC1eNAOs6iLug1__LfWc93vuMvdRM5Aq52xd4gYDcMQXJCsh=w1280-h1299-s-no
+image: https://user-images.githubusercontent.com/81615397/274185266-cc545ebb-0a15-428e-b307-0f1ed5c03e4a.jpg
 role: phd
 description: Year 2 PhD Student
 aliases:

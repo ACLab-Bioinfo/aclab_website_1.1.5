@@ -10,109 +10,109 @@ nav:
   
   {% 
     include figure.html 
-    image="https://lh3.googleusercontent.com/pw/AIL4fc9_-P3zythvdTjQNqlIUiO2xp7F1A8NS0BAjtlkRZFyjwGarQ7-8mMiVAcYzkklecKJUzIgyVq-859uucvKEiBr-qRRqxsroPsn5gdaqdeWiLPJGr-YXM6Dx7t5D9knXkOSnIOmQoF3X2tlyG80AFvI=w2168-h1446-s-no"
-    caption="2023-Happy graduation Zhixian and Shufen!"
+    image="https://user-images.githubusercontent.com/81615397/274132817-08ffe67a-7f50-4b29-9742-ab4c007f127d.jpg"
+    caption="2023-Happy graduation Dr.Liang and Dr.Chen!"
   %}
 
   {% 
     include figure.html 
-    image="https://lh3.googleusercontent.com/pw/AJFCJaXutu2XX3fmJ7nyCajA8vqnIttYRFcgJLWBSlh8HQZxURJjuyc3xXHLUHCMq0bhMgp6XPxAnzrQdWAg_xkmssKdT-njwbOOYZpQfdPcUE_8amGnI-K3KnEvi-TxnOOEcsmbet5JuAhRgbZx32ZdrYXT=w2134-h1422-s-no"
+    image="https://user-images.githubusercontent.com/81615397/274132811-ab91e698-ef96-42de-a574-54dd2ca53209.JPG"
     caption="2023-Barbecue gathering in Shenzhen"
   %}
   
   {% 
     include figure.html 
-    image="https://lh3.googleusercontent.com/pw/AJFCJaW6TSIU48Pi8fFPx6EVNIpb6C43IHdvIXK1qPN1NGWZzwL0QgajPfg5zDV0O7XlpS6fNchgjGnOvoFOXCxY9UgC8ZzmZI_D5_RjFctbCUQpcNyKtT5kuAYqLEdyDcAsRGE4uYSSq9HVE2OqaAI75QPE=w2178-h1452-s-no"
+    image="https://user-images.githubusercontent.com/81615397/274132852-9f98e762-d37d-43d7-ad10-7355180c0f43.JPG"
     caption="2023-Set sail for adventure with our friends"
   %}
 
   {%
     include figure.html
-    image="https://lh3.googleusercontent.com/pw/AJFCJaW7F89SAyeUHQJ82mPQsydEuXqz6UmN3mlSDS3Hygwdxn2bqQydCJd-707nveqMXdP0botMABiHeCp1VTof3iau_iLKzvi3EpdmjYKMMnLVVkOWZpyJNZ71x_tCSRvvlqKw4SbJRk_Na2Vafrh1eYHT=w1705-h1137-s-no"
-    caption="2023-Lets congrads Dr.Xiong for publication!"
+    image="https://user-images.githubusercontent.com/81615397/274132801-d9a1ff1d-e553-40c7-8bc0-63fb087dbb0e.JPG"
+    caption="2023-Congrads Dr.Xiong for publication!"
   %}
 
   {%
     include figure.html
-    image="https://lh3.googleusercontent.com/pw/AJFCJaUAX1E0Sf_LDDs2wzHlApN1G7WIIh-60-VOfOjgLznjVS9CkQgQoIBjKO28aPHn4QEMwi-KR73hYNlCzReEQGTMyAxweywCO4SOHXCTsliChwISP8fm-26Mpf3CmUy0TK-9djvX_pDf_yuuvd0VR9m1=w1692-h1127-s-no"
+    image="https://user-images.githubusercontent.com/81615397/274132800-2ffc3365-fd47-415e-b51c-3b88bc9e1f62.jpg"
     caption="2023-Happy Birthday Dear Alfred!"
   %}
 
   {%
     include figure.html
-    image="https://lh3.googleusercontent.com/pw/AJFCJaUfAK2sLWL9mIFkGi-kqaDhdinz6OBRVaAmnhb9T4WnMuPfYBKy5QzdboByZg0IqvV-Fvg-GiLEdE_K67ZNl8-kpnNuMHECNxKqKwJajpDOPC7vDbI0bysGMe58LnzTSCX1l0g23cx6B0TcCWWdb2mK=w1699-h1132-s-no"
+    image="https://user-images.githubusercontent.com/81615397/274132857-f32a91df-20f6-40f9-82f5-d686f3d7551d.jpg"
     caption="2022-Christmas gift exchanges"
   %}
 
   {%
     include figure.html
-    image="https://lh3.googleusercontent.com/pw/AJFCJaVudNOPvoAPIJKqOVxnI7I7kN1BcXE9me3EQQq_m3oT6JTwJJPPN13eI-fcdJ9V4lLG1UsXbz_dYr2QecJUcCvKSw77LWpzwtvLisAHbZyMm057MEt5fr_Cbss5csqHDsfI72Bu3W7Q6ywE22oA0_N_=w2000-h1333-s-no"
-    caption="2022-Happy graduation! Dr.Lu, Dr.Tu and Dr.Wang!"
+    image="https://user-images.githubusercontent.com/81615397/274132819-d17fa1c2-59ea-421b-95a2-d5cbc138ff29.JPG"
+    caption="2022-Happy graduation，Dr.Lu, Dr.Tu and Dr.Wang!"
   %}
 
   {%
     include figure.html
-    image="https://lh3.googleusercontent.com/pw/AIL4fc_XjgqJ6gMpQRYIvgIK3ZR4rCYsuAUOP3BqF2bvhdegpEDvjXlgLpR_xWJlpVu4yxjt8Bq40gcQn9mFaD8fJipDg9oFJaKesK9TmLqhlWKdCdKbK6ex3Uh1eq6Ap68wgy9qnckYZJKoI0Y2npI-dWcZ=w2256-h1504-s-no"
+    image="https://user-images.githubusercontent.com/81615397/274132794-97293654-10e6-4e35-b55d-1f25f394edff.jpeg"
     caption="2022-Cycling challenge from Ma On Shan to Tai Po"
   %}
 
   {%
     include figure.html
-    image="https://lh3.googleusercontent.com/pw/AIL4fc9GhafaVBz3eRPtXH_P52alxJOtMkYclQyOC7kn9cFN4Yod5_RWtlyHaAZ_VMj_T2TJ071zADEP1aFZHbYzk2ueSUQ1BTYcNuPFE3-bG9e-ws0j8UCbO1ymUc9MQ9lxj2CFt-lnGPpGgC-499OpDMPt=w2172-h1448-s-no"
+    image="https://user-images.githubusercontent.com/81615397/274132855-679496f9-01b7-4319-9155-cf9de23f6d9a.jpeg"
     caption="2021-Barbecue party in Tai Mei Tuk"
   %}
 
   {%
     include figure.html
-    image="https://lh3.googleusercontent.com/pw/AIL4fc-grKUfq5TKzu7SLVvaX7S8WfZWpHms76IEVw8ZT7F4pGarN7hwepjOdv2a1DFkkucTwGE7pUsQTdMyWTG68Wb3fRa3WTpav6MF6RyZKKn7Po2AZ2kgLSiofFmyPieTq-oijuGfdRszgf1nuFKWpdOL=w1920-h1280-s-no"
+    image="https://user-images.githubusercontent.com/81615397/274132820-1fac3291-0060-4133-96ad-93fee231483d.jpeg"
     caption="2021-Hiking in Lau Shui Heung"
   %}
   
   {%
     include figure.html
-    image="https://lh3.googleusercontent.com/pw/AIL4fc_AZ3qWFfR09mqaSu9k5Kuh04cU7SmsFUjmjHnjipZFLYHCPFcAg98uGzH6DiaUksoawFWHFP9hT4K8VSjKj8f1cS02J4bDMprrn3Ct7omQBImoJiJ1gWXXm1bzkrzVjbZpoP-ninADE03H0tp9zWt1=w2174-h1448-s-no"
+    image="https://user-images.githubusercontent.com/81615397/274132830-1992c49c-813c-4c2b-9336-11df98593a95.JPG"
     caption="2021-Hiking in Taipingshan"
   %}
 
   {%
     include figure.html
-    image="https://lh3.googleusercontent.com/pw/AIL4fc_hMHzdxD_WgD3DZLhQsPQYuaeyArTZYD0USnx5PYHnqAYdCB9SdSwWO7EgdBXH5P0YjV-4xJ35WsECKBjqNA05bBYqnHANuTOtSvUaTMZU-4OTZjuxq4wtaKx9hr5cleckl21C-ZQOSQd9_rQ6Jilp=w2172-h1448-s-no"
+    image="https://user-images.githubusercontent.com/81615397/274132822-21f282bb-6d43-414e-adfe-b9d790216bbc.jpeg"
     caption="2020-Hiking in Shing Mun Reservoir"
   %}
 
   {%
     include figure.html
-    image="https://lh3.googleusercontent.com/pw/AIL4fc9WDYGPXlBlaZqStTpuYNkmSvi-3YWPPPqL1eWCTBhI-3tcoJEjAYmgYEleDpAaMh0O9XR03gtVeny7c5iLsWhE2aRreXFCHMi78YRsFUPLR6FFq7z1A4_BE62vx-s-9fvTZ52OaiHZxv6ZVs6bZ00z=w2202-h1468-s-no"
+    image="https://user-images.githubusercontent.com/81615397/274132807-8d25fffb-395a-4b26-b114-d97f41f1843a.jpeg"
     caption="2018-Exchange student farewell"
   %}
 
   {%
     include figure.html
-    image="https://lh3.googleusercontent.com/pw/AIL4fc9Dc3lPACpdx3kjzUFVQVtwMso7kj24JzBoi9R5Cy21vwtiHXE-QN3cd5kGno_NgqYg3wVYCqFRIIXkx7nh3XEUbk-cWR0ykTD5lMmxWtL0uy8N40zKEQ0ZoQyFqplvzbYXxhH2Ohlbuy7nc2gfzjVZ=w1169-h779-s-no"
+    image="https://user-images.githubusercontent.com/81615397/274132816-4389d87d-78e6-4ea5-ab7d-3901986a9e11.jpeg"
     caption="2017-Birthday celebration"
   %}
 
   {%
     include figure.html
-    image="https://lh3.googleusercontent.com/pw/AIL4fc8LPBV_lDVVpjRInD--Zxx0js2YOlYN9JJFJeXrAW41vlGeDq-N3Own-S28fltgzd547qnwf9noainD8D4jyTLt_QfUA_R4My-TzvDbtS9GR4coL7ZTb5yVG8DBZYpnm8hFxZunbg8m2oSbLu_D4bJ1=w2202-h1468-s-no"
+    image="https://user-images.githubusercontent.com/81615397/274132840-c370b302-221a-4314-bdec-9c5237a778a0.JPG"
     caption="2016-BBQ party"
   %}
 
   {%
     include figure.html
-    image="https://lh3.googleusercontent.com/pw/AIL4fc_h-dNqi6RVuFExvu_gXBYw3OSRNJ5mal-yc_HFbknUtmqWJHl2K0GcaNMyFPniZJhAh-FmoP8aUMKHgKA7okX2wbSjSEAY-b1tIjXp9qsAGApwMrWoPXTWIvLcMgLb_QLZu3xG31XaxLvh1u-xEDI6=w1516-h1011-s-no"
+    image="https://user-images.githubusercontent.com/81615397/274132847-2266ce24-a8a0-4f51-8e53-0dc875f101a3.jpg"
     caption="2015-Lab lunch at New Asia College"
   %}
 
   {%
     include figure.html
-    image="https://lh3.googleusercontent.com/pw/AIL4fc8MvJYA3SuE71aumlwL7WC8sEJrw9Xl16n8DEXgQkUh3cj1Y_Zw5tNn9VuX5N8T3pUhOE8kRcTuB9PukkW6WK4VqwEvew8YMVB7LSxA8U0jkGwu-VN6SdwV6Om1Om4KurbFj-l0r5fVQftq5adLSbTQ=w2116-h1412-s-no"
+    image="https://user-images.githubusercontent.com/81615397/274132833-2511959f-3eed-4b48-8cd6-0359f2036d42.JPG"
     caption="2014-Afternoon tea at 龐萬倫"
   %}
 
   {%
     include figure.html
-    image="https://lh3.googleusercontent.com/pw/AIL4fc9jMEHtvQYLSjQtJzxFcM814dq18SYdfQmsMbiBfzojGUu3eLiFiRrcicZ66iAkd-hF0XC0CPsTl3NrgInXc4jBE6gxktumNx99Yp7tmbXWVwaTNpaS2Er3Zv-oqnAfSVqSQT_Eq_8yoLiN6jShk-IZ=w2118-h1412-s-no"
+    image="https://user-images.githubusercontent.com/81615397/274132749-8f54c019-ccca-4670-bfa0-bbfa7703eda0.jpg"
     caption="2013-Very first group photo of Cheng Lab"
   %}
    

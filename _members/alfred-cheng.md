@@ -1,6 +1,6 @@
 ---
 name: Prof. CHENG Sze Lok Alfred
-image: https://lh3.googleusercontent.com/pw/AJFCJaVeqL0tr64bd3KNIhLXbzpOGCh4IxjyXuFiFnINaj4wVhlt9ZzfPaLM0ZnvGJkNS4nWHJjsPa5_EQcvlKKBCadUrn5SeVL2xBc8Rp7Wb6ZU24BR3vWgzsit6G145gJP2Y5gLgHHFPB60cUENFQdXxq4=w1308-h1308-s-no
+image: https://user-images.githubusercontent.com/81615397/274185043-252e4d15-cdc1-41b4-b1b9-8a9150ed0023.jpg
 role: pi
 aliases:
   - CHENG Sze Lok Alfred

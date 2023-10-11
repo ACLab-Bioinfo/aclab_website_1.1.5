@@ -1,6 +1,6 @@
 ---
 name: ZHANG Yiling
-image: https://lh3.googleusercontent.com/pw/AJFCJaUUW7xDT-boJFHfTNwSxkgxgtMeNnoq07rm42qhn5NPcU3pRAnnl_C-O_03LGqnn_42EUsTcODDwJJPsh9ewyYOSDvRmBBWN4UjNfGavbuYlcVxBVg2lxRFpOJioy9CyKibT_w-6Okgrjt98_iUaCBH=w1452-h1452-s-no
+image: https://user-images.githubusercontent.com/81615397/274185892-76f5662f-f7a3-4110-8b27-e4eed3894847.JPG
 role: phd
 description: Year 2 PhD Student
 links:

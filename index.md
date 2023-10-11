@@ -96,7 +96,6 @@ As <big>*E*</big>pigenetics and <big>*T*</big>herapeutics in <big>*I*</big>mmuno
 
 {% capture text %}
 
-
 {%
   include button.html
   link="team"
@@ -110,7 +109,7 @@ As <big>*E*</big>pigenetics and <big>*T*</big>herapeutics in <big>*I*</big>mmuno
 
 {%
   include feature.html
-  image="https://lh3.googleusercontent.com/pw/AJFCJaWAhq7VA7w2oqQS0A-6YTm9AZ7lcBGQ2gCLXF58n2c9s7oNUpe52dqQfMoYGxsK9mFEO3MDhOM1U-Okk735YD6EoQ3yxNnU-0phwxpF0CqAeNDqoGtvBi8F4OjHeWGhXZM-SXI4LohVdJtf12XlOnjv=w1418-h945-s-no"
+  image="https://user-images.githubusercontent.com/81615397/274227617-6b199e15-02a8-4b3d-8ab6-d41546e957ef.jpg"
   link="team"
   title="Team"
   text=text
