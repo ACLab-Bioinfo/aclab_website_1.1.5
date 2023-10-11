@@ -20,7 +20,7 @@ DNA and histones are targets of multiple chemical modifications that convey flex
 
 {%
   include feature.html
-  image="https://lh3.googleusercontent.com/pw/AJFCJaVLZwJqFChY4dvcz449QvjiTA_bxf39BpBWmE6m8qhGx5L4jJcg-aBM6ahOhcQxF9GnNo3KUjvlzS7cS78ORMTlJ0IzbjXAcTYRmZa2iJPDXkD_RNFNPeNJRvvMPsQ96aU4bmHdJO5GJEeQqmd63MLu=w1874-h1252-s-no"
+  image="https://user-images.githubusercontent.com/81615397/274145296-2780d249-4521-4657-bf36-c9f0b38e2841.png"
   text=text
 %}
 
@@ -37,6 +37,6 @@ Therapy-induced tumor microenvironment (TME) remodelling poses a major hurdle fo
 
 {%
   include feature.html
-  image="https://lh3.googleusercontent.com/pw/AJFCJaWzSamd_xOwajuDkyz4nLqJfmjyBcsRacJWYG4MIxwt4fpaMapVzRc3Kso8LozukSPk0ObLUKHrGf-5CnvVbZ55nbVfwF-bMEyomMR0nI0CISUHWHbKvpYECEEc2w4eCuC-nfj1xpUajltfvyFMYKaD=w1876-h1252-s-no"
+  image="https://user-images.githubusercontent.com/81615397/274145413-da3c6296-75d8-459b-8e51-596ccb41f922.png"
   text=text
 %}

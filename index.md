@@ -84,7 +84,7 @@ As <big>*E*</big>pigenetics and <big>*T*</big>herapeutics in <big>*I*</big>mmuno
 
 {%
   include feature.html
-  image="https://lh3.googleusercontent.com/pw/AJFCJaXNtqdHQU8EtdE-f4MI5RL9clXX3gJLu6ag9THDRYGQkHzFEp9NsCWxZ1WfAgyAUQ-X3apyOgqyqnIHHzwONR42lv8STFUj4OCgTSxp2Q8BTALaBFEqmw5rYxgQQRJgQteBhVv9blUyx3FaIF4jtxNQ=w2178-h1452-s-no"
+  image="https://user-images.githubusercontent.com/81615397/271245200-d087d65d-87d4-4c61-98d8-17987852bf3e.png"
   link="news"
   title="News"
   flip=true

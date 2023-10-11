@@ -10,13 +10,15 @@ carousels:
   - image: https://user-images.githubusercontent.com/81615397/273845603-03f5bbff-c1b3-4282-bafa-fc1ef4ce9543.png
   - image: https://user-images.githubusercontent.com/81615397/273845576-b9cfd126-327e-47df-a3e8-3c3e3c6f82ce.png
   - image: https://user-images.githubusercontent.com/81615397/273845467-a4ac9693-f547-4986-8879-d74d12fd2286.png
+  - image: https://user-images.githubusercontent.com/81615397/274130913-42c68f44-7b3b-492f-abf8-f733dc2f88bc.png
+  - image: https://user-images.githubusercontent.com/81615397/274130923-ced97c85-0fbe-478e-a2eb-cc88af8ed969.png
 ---
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Publications
 
 {% include section.html %}
 
-{% include carousel.html height="50" unit="%" duration="7" number="1" %}
+{% include carousel.html height="55" unit="%" duration="7" number="1" %}
 
 {% include section.html %}
 
@@ -41,7 +43,6 @@ carousels:
 {% include citation.html lookup="Cell cycle-related kinase mediates viral-host signalling to promote hepatitis B virus-associated hepatocarcinogenesis" style="rich" %}
 
 {% include citation.html lookup="doi:10.1172/JCI45967" style="rich" %}
-
 
 {% include section.html %}
 
