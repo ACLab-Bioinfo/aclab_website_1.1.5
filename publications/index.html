@@ -486,13 +486,17 @@
         
           <input class="carousel__activator" type="radio" name="carousel0" id="0e">
         
+          <input class="carousel__activator" type="radio" name="carousel0" id="0f">
+        
+          <input class="carousel__activator" type="radio" name="carousel0" id="0g">
+        
         
           
           
           
           
           <div class="carousel__controls">
-              <label class="carousel__control carousel__control--backward" for="0e"></label>
+              <label class="carousel__control carousel__control--backward" for="0g"></label>
               <label class="carousel__control carousel__control--forward" for="0b"></label>
           </div>
         
@@ -529,6 +533,24 @@
           
           <div class="carousel__controls">
               <label class="carousel__control carousel__control--backward" for="0d"></label>
+              <label class="carousel__control carousel__control--forward" for="0f"></label>
+          </div>
+        
+          
+          
+          
+          
+          <div class="carousel__controls">
+              <label class="carousel__control carousel__control--backward" for="0e"></label>
+              <label class="carousel__control carousel__control--forward" for="0g"></label>
+          </div>
+        
+          
+          
+          
+          
+          <div class="carousel__controls">
+              <label class="carousel__control carousel__control--backward" for="0f"></label>
               <label class="carousel__control carousel__control--forward" for="0a"></label>
           </div>
         
@@ -549,6 +571,12 @@
             </li>
 <li class="carousel__slide" style="background-image: url('https://user-images.githubusercontent.com/81615397/273845467-a4ac9693-f547-4986-8879-d74d12fd2286.png');">
             
+            </li>
+<li class="carousel__slide" style="background-image: url('https://user-images.githubusercontent.com/81615397/274130913-42c68f44-7b3b-492f-abf8-f733dc2f88bc.png');">
+            
+            </li>
+<li class="carousel__slide" style="background-image: url('https://user-images.githubusercontent.com/81615397/274130923-ced97c85-0fbe-478e-a2eb-cc88af8ed969.png');">
+            
           </li>
 </ul>
         </div>
@@ -564,12 +592,16 @@
             
               <label class="carousel__indicator" for="0e"></label>
             
+              <label class="carousel__indicator" for="0f"></label>
+            
+              <label class="carousel__indicator" for="0g"></label>
+            
         </div>
     </div>
 </div>
 
 <style>
-.carousel__holder {width: 100%; position: relative; padding-bottom: 50%; margin: 1rem 0 1rem;}
+.carousel__holder {width: 100%; position: relative; padding-bottom: 55%; margin: 1rem 0 1rem;}
 .carousel {
   height: 100%;
   width: 100%;
@@ -698,6 +730,52 @@
   opacity: 1;
 }
 
+.carousel__activator:nth-of-type(6):checked ~ .carousel__track {
+  -webkit-transform: translateX(-500%);
+          transform: translateX(-500%);
+}
+.carousel__activator:nth-of-type(6):checked ~ .carousel__slide:nth-of-type(6) {
+  transition: opacity 0.5s, -webkit-transform 0.5s;
+  transition: opacity 0.5s, transform 0.5s;
+  transition: opacity 0.5s, transform 0.5s, -webkit-transform 0.5s;
+  top: 0;
+  left: 0;
+  right: 0;
+  opacity: 1;
+  -webkit-transform: scale(1);
+          transform: scale(1);
+}
+.carousel__activator:nth-of-type(6):checked ~ .carousel__controls:nth-of-type(6) {
+  display: block;
+  opacity: 1;
+}
+.carousel__activator:nth-of-type(6):checked ~ .carousel__indicators .carousel__indicator:nth-of-type(6) {
+  opacity: 1;
+}
+
+.carousel__activator:nth-of-type(7):checked ~ .carousel__track {
+  -webkit-transform: translateX(-600%);
+          transform: translateX(-600%);
+}
+.carousel__activator:nth-of-type(7):checked ~ .carousel__slide:nth-of-type(7) {
+  transition: opacity 0.5s, -webkit-transform 0.5s;
+  transition: opacity 0.5s, transform 0.5s;
+  transition: opacity 0.5s, transform 0.5s, -webkit-transform 0.5s;
+  top: 0;
+  left: 0;
+  right: 0;
+  opacity: 1;
+  -webkit-transform: scale(1);
+          transform: scale(1);
+}
+.carousel__activator:nth-of-type(7):checked ~ .carousel__controls:nth-of-type(7) {
+  display: block;
+  opacity: 1;
+}
+.carousel__activator:nth-of-type(7):checked ~ .carousel__indicators .carousel__indicator:nth-of-type(7) {
+  opacity: 1;
+}
+
 
 .carousel__control {
   height: 30px;
@@ -792,6 +870,16 @@
           transform: translateX(400%);
 }
 
+.carousel__track .carousel__slide:nth-of-type(6) {
+  -webkit-transform: translateX(500%);
+          transform: translateX(500%);
+}
+
+.carousel__track .carousel__slide:nth-of-type(7) {
+  -webkit-transform: translateX(600%);
+          transform: translateX(600%);
+}
+
 
 .carousel--scale .carousel__slide {
   -webkit-transform: scale(0);
@@ -838,6 +926,18 @@
 
 .carousel__slide:nth-of-type(5),
 .carousel--thumb .carousel__indicators .carousel__indicator:nth-of-type(5) {
+  background-size: cover;
+  background-position: center;
+}
+
+.carousel__slide:nth-of-type(6),
+.carousel--thumb .carousel__indicators .carousel__indicator:nth-of-type(6) {
+  background-size: cover;
+  background-position: center;
+}
+
+.carousel__slide:nth-of-type(7),
+.carousel--thumb .carousel__indicators .carousel__indicator:nth-of-type(7) {
   background-size: cover;
   background-position: center;
 }
@@ -5575,7 +5675,7 @@
         <img style="width:290px;height:50px" src="https://www.med.cuhk.edu.hk/assets/img/logo_cu-2x.png?ts=1678171428283">
       </a>
       <a href="https://www.med.cuhk.edu.hk">
-        <img style="width:172px;height:50px" src="https://lh3.googleusercontent.com/pw/AIL4fc-SkwPRedy3MXjOCOE3IVHQxsYuj5VKTcnBC7dcmhR8BbbJJUzM-w_hrvqkC8HShSua6EmU8dU9vfRT_FNvVuK0D5R8qeqfCgQPwGAvf3dzoYiZrPhQPB3IHbkFxBK405_2rGArw_mxMArrCOKHdYdU=w509-h148-s-no">
+        <img style="width:172px;height:50px" src="https://user-images.githubusercontent.com/81615397/274132126-dffb6994-359b-4b0a-bac2-fbad9b8c7708.png">
       </a>
     </div>
   </div>
