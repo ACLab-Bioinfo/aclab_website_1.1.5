@@ -74,7 +74,7 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
-  image: https://lh3.googleusercontent.com/pw/AJFCJaWENHiqE-Hm0mixAYPx63wRs6csille3unsTjzoe__xc8Mqf55hsNkJggVY3rleJCcn2lV8B0xmh4mFqW9oFt54Fi8hDO90i9hxcVS5DEter1GCIisF37OqQOiHT0CMVpgptiOnREqsuYPj65uNHvrz=w1268-h870-s-no
+  image: https://user-images.githubusercontent.com/81615397/274219383-37ddbb34-1682-40f5-80de-9c74d3912c33.jpg
 - id: doi:10.1136/gutjnl-2018-317257
   title: Targeting monocyte-intrinsic enhancer reprogramming improves immunotherapy
     efficacy in hepatocellular carcinoma
@@ -103,7 +103,7 @@
   - Minhu Chen
   - Alfred Sze-Lok Cheng
   publisher: Gut
-  date: '2019-05-10'
+  date: '2020-01-07'
   link: https://doi.org/gk43x8
   orcid: 0000-0003-2345-6951
   plugin: sources.py
@@ -2568,6 +2568,76 @@
     \u80DE](https://news.tvb.com/tc/local/64b00ae7c2ea9a2f9f9821e8/%E6%B8%AF%E6%BE%B3-%E4%B8%AD%E5%A4%A7%E7%A0%B4%E8%A7%A3%E8%82%9D%E7%99%8C%E5%85%8D%E7%96%AB%E8%80%90%E8%97%A5%E6%A9%9F%E5%88%B6%E9%85%8D%E5%90%88%E6%96%B0%E5%85%8D%E7%96%AB%E7%99%82%E6%B3%95%E8%83%BD%E6%9C%89%E6%95%88%E6%B6%88%E9%99%A4%E7%99%8C%E7%B4%B0%E8%83%9E)"
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1016/j.ymthe.2022.09.012
+  title: Fibrotic immune microenvironment remodeling mediates superior anti-tumor
+    efficacy of a nano-PD-L1 trap in hepatocellular carcinoma
+  authors:
+  - Xiaoyu Liu
+  - Jingying Zhou
+  - Haoran Wu
+  - Shufen Chen
+  - Lingyun Zhang
+  - Wenshu Tang
+  - Liang Duan
+  - Ying Wang
+  - Eleanor McCabe
+  - Mengying Hu
+  - Zhuo Yu
+  - Hanzhuang Liu
+  - Chung Hang Jonathan Choi
+  - Joseph Jao-yiu Sung
+  - Leaf Huang
+  - Rihe Liu
+  - Alfred Sze-lok Cheng
+  publisher: Molecular Therapy
+  date: '2023-01-04'
+  link: https://doi.org/gr2pp7
+  type: paper
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1525001622005664-fx1.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41423-022-00872-3
+  title: Aberrant cholesterol metabolic signaling impairs antitumor immunosurveillance
+    through natural killer T cell dysfunction in obese liver
+  authors:
+  - Wenshu Tang
+  - Jingying Zhou
+  - Weiqin Yang
+  - Yu Feng
+  - Haoran Wu
+  - Myth T. S. Mok
+  - Lingyun Zhang
+  - Zhixian Liang
+  - Xiaoyu Liu
+  - Zhewen Xiong
+  - Xuezhen Zeng
+  - Jing Wang
+  - Jiahuan Lu
+  - Jingqing Li
+  - Hanyong Sun
+  - Xiaoyu Tian
+  - Philip Chun Yeung
+  - Yong Hou
+  - Heung Man Lee
+  - Candice C. H. Lam
+  - Howard H. W. Leung
+  - Anthony W. H. Chan
+  - Ka Fai To
+  - John Wong
+  - Paul B. S. Lai
+  - Kelvin K. C. Ng
+  - Simon K. H. Wong
+  - Vincent W. S. Wong
+  - Alice P. S. Kong
+  - Joseph J. Y. Sung
+  - Alfred S. L. Cheng
+  publisher: Cellular &amp; Molecular Immunology
+  date: '2022-05-20'
+  link: https://doi.org/gr2pp9
+  type: paper
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41423-022-00872-3/MediaObjects/41423_2022_872_Fig7_HTML.png?as=webp
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1126/scitranslmed.aaz6804
   title: A selective HDAC8 inhibitor potentiates antitumor immunity and efficacy of
     immune checkpoint blockade in hepatocellular carcinoma
@@ -2604,6 +2674,45 @@
     \ Liver Tumour \u201CHot\u201D Leading to an Effective and Durable Combined Immunotherapy](https://www.cpr.cuhk.edu.hk/en/press/cuhk-uncovers-a-new-strategy-to-turn-cold-liver-tumour-hot-leading-to-an-effective-and-durable-combined-immunotherapy/),\
     \ [\u4E2D\u5927\u7814\u7A76\u767C\u73FE\u6291\u5236\u6392\u65A5\u514D\u75AB\u7D30\
     \u80DE\u57FA\u56E0 \u53EF\u589E\u5F37\u764C\u75C7\u7642\u6CD5\u529F\u6548](https://www.stheadline.com/article/2112725/%E4%B8%AD%E5%A4%A7%E7%A0%94%E7%A9%B6%E7%99%BC%E7%8F%BE%E6%8A%91%E5%88%B6%E6%8E%92%E6%96%A5%E5%85%8D%E7%96%AB%E7%B4%B0%E8%83%9E%E5%9F%BA%E5%9B%A0-%E5%8F%AF%E5%A2%9E%E5%BC%B7%E7%99%8C%E7%97%87%E7%99%82%E6%B3%95%E5%8A%9F%E6%95%88)"
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41423-020-00534-2
+  title: Cell cycle-related kinase reprograms the liver immune microenvironment to
+    promote cancer metastasis
+  authors:
+  - Xuezhen Zeng
+  - Jingying Zhou
+  - Zhewen Xiong
+  - Hanyong Sun
+  - Weiqin Yang
+  - Myth T. S. Mok
+  - Jing Wang
+  - Jingqing Li
+  - Man Liu
+  - Wenshu Tang
+  - Yu Feng
+  - Hector Kwong-Sang Wang
+  - Shun-Wa Tsang
+  - King-Lau Chow
+  - Philip Chun Yeung
+  - John Wong
+  - Paul Bo-San Lai
+  - Anthony Wing-Hung Chan
+  - Ka Fai To
+  - Stephen Lam Chan
+  - Qiang Xia
+  - Jing Xue
+  - Xiao Chen
+  - Jun Yu
+  - Sui Peng
+  - Joseph Jao-Yiu Sung
+  - Ming Kuang
+  - Alfred Sze-Lok Cheng
+  publisher: Cellular &amp; Molecular Immunology
+  date: '2020-09-02'
+  link: https://doi.org/gr2pqc
+  type: paper
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41423-020-00534-2/MediaObjects/41423_2020_534_Fig6_HTML.png?as=webp
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/path.6091
@@ -2967,43 +3076,6 @@
   link: https://doi.org/ghhnjq
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1038/s41423-020-00534-2
-  title: Cell cycle-related kinase reprograms the liver immune microenvironment to
-    promote cancer metastasis
-  authors:
-  - Xuezhen Zeng
-  - Jingying Zhou
-  - Zhewen Xiong
-  - Hanyong Sun
-  - Weiqin Yang
-  - Myth T. S. Mok
-  - Jing Wang
-  - Jingqing Li
-  - Man Liu
-  - Wenshu Tang
-  - Yu Feng
-  - Hector Kwong-Sang Wang
-  - Shun-Wa Tsang
-  - King-Lau Chow
-  - Philip Chun Yeung
-  - John Wong
-  - Paul Bo-San Lai
-  - Anthony Wing-Hung Chan
-  - Ka Fai To
-  - Stephen Lam Chan
-  - Qiang Xia
-  - Jing Xue
-  - Xiao Chen
-  - Jun Yu
-  - Sui Peng
-  - Joseph Jao-Yiu Sung
-  - Ming Kuang
-  - Alfred Sze-Lok Cheng
-  publisher: Cellular &amp; Molecular Immunology
-  date: '2020-09-02'
-  link: https://doi.org/gr2pqc
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1016/j.jhepr.2020.100224
   title: Chemotherapy-induced recruitment of myeloid-derived suppressor cells abrogates
     efficacy of immune checkpoint blockade
@@ -3193,72 +3265,6 @@
   publisher: Gut
   date: '2022-12-13'
   link: https://doi.org/gskrz9
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.ymthe.2022.09.012
-  title: Fibrotic immune microenvironment remodeling mediates superior anti-tumor
-    efficacy of a nano-PD-L1 trap in hepatocellular carcinoma
-  authors:
-  - Xiaoyu Liu
-  - Jingying Zhou
-  - Haoran Wu
-  - Shufen Chen
-  - Lingyun Zhang
-  - Wenshu Tang
-  - Liang Duan
-  - Ying Wang
-  - Eleanor McCabe
-  - Mengying Hu
-  - Zhuo Yu
-  - Hanzhuang Liu
-  - Chung Hang Jonathan Choi
-  - Joseph Jao-yiu Sung
-  - Leaf Huang
-  - Rihe Liu
-  - Alfred Sze-lok Cheng
-  publisher: Molecular Therapy
-  date: '2023-01-01'
-  link: https://doi.org/gr2pp7
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1038/s41423-022-00872-3
-  title: Aberrant cholesterol metabolic signaling impairs antitumor immunosurveillance
-    through natural killer T cell dysfunction in obese liver
-  authors:
-  - Wenshu Tang
-  - Jingying Zhou
-  - Weiqin Yang
-  - Yu Feng
-  - Haoran Wu
-  - Myth T. S. Mok
-  - Lingyun Zhang
-  - Zhixian Liang
-  - Xiaoyu Liu
-  - Zhewen Xiong
-  - Xuezhen Zeng
-  - Jing Wang
-  - Jiahuan Lu
-  - Jingqing Li
-  - Hanyong Sun
-  - Xiaoyu Tian
-  - Philip Chun Yeung
-  - Yong Hou
-  - Heung Man Lee
-  - Candice C. H. Lam
-  - Howard H. W. Leung
-  - Anthony W. H. Chan
-  - Ka Fai To
-  - John Wong
-  - Paul B. S. Lai
-  - Kelvin K. C. Ng
-  - Simon K. H. Wong
-  - Vincent W. S. Wong
-  - Alice P. S. Kong
-  - Joseph J. Y. Sung
-  - Alfred S. L. Cheng
-  publisher: Cellular &amp; Molecular Immunology
-  date: '2022-05-20'
-  link: https://doi.org/gr2pp9
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.canlet.2021.10.039
