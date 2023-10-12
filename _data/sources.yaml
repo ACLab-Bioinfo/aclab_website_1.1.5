@@ -6,12 +6,12 @@
 
 - id: doi:10.1016/j.ymthe.2022.09.012
   type: paper
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S1525001622005664-fx1.jpg
+  image: https://user-images.githubusercontent.com/81615397/274469102-e7478654-3ef2-41f2-9266-df4bb452b39f.jpg
   date: '2023-01-04'
 
 - id: doi:10.1038/s41423-022-00872-3
   type: paper
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41423-022-00872-3/MediaObjects/41423_2022_872_Fig7_HTML.png?as=webp
+  image: https://user-images.githubusercontent.com/81615397/274469236-ba1ec616-9286-417a-a89f-eb8c5da35d1a.png
   date: '2022-05-20'
 
 - id: doi:10.1038/s41467-019-11274-x
@@ -27,7 +27,7 @@
 
 - id: doi:10.1038/s41423-020-00534-2
   type: paper
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41423-020-00534-2/MediaObjects/41423_2020_534_Fig6_HTML.png?as=webp
+  image: https://user-images.githubusercontent.com/81615397/274469840-049ba06f-47ac-47ab-b20a-064ede689cac.png
   date: '2020-09-02'
 
 - id: doi:10.1136/gutjnl-2018-317257

@@ -40,8 +40,6 @@ carousels:
 
 {% include citation.html lookup="Cell cycle-related kinase reprograms the liver immune microenvironment to promote cancer metastasis" style="rich" %}
 
-{% include citation.html lookup="Aberrant cholesterol metabolic signaling impairs antitumor immunosurveillance through natural killer T cell dysfunction in obese liver" style="rich" %}
-
 {% include citation.html lookup="Targeting monocyte-intrinsic enhancer reprogramming improves immunotherapy efficacy in hepatocellular carcinoma" style="rich" %}
 
 {% include citation.html lookup="ER-residential Nogo-B accelerates NAFLD-associated HCC mediated by metabolic reprogramming of oxLDL lipophagy" style="rich" %}
