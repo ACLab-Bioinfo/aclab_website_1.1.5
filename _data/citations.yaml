@@ -74,7 +74,7 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
-  image: https://user-images.githubusercontent.com/81615397/274219383-37ddbb34-1682-40f5-80de-9c74d3912c33.jpg
+  image: https://user-images.githubusercontent.com/81615397/274219573-6ed27779-3604-4364-a9e5-489cb8a953b8.png
 - id: doi:10.1136/gutjnl-2018-317257
   title: Targeting monocyte-intrinsic enhancer reprogramming improves immunotherapy
     efficacy in hepatocellular carcinoma
