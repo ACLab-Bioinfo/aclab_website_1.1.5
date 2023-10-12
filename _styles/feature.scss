@@ -30,10 +30,11 @@ $wrap: 800px;
 }
 
 .feature-title {
-  font-size: var(--large);
+  font-size: var(--xl);
   text-align: center;
   font-family: var(--heading);
-  font-weight: var(--semi-bold);
+  font-weight: var(--bold);
+  color: var(--primary)
 }
 
 .feature[data-flip] {

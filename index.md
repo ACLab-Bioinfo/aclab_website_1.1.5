@@ -44,15 +44,18 @@ As <big>*E*</big>pigenetics and <big>*T*</big>herapeutics in <big>*I*</big>mmuno
 
  {% include section.html %}
 
-## **Highlights**
 
 {% capture text %}
+
+Our team of passionate researchers focuses on understanding the epigenetic and transcriptional programs underlying immunotherapeutic resistance.
+
+Join us as we embark on this crucial mission to revolutionize cancer treatment and make a meaningful impact on patient outcomes.
 
 {%
   include button.html
   link="research"
   icon="fa-solid fa-arrow-left"
-  text="Come to know our research interests"
+  text="Our research interests"
   flip=true
   style="bare"
 %}
@@ -63,13 +66,15 @@ As <big>*E*</big>pigenetics and <big>*T*</big>herapeutics in <big>*I*</big>mmuno
   include feature.html
   image="images/singlecell_worldmap.svg"
   link="research"
-  title="Research"
+  title="Our Research"
   text=text
 %}
 
 ---
 
 {% capture text %}
+
+Stay informed as we share groundbreaking research, events, noteworthy publications, and more taking place in our lab.
 
 {%
   include button.html
@@ -96,6 +101,10 @@ As <big>*E*</big>pigenetics and <big>*T*</big>herapeutics in <big>*I*</big>mmuno
 
 {% capture text %}
 
+We foster an enriching environment that values teamwork, curiosity, and creativity. Our mentorship style is designed to empower individuals, providing guidance and support as they navigate their scientific journeys.
+
+Together, we cultivate an inclusive and stimulating atmosphere that nurtures personal and professional development, ensuring that every member of our team thrives.
+
 {%
   include button.html
   link="team"
@@ -111,7 +120,7 @@ As <big>*E*</big>pigenetics and <big>*T*</big>herapeutics in <big>*I*</big>mmuno
   include feature.html
   image="https://user-images.githubusercontent.com/81615397/274227617-6b199e15-02a8-4b3d-8ab6-d41546e957ef.jpg"
   link="team"
-  title="Team"
+  title="Our Team"
   text=text
 %}
 
