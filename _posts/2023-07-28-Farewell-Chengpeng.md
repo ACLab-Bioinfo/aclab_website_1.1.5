@@ -1,6 +1,5 @@
 ---
 title: Bid farewell to Dr. Zhong Chengpeng
-author: Yiling
 tags: 
   - Farewell
 ---

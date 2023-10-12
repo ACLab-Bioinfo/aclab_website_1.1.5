@@ -1,6 +1,5 @@
 ---
 title: Prof. Cheng was invited to deliver educational lecture for VIVA Education Webinar 
-author: Yiling
 tags: 
   - News
 ---
