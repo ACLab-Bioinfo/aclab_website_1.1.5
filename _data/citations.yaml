@@ -2715,6 +2715,31 @@
   image: https://user-images.githubusercontent.com/81615397/274469840-049ba06f-47ac-47ab-b20a-064ede689cac.png
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1016/j.isci.2023.107626
+  title: Myeloid-intrinsic cell cycle-related kinase drives immunosuppression to promote
+    tumorigenesis
+  authors:
+  - Jingying Zhou
+  - Huanyu Wang
+  - Ting Shu
+  - Jing Wang
+  - Weiqin Yang
+  - Jingqing Li
+  - Lipeng Ding
+  - Man Liu
+  - Hanyong Sun
+  - John Wong
+  - Paul Bo-san Lai
+  - Shun-Wa Tsang
+  - Simon E. Ward
+  - King-Lau Chow
+  - Joseph Jao-yiu Sung
+  - Alfred Sze-Lok Cheng
+  publisher: iScience
+  date: '2023-10-01'
+  link: https://doi.org/gsvk3q
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1002/path.6091
   title: "The <scp>E2F1\u2013HOXB9</scp>/<scp>PBX2\u2013CDK6</scp> axis drives gastric\
     \ tumorigenesis and serves as a therapeutic target in gastric cancer"
