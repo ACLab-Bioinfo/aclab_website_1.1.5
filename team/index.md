@@ -34,7 +34,6 @@ Welcome to our lab and get to know our team! Our laboratory members are from dif
 
 {% include list.html data="members" component="portrait" filters="role: undergrad" %}
 
-
 {% include section.html %}
 
 ## Former Lab Members 
@@ -57,6 +56,12 @@ Welcome to our lab and get to know our team! Our laboratory members are from dif
 </tr>
 </thead>
 <tbody>
+<tr>
+<td markdown="span">2023</td>
+<td markdown="span">CHEN Shufen</td>
+<td markdown="span">Ph.D student</td>
+<td markdown="span">To be updated</td>
+</tr>
 <tr>
 <td markdown="span">2022</td>
 <td markdown="span">TU Yalin</td>
