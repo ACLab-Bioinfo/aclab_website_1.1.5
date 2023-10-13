@@ -9,7 +9,6 @@ carousels:
   - image: https://user-images.githubusercontent.com/81615397/274208755-36afb6e3-6768-4f7f-851d-7a4376244a06.png
   - image: https://user-images.githubusercontent.com/81615397/274200043-d0684976-1093-45b3-b483-856200f7290f.png
   - image: https://user-images.githubusercontent.com/81615397/274223963-b8ba1c30-fe76-4b91-9feb-529d29374185.png
-  - image: https://user-images.githubusercontent.com/81615397/274223963-b8ba1c30-fe76-4b91-9feb-529d29374185.png
   - image: https://user-images.githubusercontent.com/81615397/274223809-f89b08f2-ea16-4ac4-ae4e-2fac7dedf556.png
   - image: https://user-images.githubusercontent.com/81615397/274193741-577327af-dd8d-4f95-a443-8c623ede1979.png
   - image: https://user-images.githubusercontent.com/81615397/274193679-054afaa2-15ce-4613-9120-5f53045197cc.png
