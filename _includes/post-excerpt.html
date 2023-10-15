@@ -7,8 +7,11 @@
 <div class="post-excerpt">
   {% assign url = post.url %}
   {% assign title = post.title %}
+  {% assign image = post.image %}
 
   <a href="{{ url | relative_url }}">{{ title }}</a>
+
+  <img src="{{ image | relative_url }}" style="height: 100px; float: left;" />
 
   {%
     include post-info.html
@@ -33,4 +36,5 @@
   <p data-search="{{ search }}">
     {{ excerpt }}
   </p>
+  
 </div>
