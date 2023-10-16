@@ -118,7 +118,7 @@ Together, we cultivate an inclusive and stimulating atmosphere that nurtures per
 
 {%
   include feature.html
-  image="https://user-images.githubusercontent.com/81615397/274227617-6b199e15-02a8-4b3d-8ab6-d41546e957ef.jpg"
+  image="https://user-images.githubusercontent.com/81615397/275404031-0f6830ef-a70a-4be3-9728-c301535cf391.JPG"
   link="team"
   title="Our Team"
   text=text
