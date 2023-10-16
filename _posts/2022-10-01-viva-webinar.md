@@ -6,7 +6,11 @@ tags:
 image: https://user-images.githubusercontent.com/81615397/274228205-9499e845-0405-4d7b-b8d8-486e415c378d.png
 ---
 
-Prof. Cheng was invited to deliver educational lecture for VIVA Education Webinar entitled Gut Microbiome and Effects of Cancer Therapy(Video can be found in https://www.youtube.com/watch?v=by-p2mcy6kc). This lecture was well-received from students and healthcare professionals across 30 countries including Singapore, Malaysia, Philippines, and United States. 
+Prof. Cheng was invited to deliver educational lecture for VIVA Education Webinar entitled Gut Microbiome and Effects of Cancer Therapy. 
+
+![]({https://www.youtube.com/watch?v=by-p2mcy6kc})
+
+This lecture was well-received from students and healthcare professionals across 30 countries including Singapore, Malaysia, Philippines, and United States. 
 
 <p align="center" width="50%">
     <img src="https://user-images.githubusercontent.com/81615397/274228205-9499e845-0405-4d7b-b8d8-486e415c378d.png">
