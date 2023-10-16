@@ -1,1 +1,1 @@
-Sitemap: /aclab_website_1.1.5/sitemap.xml
+Sitemap: /sitemap.xml
