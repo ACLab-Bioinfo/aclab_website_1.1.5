@@ -3,6 +3,7 @@ title: Bid farewell to Dr. Zhong Chengpeng
 last_modified_at: ""
 tags: 
   - Farewell
+image: https://user-images.githubusercontent.com/81615397/274228231-a946669d-941a-4c88-a937-7213c721bc2d.jpg
 ---
 
 After three years of fruitful collaboration, our lab bids farewell to Dr. Zhong Chengpeng, a visiting scholar from the Renji hospital affiliated to Shanghai Jiao Tong University School of Medicine.

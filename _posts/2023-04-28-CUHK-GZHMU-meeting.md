@@ -3,6 +3,7 @@ title: Joint CUHK-GZHMU Lab Meeting on 3D Genome
 last_modified_at: ""
 tags: 
   - Meeting
+image: https://user-images.githubusercontent.com/81615397/274228240-96f5eb8c-9bc9-47be-aae0-f9bf0175355e.jpg
 ---
 
 We are happy to have Prof. WANG Jia and his team for a visit and academic communication. We organized a Joint CUHK-GZHMU Lab Meeting on 3D Genome on 28th April. 

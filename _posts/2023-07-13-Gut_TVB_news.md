@@ -4,6 +4,7 @@ author: Forward from TVB news
 last_modified_at: ""
 tags: 
   - News
+image: https://user-images.githubusercontent.com/81615397/274228162-3caea4b4-dbfc-442a-b72e-4933a8fa4e84.png
 ---
 
 中文大學醫學院破解肝癌的免疫耐藥機制，再配合新的免疫療法，能有效消除癌細胞。
