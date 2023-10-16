@@ -156,7 +156,7 @@ Welcome to our lab and get to know our team! Our laboratory members are from dif
 <td markdown="span">2016</td>
 <td markdown="span">SUN Hanyong</td>
 <td markdown="span">Ph.D student</td>
-<td markdown="span">Associate Professor & Attending Doctor, Department of Liver Surgery, Ren Ji Hospital, School of Medicine, Shanghai Jiao Tong University</td>
+<td markdown="span">Associate Professor, Department of Liver Surgery, Ren Ji Hospital, School of Medicine, Shanghai Jiao Tong University</td>
 </tr>
 <tr>
 <td markdown="span">2016</td>
