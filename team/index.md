@@ -314,7 +314,7 @@ Welcome to our lab and get to know our team! Our laboratory members are from dif
 <tbody>
 <tr>
 <td markdown="span">2023</td>
-<td markdown="span">ZHONG Chenpeng</td>
+<td markdown="span">ZHONG Chengpeng</td>
 <td markdown="span">Resident doctor, Department of Liver Surgery, Ren Ji Hospital affiliated to Shanghai Jiao Tong University</td>
 </tr>
 <tr>
