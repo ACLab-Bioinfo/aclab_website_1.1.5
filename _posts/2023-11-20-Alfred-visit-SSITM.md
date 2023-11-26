@@ -1,6 +1,5 @@
 ---
-title: 
-Emeritus Prof. CHO Chi Hin alongside 11 Experts from CUHK visit South Sichuan Institute of Translational Medicine(SSITM)
+title: Emeritus Prof. CHO Chi Hin alongside 11 Experts from CUHK visit South Sichuan Institute of Translational Medicine(SSITM)
 last_modified_at: ""
 tags: 
   - News
