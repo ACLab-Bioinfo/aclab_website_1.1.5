@@ -10,6 +10,12 @@ nav:
   
   {% 
     include figure.html 
+    image="https://user-images.githubusercontent.com/81615397/289416787-a07e6fca-4be1-4762-b1c5-ee9257267d70.JPG?"
+    caption="2023-Celebrating Cheng Lab 10th anniversary"
+  %}
+
+  {% 
+    include figure.html 
     image="https://user-images.githubusercontent.com/81615397/274132817-08ffe67a-7f50-4b29-9742-ab4c007f127d.jpg"
     caption="2023-Happy graduation Dr.Liang and Dr.Chen!"
   %}
