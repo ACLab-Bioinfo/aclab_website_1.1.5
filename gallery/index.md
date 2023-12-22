@@ -10,6 +10,12 @@ nav:
   
   {% 
     include figure.html 
+    image="https://user-images.githubusercontent.com/81615397/292447259-c8bf4bdb-4919-4b14-8096-c8e72d14be33.JPG"
+    caption="2023-Christmas gift exchange"
+  %}
+
+  {% 
+    include figure.html 
     image="https://user-images.githubusercontent.com/81615397/289416787-a07e6fca-4be1-4762-b1c5-ee9257267d70.JPG?"
     caption="2023-Celebrating Cheng Lab 10th anniversary"
   %}
@@ -47,7 +53,7 @@ nav:
   {%
     include figure.html
     image="https://user-images.githubusercontent.com/81615397/274132857-f32a91df-20f6-40f9-82f5-d686f3d7551d.jpg"
-    caption="2022-Christmas gift exchanges"
+    caption="2022-Christmas gift exchange"
   %}
 
   {%
