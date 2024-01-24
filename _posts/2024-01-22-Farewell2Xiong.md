@@ -14,5 +14,6 @@ Dr. Xiong has always been an inspiring lab member and bring a lot of fun and hap
 
 <p align="center" width="95%">
     <img width="49%" src="https://user-images.githubusercontent.com/81615397/299239436-a0fa6b7d-ea38-44ae-89b2-cc4a2e8105a8.JPG">
-    <img width="49%" src="https://user-images.githubusercontent.com/81615397/299239545-43924a65-a335-45cb-a105-3c34e9824468.JPG">
+    <img width="49%" src="https://user-images.githubusercontent.com/81615397/299254489-8cf0f161-2e02-4888-9296-9c7ccff2386e.JPG">
 </p>
+
