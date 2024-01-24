@@ -57,6 +57,12 @@ Welcome to our lab and get to know our team! Our laboratory members are from dif
 </thead>
 <tbody>
 <tr>
+<td markdown="span">2024</td>
+<td markdown="span">XIONG Zhewen</td>
+<td markdown="span">Ph.D student and Post-doctoral Fellow</td>
+<td markdown="span">Post-doctoral Fellow, Stanford University</td>
+</tr>
+<tr>
 <td markdown="span">2023</td>
 <td markdown="span">LIANG Zhixian</td>
 <td markdown="span">Ph.D student</td>
@@ -221,6 +227,12 @@ Welcome to our lab and get to know our team! Our laboratory members are from dif
 </tr>
 </thead>
 <tbody>
+<tr>
+<td markdown="span">2024</td>
+<td markdown="span">Willis Wai-Yiu Si-Tou</td>
+<td markdown="span">Junior Research Assistant</td>
+<td markdown="span">The University of Melbourne</td>
+</tr>
 <tr>
 <td markdown="span">2023</td>
 <td markdown="span">CHENG Yuk Lam Gareth</td>
