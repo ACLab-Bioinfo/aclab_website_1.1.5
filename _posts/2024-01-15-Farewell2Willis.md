@@ -1,5 +1,5 @@
 ---
-title: Bid farewell to Willis
+title: Farewell and best wishes to Willis as he embarks on veterinary journey!
 last_modified_at: ""
 tags: 
   - Farewell
