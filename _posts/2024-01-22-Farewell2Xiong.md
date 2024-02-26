@@ -3,7 +3,7 @@ title: Farewell to Dr. Xiong Zhewen, recognizing a brilliant researcher's next c
 last_modified_at: ""
 tags: 
   - Farewell
-image: https://user-images.githubusercontent.com/81615397/300323093-44704de0-0f26-4724-a042-090c5f42473e.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDY0OTc5MTQsIm5iZiI6MTcwNjQ5NzYxNCwicGF0aCI6Ii84MTYxNTM5Ny8zMDAzMjMwOTMtNDQ3MDRkZTAtMGYyNi00NzI0LWEwNDItMDkwYzVmNDI0NzNlLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTI5VDAzMDY1NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZmNTVlZDNiNzIwMjVmYzRkNWM5MTkzZjQ5ZTE1YmI4MDY0Y2NjZmMzNjQ2NDYxYjI2ZTJiODFmZGRiZmU1ODEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.zCSek7tZc8lKlG2BdBkcy-ITdeo6MruC2yIUWUG_H6M
+image: https://github.com/ACLab-Bioinfo/aclab_website_1.1.5/assets/81615397/44704de0-0f26-4724-a042-090c5f42473e
 ---
 
 It is with mixed emotions that we bid farewell to Dr. Xiong Zhewen, a remarkable member of our lab, as she embarks on an exciting new chapter in her academic career at Stanford University.
@@ -13,7 +13,7 @@ Dr. Xiong has made significant contributions to our research endeavors during he
 Dr. Xiong has always been an inspiring lab member and bring a lot of fun and happiness to us. As she embarks on a new adventure, we wholeheartedly congratulate her on this remarkable achievement and wish her all the best in her future endeavors! We will miss you and let's meet in U.S.! 
 
 <p align="center" width="95%">
-    <img width="49%" src="https://user-images.githubusercontent.com/81615397/300323093-44704de0-0f26-4724-a042-090c5f42473e.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDY0OTc5MTQsIm5iZiI6MTcwNjQ5NzYxNCwicGF0aCI6Ii84MTYxNTM5Ny8zMDAzMjMwOTMtNDQ3MDRkZTAtMGYyNi00NzI0LWEwNDItMDkwYzVmNDI0NzNlLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTI5VDAzMDY1NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZmNTVlZDNiNzIwMjVmYzRkNWM5MTkzZjQ5ZTE1YmI4MDY0Y2NjZmMzNjQ2NDYxYjI2ZTJiODFmZGRiZmU1ODEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.zCSek7tZc8lKlG2BdBkcy-ITdeo6MruC2yIUWUG_H6M">
-    <img width="49%" src="https://private-user-images.githubusercontent.com/81615397/300323121-ea3e4c26-64ed-476a-ae35-381a710d2d6e.jpg?jwt%253DeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDY0OTc5MTQsIm5iZiI6MTcwNjQ5NzYxNCwicGF0aCI6Ii84MTYxNTM5Ny8zMDAzMjMxMjEtZWEzZTRjMjYtNjRlZC00NzZhLWFlMzUtMzgxYTcxMGQyZDZlLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTI5VDAzMDY1NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWExNzUwMDc5ZDNjMWE5YTgxM2M5ZjljNDg2NjNjNGUxYjQxYWM1NGExNjdhNjBhMjE5OTI1MmYxOGQzZmRjYmUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.7ZXqMyBlZZ-eayZXoxesSndDr9f7V-eGhWRHBCbCDJ0">
+    <img width="49%" src="https://github.com/ACLab-Bioinfo/aclab_website_1.1.5/assets/81615397/44704de0-0f26-4724-a042-090c5f42473e">
+    <img width="49%" src="https://github.com/ACLab-Bioinfo/aclab_website_1.1.5/assets/81615397/ea3e4c26-64ed-476a-ae35-381a710d2d6e">
 </p>
 
