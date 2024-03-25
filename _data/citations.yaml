@@ -1301,19 +1301,6 @@
   orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.3978/j.issn.2304-3881.2014.02.07
-  title: Dissecting the pleiotropic actions of HBx mutants against hypoxia in hepatocellular
-    carcinoma
-  authors:
-  - Ying-Ying Lee
-  - Myth T. S. Mok
-  - Alfred Sze-Lok Cheng
-  publisher: Hepatobiliary Surgery and Nutrition
-  date: '2014-04-01'
-  link: https://doi.org/gr2rws
-  orcid: 0000-0003-2345-6951
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1136/gutjnl-2013-305584
   title: Cell cycle-related kinase mediates viral-host signalling to promote hepatitis
     B virus-associated hepatocarcinogenesis
