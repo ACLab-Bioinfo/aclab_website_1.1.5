@@ -2,7 +2,7 @@
 title: Joint CUHK-GZHMU Lab Meeting on 3D Genome
 last_modified_at: ""
 tags: 
-  - Meeting
+  - News
 image: https://user-images.githubusercontent.com/81615397/274228240-96f5eb8c-9bc9-47be-aae0-f9bf0175355e.jpg
 ---
 
