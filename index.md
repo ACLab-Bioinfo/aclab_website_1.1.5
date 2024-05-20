@@ -126,3 +126,8 @@ Together, we cultivate an inclusive and stimulating atmosphere that nurtures per
 
 {% include section.html %}
 
+{%
+  include feature.html
+  image="images/recruiting_banner.png"
+  link="opportunity"
+%}

@@ -6,19 +6,15 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Opportunities
 
-We seek highly-motivated individuals to join our lab! We have multiple positions available at different levels:​
-* PhD Student
-* Postdoctoral Researcher
-* Research Assistant
-* Visiting Scholar
+Our team is interested in investigating the mechanism of liver cancer immunotherapy resistance. We are currently recruiting **two postdoctoral fellows** to join us in this exciting research endeavor.
 
-Applicants should have/be 
-1. preferably has a Master’s degree in Biology, Biochemistry, Immunology, Life Sciences or related fields; 
-2. preferably at least one year of experience in immunology, metabolomics, bioinformatics, molecular biology research, and/or animal experiment; 
-3. an excellent command of spoken and written English and Chinese (Cantonese or Putonghua); 
-4. a team player and willing to work independently.
+The first position is open to candidates with a PhD degree in Biomedical Sciences or related disciplines. We are looking for individuals with solid experience in immunology, cell biology, single-cell experiments, animal studies, and molecular biology. They should be self-motivated, with good problem-solving and communication skills. Their main responsibilities will include designing and conducting in vitro and in vivo experiments, assisting with experimental troubleshooting, generating data for grant applications, and preparing manuscripts for publication.
 
-We give careful, individual attention to each applicant. If you’re interested in joining us, please email **cover letter, CV, and two letters of reference** to Prof. Cheng.
+The second position is open to candidates with a PhD degree in Bioinformatics or Biomedical Sciences. We are looking for individuals with strong experience in analyzing single-cell RNA and single-cell ATAC data. Relevant experience in analyzing multi-omic data from clinical samples, as well as wet lab techniques such as cell biology, animal studies, and molecular biology, will be an advantage. Their primary duties will involve analyzing multi-omic data, including single-cell and spatial transcriptomics, to elucidate the mechanism of liver cancer immunotherapy resistance, assisting with data analysis troubleshooting, and generating data for grant applications and manuscript preparation.
+
+We welcome interested candidates to reach out to me directly at alfredcheng@cuhk.edu.hk and to discuss the positions and the research in more details.
+
+_Posted on 20 May, 2024_
 
 ---
 
