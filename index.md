@@ -16,6 +16,7 @@ As <big>*E*</big>pigenetics and <big>*T*</big>herapeutics in <big>*I*</big>mmuno
 
 {% include section.html %}
 
+{% include figure.html image="images/recruiting_banner.png" width="70%" link="opportunity" %}
 
 ## **Meet our PI**
 
@@ -125,6 +126,3 @@ Together, we cultivate an inclusive and stimulating atmosphere that nurtures per
 %}
 
 {% include section.html %}
-
-
-{% include figure.html image="images/recruiting_banner.png" width="70%" link="opportunity" %}
