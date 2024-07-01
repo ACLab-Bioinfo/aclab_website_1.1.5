@@ -130,10 +130,10 @@
   authors:
   - Jinglin Zhang
   - Yuhang Zhou
-  - Patrick Tang
-  - Alfred Cheng
+  - Patrick M.K. Tang
+  - Alfred S.L. Cheng
   - Jun Yu
-  - Ka To
+  - Ka Fai To
   - Wei Kang
   publisher: International Journal of Molecular Sciences
   date: '2019-03-29'
@@ -1117,7 +1117,7 @@
   file: orcid.yaml
 - id: doi:10.1158/0008-5472.CAN-14-1301
   title: "Epigenetic Silencing of miR-490-3p Reactivates the Chromatin Remodeler SMARCD1\
-    \ to Promote <i>Helicobacter pylori</i>\u2013Induced Gastric Carcinogenesis"
+    \ to Promote<i>Helicobacter pylori</i>\u2013Induced Gastric Carcinogenesis"
   authors:
   - Jing Shen
   - Zhangang Xiao
