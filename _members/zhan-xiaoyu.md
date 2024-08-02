@@ -1,8 +1,8 @@
 ---
 name: ZHAN Xiaoyu
-image: https://user-images.githubusercontent.com/81615397/274185909-4ee1599c-7dbd-4d1a-8bb5-7c71d62c90e0.jpg
+image: https://github.com/user-attachments/assets/4d45901f-9de1-4d04-b386-819d7ea291b9
 role: phd
-description: Year 1 PhD Student
+description: Year 2 PhD Student
 aliases:
   - Xiaoyu ZHAN
   - ZHAN Xiaoyu

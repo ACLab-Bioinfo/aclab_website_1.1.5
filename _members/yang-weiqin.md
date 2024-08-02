@@ -1,6 +1,6 @@
 ---
 name: Dr. YANG Weiqin
-image: https://user-images.githubusercontent.com/81615397/274185844-c9a02f34-94a5-41cb-847a-a700a52d324e.png
+image: https://github.com/user-attachments/assets/f373f4ca-eee2-4e43-8a05-ba6622d29dcb
 role: res
 description: Research Associate
 aliases:

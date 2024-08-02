@@ -1,6 +1,6 @@
 ---
 name: Tsang Yuk Wah Charmaine
-image: https://user-images.githubusercontent.com/81615397/274185179-0bd2a7ab-bb79-46d9-a2b5-68264519155f.JPG
+image: https://github.com/user-attachments/assets/d5394691-2e92-48c8-9ff7-f0709387bbf4
 role: undergrad
 description: Research intern
 ---

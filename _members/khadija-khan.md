@@ -1,6 +1,6 @@
 ---
 name: KHAN, Khadija Shahed
-image: https://user-images.githubusercontent.com/81615397/274185782-59bd08e2-fed2-4922-94a0-25b4b814ee4a.jpg
+image: https://github.com/user-attachments/assets/2417b3d2-ead2-494c-be54-1e6057245952
 role: phd
 description: PhD Student joint/w Prof. NG Wai-lung, Billy
 aliases:

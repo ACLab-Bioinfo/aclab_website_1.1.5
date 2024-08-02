@@ -1,8 +1,8 @@
 ---
 name: ZHANG Yiling
-image: https://user-images.githubusercontent.com/81615397/274185892-76f5662f-f7a3-4110-8b27-e4eed3894847.JPG
+image: https://github.com/user-attachments/assets/73590a3e-e58a-4949-9f6e-40cb240f6f0e
 role: phd
-description: Year 2 PhD Student
+description: Year 3 PhD Student
 links:
   github: hiiiyilingzhang
 aliases:

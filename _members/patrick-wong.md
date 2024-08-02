@@ -1,6 +1,6 @@
 ---
 name: WONG Pak Chun Patrick
-image: https://user-images.githubusercontent.com/81615397/274185775-ef8994dc-06b0-4ac1-a6fb-51ea33085599.png
+image: https://github.com/user-attachments/assets/522a826a-b9f2-4dbd-8712-496cd696c2a1
 role: phd
 description: Year 4 PhD Student
 aliases:

@@ -1,6 +1,6 @@
 ---
 name: Dr. LONG Xiaohang
-image: https://user-images.githubusercontent.com/81615397/274185791-5c36572d-bec2-4657-bbb7-8edc825fbfa0.jpg
+image: https://github.com/user-attachments/assets/b857f412-e1a7-44d6-b518-e57e572a2c49
 role: res
 description: Research Assistant Professor
 aliases:

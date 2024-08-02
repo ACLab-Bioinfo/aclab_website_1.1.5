@@ -1,6 +1,6 @@
 ---
 name: WU Haoran
-image: https://user-images.githubusercontent.com/81615397/274185817-c6828dd4-7d25-47f2-ab8d-a08a0690d4b1.png
+image: https://github.com/user-attachments/assets/4d0e34e4-3313-4264-b152-e99a738af0d3
 role: phd
 description: Year 4 PhD Student
 aliases:

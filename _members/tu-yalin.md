@@ -1,6 +1,6 @@
 ---
 name: Dr. TU Yalin
-image: https://user-images.githubusercontent.com/81615397/274185811-e0e110b9-f9c6-4b4a-86c4-7d032156a07e.png
+image: https://github.com/user-attachments/assets/4876e293-72e9-4a23-9051-7419566b2475
 role: postdoc
 aliases:
   - Tu Yalin

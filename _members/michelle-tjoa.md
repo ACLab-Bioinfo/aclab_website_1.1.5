@@ -1,5 +1,5 @@
 ---
 name: Michelle Agatha Tjoa
-image: https://user-images.githubusercontent.com/81615397/274233167-0fcb1adb-545c-47fe-b9ee-5c83b013e4c3.jpeg
+image: https://github.com/user-attachments/assets/e88cb2fa-8f08-48cd-99c4-affe97c922d3
 role: undergrad
 ---

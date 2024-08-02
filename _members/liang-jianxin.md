@@ -1,6 +1,6 @@
 ---
 name: Dr. LIANG Jianxin
-image: https://user-images.githubusercontent.com/81615397/274185618-1faf9239-0f01-4cc1-b3d9-e2e401eb2838.jpeg
+image: https://github.com/user-attachments/assets/aefa30b5-0a75-4594-8b3f-6eab20c93733
 role: staff
 aliases:
   - Jianxin Liang

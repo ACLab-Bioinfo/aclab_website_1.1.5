@@ -1,5 +1,5 @@
 ---
 name: Kwok Yip Ching Sunnie
-image: https://user-images.githubusercontent.com/81615397/274233194-6fad788c-f64d-42b6-a0fd-29491615efb5.jpeg
+image: https://github.com/user-attachments/assets/01f3ff08-1445-4b01-b0a3-f82f208681a1
 role: undergrad
 ---

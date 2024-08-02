@@ -1,8 +1,8 @@
 ---
 name: YIN Baoyi
-image: https://user-images.githubusercontent.com/81615397/274185851-72734f9f-5727-4656-925e-fb50cea42f45.png
+image: https://github.com/user-attachments/assets/c7d2d798-0e5e-42c3-ac45-8e7e738fa7f1
 role: phd
-description: Year 1 PhD Student
+description: Year 2 PhD Student
 aliases:
   - Baoyi Yin
   - Yin Baoyi

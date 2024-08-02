@@ -1,6 +1,6 @@
 ---
 name: Dr. LIANG Zhixian
-image: https://user-images.githubusercontent.com/81615397/274185691-38071d47-5504-4ae0-b05d-cb6f2fb5baeb.png
+image: https://github.com/user-attachments/assets/8d0ae3dd-f650-441b-949e-30fd80903c72
 role: postdoc
 aliases:
   - Zhixian Liang
