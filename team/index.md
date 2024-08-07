@@ -60,7 +60,7 @@ Welcome to our lab and get to know our team! Our laboratory members are from dif
 <td markdown="span">2024</td>
 <td markdown="span">ZHANG Lingyun</td>
 <td markdown="span">Ph.D student</td>
-<td markdown="span">, Guangdong Provincial People's Hospital</td>
+<td markdown="span">Surgical Resident, Guangdong Provincial People's Hospital</td>
 </tr>
 <tr>
 <td markdown="span">2024</td>
@@ -109,12 +109,6 @@ Welcome to our lab and get to know our team! Our laboratory members are from dif
 <td markdown="span">FENG Yu</td>
 <td markdown="span">Ph.D student</td>
 <td markdown="span">Scientist (Junior), BGI-Shenzhen</td>
-</tr>
-<tr>
-<td markdown="span">2020</td>
-<td markdown="span">XIONG Zhewen</td>
-<td markdown="span">Ph.D student</td>
-<td markdown="span">Post-doctoral Fellow, School of Biomedical Sciences, CUHK</td>
 </tr>
 <tr>
 <td markdown="span">2019</td>
