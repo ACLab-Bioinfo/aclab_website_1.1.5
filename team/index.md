@@ -58,6 +58,12 @@ Welcome to our lab and get to know our team! Our laboratory members are from dif
 <tbody>
 <tr>
 <td markdown="span">2024</td>
+<td markdown="span">ZHANG Lingyun</td>
+<td markdown="span">Ph.D student</td>
+<td markdown="span">, Guangdong Provincial People's Hospital</td>
+</tr>
+<tr>
+<td markdown="span">2024</td>
 <td markdown="span">XIONG Zhewen</td>
 <td markdown="span">Ph.D student and Post-doctoral Fellow</td>
 <td markdown="span">Post-doctoral Fellow, Stanford University</td>
