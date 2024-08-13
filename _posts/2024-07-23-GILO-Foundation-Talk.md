@@ -1,5 +1,5 @@
 ---
-title: Prof. Alfred Cheng was invitated to speak at Gilo Foundation Research Institute seminar
+title: Prof. Alfred Cheng was Invitated to Speak at Gilo Foundation Research Institute Seminar
 last_modified_at: ""
 tags: 
   - News

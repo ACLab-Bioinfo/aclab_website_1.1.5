@@ -1,5 +1,5 @@
 ---
-title: Prof. Alfred Cheng was invitated as a speaker and panelist at the APPLE Academic 2024
+title: Prof. Alfred Cheng was Invitated as a Speaker and Panelist at the APPLE Academic 2024
 last_modified_at: ""
 tags: 
   - News
