@@ -10,13 +10,13 @@ nav:
   
   {% 
     include figure.html 
-    image="https://github.com/user-attachments/assets/cc6000f0-646f-410f-b01e-f9b267898403"
+    image="https://github.com/user-attachments/assets/f6bd45d3-ed43-4aba-b2b7-1d6b0b436cab"
     caption="2024-Farewell summer interns, Zara and Chung-yan!"
   %}
 
   {% 
     include figure.html 
-    image="https://github.com/user-attachments/assets/6e499bd8-343a-45f9-aa37-eba3ca06da19"
+    image="https://github.com/user-attachments/assets/7220502d-e2c5-4307-9d4f-9c313571b945"
     caption="2024-Happy graduation. Dr.Zhang!"
   %}
 
