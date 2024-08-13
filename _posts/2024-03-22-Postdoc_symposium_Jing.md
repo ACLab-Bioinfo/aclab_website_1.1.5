@@ -13,7 +13,7 @@ The event provided a valuable platform to bring together postdoctoral fellows fr
 
 <p align="center" width="95%">
     <img width="49%" src="https://www.sbs.cuhk.edu.hk/enewsletter/2024vol14no2/_custom/edm-image/JPBSS1.jpg">
-    <img width="49%" src="https://github.com/user-attachments/assets/51812d23-e1d3-4b45-8210-f87e1b726438">
+    <img width="49%" src="https://github.com/user-attachments/assets/af7df85c-a2b1-492e-8df1-e51f7f068c7d">
 </p>
 
 For more details, please refer to SBS news [here](https://www.sbs.cuhk.edu.hk/enewsletter/2024vol14no2/page.php?l=en&p=JPBSS).
