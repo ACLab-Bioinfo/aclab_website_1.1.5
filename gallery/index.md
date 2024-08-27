@@ -10,8 +10,8 @@ nav:
   
   {% 
     include figure.html 
-    image="https://github.com/user-attachments/assets/f6bd45d3-ed43-4aba-b2b7-1d6b0b436cab"
-    caption="2024-Farewell summer interns, Zara and Chung-yan!"
+    image="https://github.com/user-attachments/assets/6a51dba3-32d5-46d8-bbe5-177a34ee76cb"
+    caption="2024-Bowling time"
   %}
 
   {% 
