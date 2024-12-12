@@ -10,6 +10,12 @@ nav:
   
   {% 
     include figure.html 
+    image="https://github.com/user-attachments/assets/c20d678b-4cba-4fd7-968a-1b22797e0659"
+    caption="2024-Happy to have you back, Willis!"
+  %}
+
+  {% 
+    include figure.html 
     image="https://github.com/user-attachments/assets/6a51dba3-32d5-46d8-bbe5-177a34ee76cb"
     caption="2024-Bowling time"
   %}
