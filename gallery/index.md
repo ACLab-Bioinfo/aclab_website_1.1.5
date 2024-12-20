@@ -11,7 +11,7 @@ nav:
   {% 
     include figure.html 
     image="https://github.com/user-attachments/assets/9a5c166f-c4a2-4862-8b94-6439b3b73af4"
-    caption="2024-Christmas gift exchange"
+    caption="2024-Christmas gift exchange together with Zhou Lab and Tong Lab"
   %}
   
   {% 
