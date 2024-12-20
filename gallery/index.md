@@ -7,10 +7,16 @@ nav:
 # {% include icon.html icon="fa-solid fa-image-polaroid" %}Gallery
 
 {% capture content %}
+
+  {% 
+    include figure.html 
+    image="https://github.com/user-attachments/assets/9a5c166f-c4a2-4862-8b94-6439b3b73af4"
+    caption="2024-Christmas gift exchange"
+  %}
   
   {% 
     include figure.html 
-    image="https://github.com/user-attachments/assets/c20d678b-4cba-4fd7-968a-1b22797e0659"
+    image="https://github.com/user-attachments/assets/123e2220-a793-4506-adb0-74a9bd172581"
     caption="2024-Happy to have you back, Willis!"
   %}
 
@@ -22,7 +28,7 @@ nav:
 
   {% 
     include figure.html 
-    image="https://github.com/user-attachments/assets/7220502d-e2c5-4307-9d4f-9c313571b945"
+    image="https://github.com/user-attachments/assets/eee81973-7720-480f-859b-0fa17afd7ef1"
     caption="2024-Happy graduation. Dr.Zhang!"
   %}
 
