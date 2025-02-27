@@ -22,14 +22,17 @@ Alfred Cheng is a Professor of the School of Biomedical Sciences and Assistant D
 
 ## CUHK Employment
 * Assistant Dean (Research), Faculty of Medicine  
-* Professor, School of Biomedical Sciences  
-* Chief, Cancer Biology and Experimental Therapeutics Theme, School of Biomedical Sciences  
+* Professor, School of Biomedical Sciences, New Asia  
+* Theme Chief, Cancer Biology and Experimental Therapeutics Theme, School of Biomedical Sciences  
 
 ## Honors and Awards
+* Top 10 Innovation and Technology News, Hong Kong 2023, Beijing-Hong Kong Academic Exchange Centre, 2024  
 * 10th Health and Medical Research Fund Anniversary Award in Breakthrough Research, Food and Health Bureau, The Government of Hong Kong SAR, 2021  
-* CUHK Young Researcher Award, The Chinese University of Hong Kong, 2015, 2020  
+* CUHK Young Researcher Award 2019, The Chinese University of Hong Kong, 2020  
+* Experts Panel for Ministry of Science and Technology of China, People Republic of China, 2018
 * Visiting Professorship, Southwest Medical University, 2018  
 * Asa Briggs Visiting Fellowship, University of Sussex, 2017   
+* CUHK Young Researcher Award 2014, The Chinese University of Hong Kong, 2015  
 * Most Promising Young Investigator Award, Food and Health Bureau, The Government of Hong Kong SAR, 2014  
 * High-impact Scholarship, The Chinese University of Hong Kong, 2012  
 * Research Excellence Award, The Chinese University of Hong Kong, 2012  
@@ -41,29 +44,31 @@ Alfred Cheng is a Professor of the School of Biomedical Sciences and Assistant D
 
 
 ## Professional Service
-* Experts Panel for Ministry of Science and Technology of China, People's Republic of China
-* Founding Chairman and Council Member, Japan-Taiwan-Hong Kong Working Group on Cancer Epigenomics
-* Founding Member: South China Liver Tumor (START) Working Group
-* Executive Committee Member, Hong Kong Cancer Institute
-* Panel Member, Hong Kong Research Grants Council Joint Research Scheme
-* Panel Member, Hong Kong Research Grants Council Hong Kong PhD Fellowship Scheme
-* Panel Member, Hong Kong Research Grants Council Postdoctoral Fellowship Scheme
-* Panel Member, Health and Medical Research Fund, Hong Kong
-* Council Member, Hong Kong Society for Immunology
-* Member, The Hong Kong Epigenomics Project (EpiHK)
-* Member, Society of Hong Kong Scholars
-* Member, American Association for Cancer Research
-* Associate Editor, Cancers
-* Associate Editor, Frontiers in Genetics
-* Editorial Board Member, Cellular & Molecular Immunology
-* Guest Editor, Journal of Leukocyte Biology
+* Member, International Liver Cancer Association (ILCA)  
+* Founding Member: South China Liver Tumor (START) Working Group  
+* Member, The Hong Kong Epigenomics (EpiHK) Consortium  
+* Council member, Hong Kong Society for Immunology  
+* Founding chairman and council member, Japan-Taiwan-HK Working Group on Cancer Epigenomics  
+* Member, Society of Hong Kong Scholars  
+* Member, American Association for Cancer Research  
+* Member, Sigma Xi (Ohio State University Chapter)  
+
+
+## Editorship
+* Associate Editor, Tumor Discovery, 01/2023 - Present  
+* Editorial Board Member, Cellular & Molecular Immunology, 01/2023 - Present  
+* Guest Editor, Journal of Leukocyte Biology, 01/2020 - Present  
+* Associate Editor, Cancers, 01/2019 – Present  
+* Associate Editor, Frontiers in Genetics, 01/2016-01 – Present  
+* Associate Editor, Frontiers in Cell and Developmental Biology, 01/2016-01 – Present  
 
 
 ## Research Support
-Supported by 36 competitive research grants in PC/PI/co-PI capacity (including 1TBRS/ 4CRF/ 1RIF/ 6GRF/ 6RFCID/ HMRF/ 1NSFC/ 3AstraZeneca Program/ Terry Fox Foundation/ Li Ka Shing Foundation): ~HK$113,500,000.
+Supported by 37 competitive research grants in PC/PI/co-PI capacity (total funding: >HK$118M)
 
 *Selected grant record in cancer immunology and cancer epigenetics:*
-* PI, National Natural Science Foundation of China (NSFC)/RGC Joint Research Scheme (JRS), Mechanistic basis and therapeutic targeting of pathologic phase separation and aberrant genome architecture for cancer immunotherapy (HK$ 1,250,000), 2024 - 2027
+* PI, General Research Fund, The role of endothelial cell remodeling in driving immunotherapy resistance of hepatocellular carcinoma (HK$ 1,500,000), 2025 - 2028.  
+* PI, National Natural Science Foundation of China (NSFC)/RGC Joint Research Scheme (JRS), Mechanistic basis and therapeutic targeting of pathologic phase separation and aberrant genome architecture for cancer immunotherapy (HK$ 1,250,000), 2024 - 2027.  
 * PI, Research Grants Council, General Research Fund, The role of macrophage lipid transfer in driving immunotherapy resistance of hepatocellular carcinoma cells (HK$ 1,500,000), 2024 – 2026.
 * PI, Li Ka Shing (Canada) Foundation, A pilot study of personalized cancer treatment for cancers in the digestive system (HK$7,011,109) 2023 – 2025.  
 * PI, Research Grants Council, General Research Fund, Targeting epigenetic vulnerability in immunosuppressive myeloid cells to overcome immunotherapy resistance in hepatocellular carcinoma (HK$1,170,652) 2022 – 2023.
